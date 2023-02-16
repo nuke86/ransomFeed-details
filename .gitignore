@@ -1,0 +1,11 @@
+.venv
+**.log
+.vscode/*
+**.DS_Store
+__pycache__
+**.python*
+**settings.json
+source/linkanalysis/**
+assets/tmp/**
+*.ORIG
+dev*.*

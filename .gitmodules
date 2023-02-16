@@ -1,0 +1,3 @@
+[submodule "docs/ransomware_notes"]
+	path = docs/ransomware_notes
+	url = https://github.com/threatlabz/ransomware_notes
