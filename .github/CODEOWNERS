@@ -1,0 +1,14 @@
+**.py                @JMousqueton
+**.sh                @JMousqueton
+**.md                @JMousqueton
+**.zsh               @JMousqueton
+**.txt               @JMousqueton
+**.exclusions        @JMousqueton
+/docs/CNAME          @JMousqueton
+/docs/index.html     @JMousqueton
+/.github/            @JMousqueton
+/docs/               @ghost
+/source/             @ghost
+posts.json           @ghost
+groups.json          @ghost
+*                    @ghost
