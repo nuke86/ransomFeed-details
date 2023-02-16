@@ -1,0 +1,60 @@
+name: ransomwatch
+
+on:
+  schedule:
+    - cron: '7 */2 * * *'
+  workflow_dispatch:
+
+# to consider: the use of action jobs to breakout each task
+# https://docs.github.com/en/actions/learn-github-actions/essential-features-of-github-actions#sharing-data-between-jobs
+
+jobs:
+  run-ransomwatch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 170
+    environment: CI
+    services:
+      torproxy:
+        image: ghcr.io/jmousqueton/ransomwatch/torproxy:latest
+        ports:
+        - 9050:9050
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: |
+          pip3 install -r requirements.txt
+          playwright install
+      - name: Run scraper
+        run: |
+          python3 ransomwatch.py scrape
+      - name: Run parser
+        env: 
+          # DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          # MS_TEAMS_WEBHOOK: ${{ secrets.MS_TEAMS_WEBHOOK }}
+          # TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          # TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+          # TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+          # TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+          PUSH_API: ${{ secrets.PUSH_API }}
+          PUSH_USER: ${{ secrets.PUSH_USER }}
+        run: |
+          python3 ransomwatch.py parse
+      - name: Update crypto wallet 
+        run: |
+          python3 addcrypto.py
+      - name: Generate markdown & graphs for docsify
+        run: |
+          python3 ransomwatch.py markdown
+      - name: Generate RSS Feed
+        run: |
+          python3 generateRSS.py
+      - name: Save changes
+        # git config --global user.email "jmousqueton@users.noreply.github.com"
+        # git config --global user.name "Julien"
+        run: |  
+          DATE=$(date -Iseconds)
+          git config user.name github-actions
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git commit --all --message "Updated by Crontab on $DATE" || echo "no changes to commit" 
+          git push
