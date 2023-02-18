@@ -11,8 +11,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Chat | 🟢 | 18/02/2023 04:58 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` | ❌ | 
-| Magazine | 🔴 | 18/02/2023 02:05 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` | ❌ | 
+| Chat | 🟢 | 18/02/2023 06:42 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` | ❌ | 
+| Magazine | 🟢 | 18/02/2023 06:42 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` | ❌ | 
 | none | 🔴 | 01/05/2021 00:00 | `http://karaleaks.com` | ❌ | 
 
 ### Crypto wallets
@@ -73,4 +73,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 18/02/2023 05.33 (UTC)_
+Last update : _Saturday 18/02/2023 07.18 (UTC)_

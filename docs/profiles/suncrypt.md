@@ -16,7 +16,7 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| News | 🟢 | 18/02/2023 05:26 | `http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` | ❌ | 
+| News | 🟢 | 18/02/2023 07:12 | `http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` | ❌ | 
 | none | 🔴 | 01/05/2021 00:00 | `http://nbzzb6sa6xuura2z.onion` | ❌ | 
 
 ### Crypto wallets
@@ -63,4 +63,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 18/02/2023 05.33 (UTC)_
+Last update : _Saturday 18/02/2023 07.18 (UTC)_

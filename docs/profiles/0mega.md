@@ -8,8 +8,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| 0mega - Blog | 🟢 | 18/02/2023 04:40 | `http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion` | ❌ | 
-| 0mega - Blog | 🔴 | 18/02/2023 01:50 | `http://0mega.cc` | ❌ | 
+| 0mega - Blog | 🔴 | 18/02/2023 04:40 | `http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion` | ❌ | 
+| 0mega - Blog | 🟢 | 18/02/2023 06:27 | `http://0mega.cc` | ❌ | 
 
 ### Posts
 
@@ -25,4 +25,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 18/02/2023 05.33 (UTC)_
+Last update : _Saturday 18/02/2023 07.18 (UTC)_

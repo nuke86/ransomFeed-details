@@ -15,7 +15,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://rgleak7op734elep.onion` | ❌ | 
-| Home Page of Ragnar_Locker Leaks site | 🟢 | 18/02/2023 05:20 | `http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` | ❌ | 
+| Home Page of Ragnar_Locker Leaks site | 🟢 | 18/02/2023 07:06 | `http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` | ❌ | 
 | none | 🔴 | 01/05/2021 00:00 | `http://p6o7m73ujalhgkiv.onion` | ❌ | 
 
 ### Crypto wallets
@@ -125,4 +125,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 18/02/2023 05.33 (UTC)_
+Last update : _Saturday 18/02/2023 07.18 (UTC)_

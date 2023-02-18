@@ -18,7 +18,7 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| News | 🔴 | 18/02/2023 02:34 | `http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` | ❌ | 
+| News | 🟢 | 18/02/2023 07:12 | `http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` | ❌ | 
 | Access Denied | 🔴 | 29/01/2023 17:17 | `http://snatch.press` | ❌ | 
 
 ### Posts
@@ -98,4 +98,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 18/02/2023 05.33 (UTC)_
+Last update : _Saturday 18/02/2023 07.18 (UTC)_
