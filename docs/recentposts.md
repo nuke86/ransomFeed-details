@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-18 | [`piercetransit.org`](https://google.com/search?q=piercetransit.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`AP Emissions Technologies`](https://google.com/search?q=AP+Emissions+Technologies) | [medusa](profiles.md?id=medusa) |
 | 2023-02-18 | [`myerspower.com`](https://google.com/search?q=myerspower.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`vissan.com.vn`](https://google.com/search?q=vissan.com.vn) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2023-01-26 | [`CHARLES P VONDERHAAR CPA WAS HACKED. MORE TNAH 50GB SENSETIVE DATA LEAKED.CHARLES P VONDER`](https://google.com/search?q=CHARLES+P+VONDERHAAR+CPA+WAS+HACKED.+MORE+TNAH+50GB+SENSETIVE+DATA+LEAKED.CHARLES+P+VONDER) | [alphv](profiles.md?id=alphv) |
 | 2023-01-26 | [`IOC`](https://google.com/search?q=IOC) | [royal](profiles.md?id=royal) |
 | 2023-01-26 | [`ServiceMaster`](https://google.com/search?q=ServiceMaster) | [royal](profiles.md?id=royal) |
-| 2023-01-26 | [`SOLAR INDUSTRIES INDIA WAS HACKED. MORE THAN 2TB SECRET MILITARY DATA LEAKED`](https://google.com/search?q=SOLAR+INDUSTRIES+INDIA+WAS+HACKED.+MORE+THAN+2TB+SECRET+MILITARY+DATA+LEAKED) | [alphv](profiles.md?id=alphv) |
 
-Last update : _Saturday 18/02/2023 02.41 (UTC)_
+Last update : _Saturday 18/02/2023 05.33 (UTC)_

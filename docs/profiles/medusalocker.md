@@ -10,7 +10,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion` | ❌ | 
-| Ransomware blog – We will not give ourselves a nam | 🟢 | 18/02/2023 02:21 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` | ❌ | 
+| Ransomware blog – We will not give ourselves a nam | 🟢 | 18/02/2023 05:13 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` | ❌ | 
 
 ### Crypto wallets
 * 💰 <a href="/#/crypto/medusalocker.md">Crypto wallet(s) available</a>
@@ -45,4 +45,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 18/02/2023 02.41 (UTC)_
+Last update : _Saturday 18/02/2023 05.33 (UTC)_
