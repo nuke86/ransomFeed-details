@@ -1,6 +1,6 @@
 
 
-_All `5161` posts_
+_All `5167` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,12 @@ _All `5161` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-18 | [`sandycove.org`](https://google.com/search?q=sandycove.org) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`primorossi.com.br`](https://google.com/search?q=primorossi.com.br) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`isosteo.fr`](https://google.com/search?q=isosteo.fr) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`diavaz.com`](https://google.com/search?q=diavaz.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`aguasdoporto.pt`](https://google.com/search?q=aguasdoporto.pt) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`inowai.com`](https://google.com/search?q=inowai.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`piercetransit.org`](https://google.com/search?q=piercetransit.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`AP Emissions Technologies`](https://google.com/search?q=AP+Emissions+Technologies) | [medusa](profiles.md?id=medusa) |
 | 2023-02-18 | [`myerspower.com`](https://google.com/search?q=myerspower.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -5171,4 +5177,4 @@ _All `5161` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Saturday 18/02/2023 07.18 (UTC)_
+Last update : _Saturday 18/02/2023 15.32 (UTC)_

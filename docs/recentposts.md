@@ -5,6 +5,12 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-18 | [`sandycove.org`](https://google.com/search?q=sandycove.org) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`primorossi.com.br`](https://google.com/search?q=primorossi.com.br) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`isosteo.fr`](https://google.com/search?q=isosteo.fr) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`diavaz.com`](https://google.com/search?q=diavaz.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`aguasdoporto.pt`](https://google.com/search?q=aguasdoporto.pt) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`inowai.com`](https://google.com/search?q=inowai.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`piercetransit.org`](https://google.com/search?q=piercetransit.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`AP Emissions Technologies`](https://google.com/search?q=AP+Emissions+Technologies) | [medusa](profiles.md?id=medusa) |
 | 2023-02-18 | [`myerspower.com`](https://google.com/search?q=myerspower.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -199,11 +205,5 @@
 | 2023-01-27 | [`Helicar`](https://google.com/search?q=Helicar) | [play](profiles.md?id=play) |
 | 2023-01-27 | [`Ultrabulk`](https://google.com/search?q=Ultrabulk) | [alphv](profiles.md?id=alphv) |
 | 2023-01-26 | [`Bristol Community College`](https://google.com/search?q=Bristol+Community+College) | [vicesociety](profiles.md?id=vicesociety) |
-| 2023-01-26 | [`********* ******** ***** ***`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
-| 2023-01-26 | [`*******`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
-| 2023-01-26 | [`Travis County Sheriffs Officers Association`](https://google.com/search?q=Travis+County+Sheriffs+Officers+Association) | [royal](profiles.md?id=royal) |
-| 2023-01-26 | [`CHARLES P VONDERHAAR CPA WAS HACKED. MORE TNAH 50GB SENSETIVE DATA LEAKED.CHARLES P VONDER`](https://google.com/search?q=CHARLES+P+VONDERHAAR+CPA+WAS+HACKED.+MORE+TNAH+50GB+SENSETIVE+DATA+LEAKED.CHARLES+P+VONDER) | [alphv](profiles.md?id=alphv) |
-| 2023-01-26 | [`IOC`](https://google.com/search?q=IOC) | [royal](profiles.md?id=royal) |
-| 2023-01-26 | [`ServiceMaster`](https://google.com/search?q=ServiceMaster) | [royal](profiles.md?id=royal) |
 
-Last update : _Saturday 18/02/2023 07.18 (UTC)_
+Last update : _Saturday 18/02/2023 15.32 (UTC)_

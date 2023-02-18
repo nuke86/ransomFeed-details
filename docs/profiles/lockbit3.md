@@ -8,32 +8,38 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| LockBit BLOG | 🟢 | 18/02/2023 06:43 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` | ❌ | 
-| LockBit BLOG | 🟢 | 18/02/2023 06:44 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` | ❌ | 
-| LockBit BLOG | 🟢 | 18/02/2023 06:45 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` | ❌ | 
-| LockBit BLOG | 🟢 | 18/02/2023 06:45 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | ❌ | 
-| LockBit BLOG | 🟢 | 18/02/2023 06:46 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | ❌ | 
-| LockBit BLOG | 🟢 | 18/02/2023 06:47 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | ❌ | 
-| LockBit BLOG | 🔴 | 18/02/2023 05:03 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | ❌ | 
-| LockBit BLOG | 🟢 | 18/02/2023 06:48 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | ❌ | 
-| LockBit BLOG | 🔴 | 18/02/2023 02:12 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` | ❌ | 
-| LockBit BLOG | 🟢 | 18/02/2023 06:49 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | ❌ | 
-| LockBit LOGIN | 🟢 | 18/02/2023 06:49 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` | ❌ | 
-| LockBit LOGIN | 🟢 | 18/02/2023 06:50 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` | ❌ | 
-| LockBit LOGIN | 🟢 | 18/02/2023 06:51 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` | ❌ | 
-| LockBit LOGIN | 🟢 | 18/02/2023 06:51 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` | ❌ | 
-| LockBit LOGIN | 🟢 | 18/02/2023 06:52 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` | ❌ | 
-| LockBit LOGIN | 🟢 | 18/02/2023 06:53 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | ❌ | 
-| LockBit LOGIN | 🟢 | 18/02/2023 06:53 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | ❌ | 
-| LockBit LOGIN | 🟢 | 18/02/2023 06:54 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` | ❌ | 
-| LockBit LOGIN | 🟢 | 18/02/2023 06:54 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | ❌ | 
+| LockBit BLOG | 🟢 | 18/02/2023 14:39 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 18/02/2023 14:40 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 18/02/2023 14:40 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🔴 | 18/02/2023 06:45 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 18/02/2023 14:42 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 18/02/2023 14:43 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🔴 | 18/02/2023 05:03 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🔴 | 18/02/2023 06:48 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🔴 | 18/02/2023 02:12 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 18/02/2023 14:45 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 18/02/2023 14:46 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 18/02/2023 14:47 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 18/02/2023 14:47 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 18/02/2023 14:48 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 18/02/2023 14:49 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 18/02/2023 14:49 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 18/02/2023 14:50 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🔴 | 18/02/2023 06:54 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 18/02/2023 14:51 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 525 posts found
+> 531 posts found
 
 | post | date | Description
 |---|---|---|
+| [`sandycove.org`](https://google.com/search?q=sandycove.org) | 18/02/2023 | Sandy Cove's mission is to help you connect with God and each other in order to be transformed into the image of Christ, through His Word |
+| [`primorossi.com.br`](https://google.com/search?q=primorossi.com.br) | 18/02/2023 | Invista em seu sonho de forma planejada. Adquira seu consórcio de forma prática e segura. Confie em quem tem mais de 50 anos de tradição. Saiba mais! |
+| [`isosteo.fr`](https://google.com/search?q=isosteo.fr) | 18/02/2023 | Institut Supérieur d’Ostéopathie Lyon, ISOstéo Lyon a participé activement à la création du 1er enseignement de l’ostéopathie en formation initiale post-bac.Le Diplôme d’Ostéopathie (D.O) délivré par ISOstéo Lyon est reconnu Niveau 7 RNCP et permet... |
+| [`diavaz.com`](https://google.com/search?q=diavaz.com) | 18/02/2023 | The DIAVAZ Group is an organization of companies and strategic alliances created mainly to provide integrated solutions for the oil industry using the most advanced technologies available on the market. |
+| [`aguasdoporto.pt`](https://google.com/search?q=aguasdoporto.pt) | 18/02/2023 | Aguas do Porto is a municipal water utility company that manages full water cycle including water supply, wastewater drainage. |
+| [`inowai.com`](https://google.com/search?q=inowai.com) | 18/02/2023 | Using the human factor as the driving force of excellence and quality as the lever of productivity, INOWAI has established itself as a leader in residential and professional real estate consulting in Luxembourg for more than 20 years.Our goal: to off... |
 | [`piercetransit.org`](https://google.com/search?q=piercetransit.org) | 18/02/2023 | Pierce Transit is proud to serve our community as Pierce County’s local public transportation service. In 2019 we provided more than 9 million rides to people headed to work, medical appointments, entertainment, grocery shopping, visits with friends... |
 | [`myerspower.com`](https://google.com/search?q=myerspower.com) | 18/02/2023 | myerspower.comlabriegroup.commielectric.comaeti.comthese four companies were in the same domain! all their networks were encryptedroot:gear$N0stra*aeti\admin:_NYt7~St]ye'root:$a53ty!myersamerica\tadmin:$a53ty!myerspower:Xiw6zvbp37gx... |
 | [`vissan.com.vn`](https://google.com/search?q=vissan.com.vn) | 18/02/2023 | VISSAN Joint Stock Company is one of the leading business corporations in Vietnam. Originally founded on November 20, 1970 and launched on May 18, 1974, VISSAN is proud to become one of the leading nationally recognized food producers. |
@@ -563,4 +569,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 18/02/2023 07.18 (UTC)_
+Last update : _Saturday 18/02/2023 15.32 (UTC)_
