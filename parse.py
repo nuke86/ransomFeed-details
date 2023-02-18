@@ -67,7 +67,7 @@ def screenshot(webpage,fqdn,delay=15000):
                     page.screenshot(path=name, full_page=True)
                     image = Image.open(name)
                     draw = ImageDraw.Draw(image)
-                    draw.text((10, 10), "DRM - www.ransomfeed.it", fill=(0, 0, 0))
+                    draw.text((10, 10), "https://www.ransomware.live", fill=(0, 0, 0))
                     image.save(name)
                 except PlaywrightTimeoutError:
                     stdlog('Timeout!')
