@@ -20,16 +20,22 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🔴 | 18/02/2023 14:22 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 18/02/2023 18:29 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 25/01/2023 18:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 277 posts found
+> 283 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Leal Group`](https://www.lealgroup.mu/) | 18/02/2023 | The Leal Group is a diverse group of companies contributing to the economic development of Mauritius.During the last nine decades, the Leal Group has expanded into a wide range of industries including medical, consumer goods, automotive, information technology, engineering and tourism. The Leal Group is headquartered in Moka, Mauritius. |
+| [`AMADA WELD TECH`](https://amadaweldtech.com/) | 18/02/2023 | Based in Southern California, AMADA WELD TECH Inc. is a leading manufacturer of equipment and systems for resistance welding, laser welding, laser marking, laser cutting, laser micromachining, and hot bar bonding. Visit our Virtual Showroom!  The company provides products to a wide range of markets, including the medical device, battery, electric vehicle and solar industries, as well as the global electronics, automotive and general industrial markets. |
+| [`Hengmei Optoelectronics Co.,Ltd.`](https://www.cnhmo.cn/) | 18/02/2023 | Hengmei Optoelectronics Co., Ltd. was established in May 2014, located in Kunshan Development Zone, Jiangsu Province, with a registered capital of 3.25278 billion yuan. At present, four production bases in Kunshan, Fuzhou, Hefei and Danyang have been established and planned, and the total annual production capacity of polarizers is planned to be 220 million square meters. It will become the world's leading polarizer manufacturer and provide high-quality panel factories in many countries and regions around the world. , Stable polarizer supply. Among them, Hengmei Kunshan factory has a total of two polarizer production lines. Line 1 has a width of 1.5M. It was officially mass-produced in January 2017, with a monthly production capacity of 1.8 million square meters. Line 2 has a width of 2.5M and began mass production in September 2019. , with a monthly production capacity of 3.2 million square meters. The two lines have achieved an annual production capacity of 60 million square meters. Hengmei Fuzhou factory has newly added two 2.6M ultra-wide polarizer production lines. It is planned to start mass production in Q4 of 2022. After full production, the two lines will have an annual production capacity of 90 million square meters. |
+| [`Cansew`](https://cansew.com) | 18/02/2023 | Cansew has been part of the fabric of life since 1924. When it comes time to place your orders, you will find that our more than 80 years of experience and our position as a leading supplier of threads and trim to the needletrade industry will serve your needs exce |
+| [`Wawasee Community School Corporation`](https://www.wawasee.k12.in.us) | 18/02/2023 | The Wawasee Community School Corporation works to create an academic, social, and physical environment that facilitates growth in each student. They are headquartered in Syracuse, Indiana |
+| [`SINGLESOURCE`](https://singlesource.com) | 18/02/2023 | Single Source is a custom foodservice distribution company providing exceptional logistics management services to our customers, nationwide thru our network of ten distribution centers. |
 | [`Vitas`](https://vitas.ps/) | 14/02/2023 | Established in 1995, which is considered as one of the most important specialized programs of the Global Communities Foundation (formerly CHF International for Lending and Financial Services) |
 | [`Banco Sol`](https://www.bancosol.ao) | 14/02/2023 | Banco Sol is a private Angolan bank founded 17 years ago. Headquartered in Luanda, Angola's capital, it's recognised as one of Africa's most successful financial institutions with 940,000 clients on its books and a staff of 1,642. With 180 branches throughout the country. |
 | [`Cork Institute of Technology & Munster Technological University`](https://www.mtu.ie/) | 12/02/2023 | Selective data from Cork Institute of Technology & Munster Technological University includes but not limited to :  1)PII Data 2)Confidential Data 3)Financial Data 4)Students personal & medical data (scholarship details) 5)Staff data 6)Students notes & assessments  And more... |
@@ -311,4 +317,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Saturday 18/02/2023 17.33 (UTC)_
+Last update : _Saturday 18/02/2023 19.25 (UTC)_

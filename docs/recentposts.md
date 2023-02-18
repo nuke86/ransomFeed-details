@@ -5,6 +5,12 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-18 | [`Leal Group`](https://google.com/search?q=Leal+Group) | [alphv](profiles.md?id=alphv) |
+| 2023-02-18 | [`AMADA WELD TECH`](https://google.com/search?q=AMADA+WELD+TECH) | [alphv](profiles.md?id=alphv) |
+| 2023-02-18 | [`Hengmei Optoelectronics Co.,Ltd.`](https://google.com/search?q=Hengmei+Optoelectronics+Co.%2CLtd.) | [alphv](profiles.md?id=alphv) |
+| 2023-02-18 | [`Cansew`](https://google.com/search?q=Cansew) | [alphv](profiles.md?id=alphv) |
+| 2023-02-18 | [`Wawasee Community School Corporation`](https://google.com/search?q=Wawasee+Community+School+Corporation) | [alphv](profiles.md?id=alphv) |
+| 2023-02-18 | [`SINGLESOURCE`](https://google.com/search?q=SINGLESOURCE) | [alphv](profiles.md?id=alphv) |
 | 2023-02-18 | [`championfp.com`](https://google.com/search?q=championfp.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`sandycove.org`](https://google.com/search?q=sandycove.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`primorossi.com.br`](https://google.com/search?q=primorossi.com.br) | [lockbit3](profiles.md?id=lockbit3) |
@@ -199,11 +205,5 @@
 | 2023-01-29 | [`NPTC Group of Colleges`](https://google.com/search?q=NPTC+Group+of+Colleges) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-29 | [`azliver.com`](https://google.com/search?q=azliver.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-28 | [`Seguros Equinoccial`](https://google.com/search?q=Seguros+Equinoccial) | [vicesociety](profiles.md?id=vicesociety) |
-| 2023-01-28 | [`ylresin.com`](https://google.com/search?q=ylresin.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-28 | [`Portnoff Law Associates`](https://google.com/search?q=Portnoff+Law+Associates) | [alphv](profiles.md?id=alphv) |
-| 2023-01-28 | [`Westmont Hospitality Group`](https://google.com/search?q=Westmont+Hospitality+Group) | [alphv](profiles.md?id=alphv) |
-| 2023-01-28 | [`EGR`](https://google.com/search?q=EGR) | [vicesociety](profiles.md?id=vicesociety) |
-| 2023-01-27 | [`Helicar`](https://google.com/search?q=Helicar) | [play](profiles.md?id=play) |
-| 2023-01-27 | [`Ultrabulk`](https://google.com/search?q=Ultrabulk) | [alphv](profiles.md?id=alphv) |
 
-Last update : _Saturday 18/02/2023 17.33 (UTC)_
+Last update : _Saturday 18/02/2023 19.25 (UTC)_
