@@ -1,6 +1,6 @@
 
 
-_All `5167` posts_
+_All `5168` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `5167` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-18 | [`championfp.com`](https://google.com/search?q=championfp.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`sandycove.org`](https://google.com/search?q=sandycove.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`primorossi.com.br`](https://google.com/search?q=primorossi.com.br) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`isosteo.fr`](https://google.com/search?q=isosteo.fr) | [lockbit3](profiles.md?id=lockbit3) |
@@ -5177,4 +5178,4 @@ _All `5167` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Saturday 18/02/2023 15.32 (UTC)_
+Last update : _Saturday 18/02/2023 17.33 (UTC)_
