@@ -18,10 +18,6 @@ _Parser : `Not available`_
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion` | ❌ | 
 
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/darkside/darkside.txt" target=_blank>#1</a> 
-
 ### Crypto wallets
 * 💰 <a href="/#/crypto/darkside.md">Crypto wallet(s) available</a>
 
@@ -34,4 +30,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

@@ -15,12 +15,8 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://rgleak7op734elep.onion` | ❌ | 
-| Home Page of Ragnar_Locker Leaks site | 🔴 | 16/02/2023 15:06 | `http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` | <a href="https://www.ransomware.live/screenshots/rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd-onion.png" target=_blank>📸</a> | 
+| Home Page of Ragnar_Locker Leaks site | 🟢 | 18/02/2023 00:09 | `http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` | ❌ | 
 | none | 🔴 | 01/05/2021 00:00 | `http://p6o7m73ujalhgkiv.onion` | ❌ | 
-
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/ragnarlocker/!_^_README_NOTES_RAGNAR_^_!.txt" target=_blank>#1</a>  <a href="/ransomware_notes/ragnarlocker/ragnarlocker1.txt" target=_blank>#2</a> 
 
 ### Crypto wallets
 * 💰 <a href="/#/crypto/ragnarlocker.md">Crypto wallet(s) available</a>
@@ -129,4 +125,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

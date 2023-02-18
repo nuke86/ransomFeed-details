@@ -11,11 +11,7 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Mallox - Blog | 🟢 | 16/02/2023 19:00 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
-
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/mallox/FILE RECOVERY.txt" target=_blank>#1</a> 
+| Mallox - Blog | 🟢 | 18/02/2023 00:02 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | ❌ | 
 
 ### Posts
 
@@ -46,4 +42,4 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

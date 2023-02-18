@@ -19,10 +19,6 @@ _`login page, no posts`_
 |---|---|---|---|---|
 | none | 🔴 | 08/11/2022 04:04 | `http://gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion` | ❌ | 
 
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/qlocker/!!!READ_ME.txt" target=_blank>#1</a> 
-
 ### Crypto wallets
 * 💰 <a href="/#/crypto/qlocker.md">Crypto wallet(s) available</a>
 
@@ -35,4 +31,4 @@ _`login page, no posts`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

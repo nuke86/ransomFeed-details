@@ -20,10 +20,6 @@ _Parser : `Not available`_
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion` | ❌ | 
 
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/ranzy/ranzy.txt" target=_blank>#1</a> 
-
 ### Crypto wallets
 * 💰 <a href="/#/crypto/ranzy.md">Crypto wallet(s) available</a>
 
@@ -36,4 +32,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

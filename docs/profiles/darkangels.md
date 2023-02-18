@@ -12,10 +12,6 @@ _`accessing over HTTP returns open dir 29/5/22, 89.38.225.166`_
 |---|---|---|---|---|
 | Home | 🔴 | 18/07/2022 23:41 | `http://wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion` | ❌ | 
 
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/darkangels/darkangels.txt" target=_blank>#1</a> 
-
 ### Crypto wallets
 * 💰 <a href="/#/crypto/darkangels.md">Crypto wallet(s) available</a>
 
@@ -28,4 +24,4 @@ _`accessing over HTTP returns open dir 29/5/22, 89.38.225.166`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

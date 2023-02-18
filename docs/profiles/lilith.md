@@ -14,10 +14,6 @@ _Parser : `Not available`_
 |---|---|---|---|---|
 | Lilith | 🔴 | 09/08/2022 14:56 | `http://yeuajcizwytgmrntijhxphs6wn5txp2prs6rpndafbsapek3zd4ubcid.onion` | ❌ | 
 
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/lilith/lilith.txt" target=_blank>#1</a> 
-
 ### Posts
 
 > no post found
@@ -26,4 +22,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

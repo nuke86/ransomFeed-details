@@ -18,11 +18,7 @@ _Parser : `Available`_
 |---|---|---|---|---|
 | 404 Not Found | 🔴 | 19/08/2022 12:16 | `http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion` | ❌ | 
 | 404 Not Found | 🔴 | 19/08/2022 12:17 | `http://aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion` | ❌ | 
-| Blog | 🔴 | 06/01/2023 15:05 | `http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion` | <a href="https://www.ransomware.live/screenshots/blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd-onion.png" target=_blank>📸</a> | 
-
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/revil/revil1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/revil/revil2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/revil/revil3.txt" target=_blank>#3</a> 
+| Blog | 🔴 | 06/01/2023 15:05 | `http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion` | ❌ | 
 
 ### Crypto wallets
 * 💰 <a href="/#/crypto/revil.md">Crypto wallet(s) available</a>
@@ -79,4 +75,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

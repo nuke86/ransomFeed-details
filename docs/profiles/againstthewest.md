@@ -10,7 +10,7 @@ _`closed forum, access sold from https://sellix.io/atwforums`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Threat Actors - Onion Forums  - Internal Error | 🔴 | 07/01/2023 20:56 | `http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion` | <a href="https://www.ransomware.live/screenshots/giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd-onion.png" target=_blank>📸</a> | 
+| Threat Actors - Onion Forums  - Internal Error | 🔴 | 07/01/2023 20:56 | `http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion` | ❌ | 
 
 ### Posts
 
@@ -20,4 +20,4 @@ _`closed forum, access sold from https://sellix.io/atwforums`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

@@ -23,10 +23,6 @@ _`shut down & offering a decryptor`_
 | none | 🔴 | 01/05/2021 00:00 | `http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion` | ❌ | 
 | Decrypt Site | 🔴 | 27/08/2021 00:03 | `http://sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion` | ❌ | 
 
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/ragnarok/ragnarok.txt" target=_blank>#1</a> 
-
 ### Posts
 
 > 2 posts found
@@ -39,4 +35,4 @@ _`shut down & offering a decryptor`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

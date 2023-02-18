@@ -8,11 +8,7 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| DataLeak | 🟢 | 16/02/2023 18:44 | `http://woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion` | <a href="https://www.ransomware.live/screenshots/woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad-onion.png" target=_blank>📸</a> | 
-
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/dataleak/!!!file was stolen!!!.txt" target=_blank>#1</a>  <a href="/ransomware_notes/dataleak/!!!start leak file!!!.txt" target=_blank>#2</a> 
+| DataLeak | 🟢 | 17/02/2023 23:45 | `http://woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion` | ❌ | 
 
 ### Posts
 
@@ -30,4 +26,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

@@ -23,10 +23,6 @@ _`previous clearnet fqdn lockbitapt.uz`_
 | LockBit BLOG | 🔴 | 17/06/2022 16:11 | `http://lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion` | ❌ | 
 | LockBit BLOG | 🔴 | 17/06/2022 16:11 | `http://lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion` | ❌ | 
 
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/lockbit2/lockbit2.txt" target=_blank>#1</a> 
-
 ### Posts
 
 > 1006 posts found
@@ -1043,4 +1039,4 @@ _`previous clearnet fqdn lockbitapt.uz`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

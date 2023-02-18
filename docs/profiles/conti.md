@@ -17,12 +17,8 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | CONTI.News | 🔴 | 22/06/2022 06:25 | `http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion` | ❌ | 
-| none | 🟢 | 16/02/2023 18:40 | `http://continews.click` | <a href="https://www.ransomware.live/screenshots/continews-click.png" target=_blank>📸</a> | 
+| none | 🟢 | 17/02/2023 23:41 | `http://continews.click` | ❌ | 
 | Error Response Page | 🔴 | 23/11/2022 12:36 | `http://continews.bz` | ❌ | 
-
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/conti/conti1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/conti/conti2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/conti/conti3.txt" target=_blank>#3</a>  <a href="/ransomware_notes/conti/conti4.txt" target=_blank>#4</a> 
 
 ### Crypto wallets
 * 💰 <a href="/#/crypto/conti.md">Crypto wallet(s) available</a>
@@ -371,4 +367,4 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

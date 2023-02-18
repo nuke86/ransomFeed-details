@@ -16,10 +16,6 @@ _Parser : `Available`_
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://avaddongun7rngel.onion` | ❌ | 
 
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/avaddon/avaddon.txt" target=_blank>#1</a> 
-
 ### Crypto wallets
 * 💰 <a href="/#/crypto/avaddon.md">Crypto wallet(s) available</a>
 
@@ -176,4 +172,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

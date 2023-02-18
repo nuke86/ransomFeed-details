@@ -22,10 +22,6 @@ _Parser : `Not available`_
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion` | ❌ | 
 
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/nemty/nemty_v1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/nemty/nemty_v16.txt" target=_blank>#2</a>  <a href="/ransomware_notes/nemty/nemty_v25.txt" target=_blank>#3</a> 
-
 ### Posts
 
 > no post found
@@ -34,4 +30,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

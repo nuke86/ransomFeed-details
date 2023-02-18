@@ -14,11 +14,7 @@ _Parser : `Not available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| 404 page not found | 🔴 | 07/01/2023 21:20 | `http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion` | <a href="https://www.ransomware.live/screenshots/veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id-onion.png" target=_blank>📸</a> | 
-
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/ech0raix/README_FOR_DECRYPT.txtt" target=_blank>#1</a> 
+| 404 page not found | 🔴 | 07/01/2023 21:20 | `http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion` | ❌ | 
 
 ### Posts
 
@@ -28,4 +24,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

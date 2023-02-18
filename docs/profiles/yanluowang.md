@@ -10,10 +10,6 @@ _Parser : `Available`_
 |---|---|---|---|---|
 | Yanluowang | 🔴 | 01/11/2022 16:59 | `http://jukswsxbh3jsxuddvidrjdvwuohtsy4kxg2axbppiyclomt2qciyfoad.onion` | ❌ | 
 
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/yanluowang/yanluowang.txt" target=_blank>#1</a> 
-
 ### Posts
 
 > 6 posts found
@@ -30,4 +26,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

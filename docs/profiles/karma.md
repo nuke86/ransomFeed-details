@@ -21,10 +21,6 @@ _Parser : `Available`_
 |---|---|---|---|---|
 | Karma Leaks | 🔴 | 05/11/2021 02:09 | `http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion` | ❌ | 
 
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/karma/KARMA-ENCRYPTED.txt" target=_blank>#1</a> 
-
 ### Posts
 
 > 7 posts found
@@ -42,4 +38,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

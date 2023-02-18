@@ -16,11 +16,7 @@ _Parser : `Not available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| none | 🔴 | 17/12/2022 20:37 | `http://chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion` | <a href="https://www.ransomware.live/screenshots/chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd-onion.png" target=_blank>📸</a> | 
-
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/sugar/sugar.txt" target=_blank>#1</a> 
+| none | 🔴 | 17/12/2022 20:37 | `http://chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion` | ❌ | 
 
 ### Posts
 
@@ -30,4 +26,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

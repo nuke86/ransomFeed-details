@@ -19,10 +19,6 @@ _Parser : `Available`_
 | AtomSilo | 🔴 | 17/12/2021 05:02 | `http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion` | ❌ | 
 | AtomSilo | 🔴 | 25/01/2022 06:15 | `http://l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion` | ❌ | 
 
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/atomsilo/atomsilo.hta" target=_blank>#1</a> 
-
 ### Posts
 
 > 4 posts found
@@ -37,4 +33,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

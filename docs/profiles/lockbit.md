@@ -11,10 +11,6 @@ _Parser : `Not available`_
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://lockbitkodidilol.onion` | ❌ | 
 
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/lockbit/lockbit2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/lockbit/lockbit3.txt" target=_blank>#2</a> 
-
 ### Crypto wallets
 * 💰 <a href="/#/crypto/lockbit.md">Crypto wallet(s) available</a>
 
@@ -27,4 +23,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

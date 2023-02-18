@@ -8,36 +8,42 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| LockBit BLOG | 🟢 | 16/02/2023 18:48 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 16/02/2023 18:48 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🔴 | 16/02/2023 16:56 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 16/02/2023 18:49 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 16/02/2023 18:50 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 16/02/2023 18:51 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 16/02/2023 18:51 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 16/02/2023 18:52 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 16/02/2023 18:52 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 16/02/2023 18:53 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 16/02/2023 18:53 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 16/02/2023 18:54 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 16/02/2023 18:54 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 16/02/2023 18:55 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 16/02/2023 18:55 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 16/02/2023 18:56 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 16/02/2023 18:56 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 16/02/2023 18:57 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 16/02/2023 18:57 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd-onion.png" target=_blank>📸</a> | 
-
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/lockbit3/lockbit3.txt" target=_blank>#1</a> 
+| LockBit BLOG | 🟢 | 17/02/2023 23:49 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` | ❌ | 
+| LockBit BLOG | 🟢 | 17/02/2023 23:50 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` | ❌ | 
+| LockBit BLOG | 🟢 | 17/02/2023 23:50 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` | ❌ | 
+| LockBit BLOG | 🟢 | 17/02/2023 23:51 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | ❌ | 
+| LockBit BLOG | 🟢 | 17/02/2023 23:52 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | ❌ | 
+| LockBit BLOG | 🟢 | 17/02/2023 23:52 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | ❌ | 
+| LockBit BLOG | 🟢 | 17/02/2023 23:53 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | ❌ | 
+| LockBit BLOG | 🔴 | 16/02/2023 18:52 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | ❌ | 
+| LockBit BLOG | 🔴 | 16/02/2023 18:52 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` | ❌ | 
+| LockBit BLOG | 🟢 | 17/02/2023 23:54 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | ❌ | 
+| LockBit LOGIN | 🟢 | 17/02/2023 23:55 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` | ❌ | 
+| LockBit LOGIN | 🟢 | 17/02/2023 23:56 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` | ❌ | 
+| LockBit LOGIN | 🟢 | 17/02/2023 23:57 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` | ❌ | 
+| LockBit LOGIN | 🟢 | 17/02/2023 23:57 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` | ❌ | 
+| LockBit LOGIN | 🟢 | 17/02/2023 23:57 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` | ❌ | 
+| LockBit LOGIN | 🟢 | 17/02/2023 23:58 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | ❌ | 
+| LockBit LOGIN | 🟢 | 17/02/2023 23:58 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | ❌ | 
+| LockBit LOGIN | 🟢 | 17/02/2023 23:59 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` | ❌ | 
+| LockBit LOGIN | 🟢 | 17/02/2023 23:59 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | ❌ | 
 
 ### Posts
 
-> 514 posts found
+> 524 posts found
 
 | post | date | Description
 |---|---|---|
+| [`myerspower.com`](https://google.com/search?q=myerspower.com) | 18/02/2023 | myerspower.comlabriegroup.commielectric.comaeti.comthese four companies were in the same domain! all their networks were encryptedroot:gear$N0stra*aeti\admin:_NYt7~St]ye'root:$a53ty!myersamerica\tadmin:$a53ty!myerspower:Xiw6zvbp37gx... |
+| [`vissan.com.vn`](https://google.com/search?q=vissan.com.vn) | 18/02/2023 | VISSAN Joint Stock Company is one of the leading business corporations in Vietnam. Originally founded on November 20, 1970 and launched on May 18, 1974, VISSAN is proud to become one of the leading nationally recognized food producers. |
+| [`newbridge.org`](https://google.com/search?q=newbridge.org) | 18/02/2023 | Founded in 1963, NewBridge Services is a non-profit organization that provides mental healthcare services to individuals of all ages. |
+| [`vitrox.com`](https://google.com/search?q=vitrox.com) | 18/02/2023 | ViTrox Corporation Berhad (MYX: 0097) is a Malaysian based electronics company located at Penang, Malaysia. Vitrox specializes in designing and developing automated vision inspection system and equipment testers for the semiconductor and electronic p... |
+| [`royallepage.ca`](https://google.com/search?q=royallepage.ca) | 18/02/2023 | Since 1913, Royal LePage has been helping Canadians buy and sell their homes and supporting communitiesQuebec City branch |
+| [`cordfinancial.com`](https://google.com/search?q=cordfinancial.com) | 18/02/2023 | Our Story – ATM ServicesNationwide Provider of Innovative Solutions: ATM Services & ProductsIn 2001, CORD Financial Services was founded by The FIKES Companies. With a small staff and hard work, CORD quickly gained success in central Texas. Throu... |
+| [`fikes.com`](https://google.com/search?q=fikes.com) | 18/02/2023 | https://www.fikes.com/COMMERCIAL CLEANING & FACILITY MAINTENANCE SERVICESThere are many moving parts to make sure a business runs successfully, and cleanliness is the most important one. When you are looking for facility maintenance services, you... |
+| [`alliedtools.com`](https://google.com/search?q=alliedtools.com) | 18/02/2023 | Allied International was founded in 1962 as an import distributor of hardware products. Over the years, with our unwavering commitment to innovation, quality, value and service, we have earned the reputation as the recognized market leader in our cor... |
+| [`hotdesk.me`](https://google.com/search?q=hotdesk.me) | 18/02/2023 | Hotdesk.me and their customers such as Barrington James (barringtonjames.com), Sarnac Partners (sarnacpartnertners.com), Hardman & Watson (hardmanandwatson.co.uk), Penspen (penspen.com), Perkins & Will (perkinswill.com), etc.We can't confirm if any... |
+| [`innophaseinc.com`](https://google.com/search?q=innophaseinc.com) | 18/02/2023 | InnoPhase is a fabless semiconductor company that develops innovative and efficient RF architectures using CMOS technology. Building on our previous experience with WLAN IoT products, we have now turned our attention to building energy efficient radi... |
 | [`coreautomation.com`](https://google.com/search?q=coreautomation.com) | 16/02/2023 | 500 mb private info |
 | [`blackandwhitecabs.com.au`](https://google.com/search?q=blackandwhitecabs.com.au) | 15/02/2023 | Dear management! change the negotiator, the conditions he offers are very funny!Cheap, fast and reliable Taxi and Cab services in Brisbane, Perth, Toowoomba, Redcliffe, Maryborough and Mandurah. |
 | [`trudi.it`](https://google.com/search?q=trudi.it) | 15/02/2023 | Trudi si accorge di essere un marchio forte, con un’importante riconoscibilità, capace di trasmettere valori ed emozioni. Trudi non è più solo sinonimo di peluche, ma è in grado di lanciare sul mercato proprie licenze, con importanti partner che ne c... |
@@ -556,4 +562,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

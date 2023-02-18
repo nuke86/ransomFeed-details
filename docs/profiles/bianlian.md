@@ -20,18 +20,17 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| BianLian - Home | 🟢 | 16/02/2023 18:35 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
-
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/bianlian/Look at this instruction.txt" target=_blank>#1</a> 
+| BianLian - Home | 🟢 | 17/02/2023 23:35 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | ❌ | 
 
 ### Posts
 
-> 109 posts found
+> 112 posts found
 
 | post | date | Description
 |---|---|---|
+| [`NESG`](https://google.com/search?q=NESG) | 18/02/2023 | Group of Osteopathic Physicians who provide surgical health care at its highest level of expertise. |
+| [`Fibertec`](https://google.com/search?q=Fibertec) | 18/02/2023 | Fibertec Environmental Services is a full-service environmental analytical laboratory, specializing in subsurface investigations, industrial hygiene, and natural gas analysis. |
+| [`Suburban Laboratories`](https://google.com/search?q=Suburban+Laboratories) | 18/02/2023 | Suburban Laboratories was founded in 1936. The original lab was located in Cicero, Illinois where it remained for over 30 years. In 1970 the lab was purchased by three professional engineers; Dr. Fred Gurnham, Robert Konvalinka and Earl Rosenberg. |
 | [`I*****`](https://google.com/search?q=I%2A%2A%2A%2A%2A) | 12/02/2023 | Medical Testing & Clinical Laboratories. |
 | [`The Gucciardo Law Firm`](https://google.com/search?q=The+Gucciardo+Law+Firm) | 12/02/2023 | We are relentlessly committed to our clients as if they were members of our own family. You can turn to us for guidance and honest answers. |
 | [`Danielski Farms Inc.`](https://google.com/search?q=Danielski+Farms+Inc.) | 12/02/2023 | Danielski Farms Inc. strives to perform the highest quality and efficient harvest of our customers’ crops. Being farmers ourselves, we know the painstaking efforts required to see a crop through from planting to harvest. |
@@ -145,4 +144,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

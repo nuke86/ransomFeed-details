@@ -16,10 +16,6 @@ _Parser : `Available`_
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://hxt254aygrsziejn.onion` | ❌ | 
 
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/nefilim/nefilim.txt" target=_blank>#1</a> 
-
 ### Posts
 
 > 10 posts found
@@ -40,4 +36,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

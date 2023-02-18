@@ -17,10 +17,6 @@ _Parser : `Available`_
 | none | 🔴 | 26/12/2022 04:52 | `http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion` | ❌ | 
 | Start-maximized.com | 🔴 | 02/12/2021 13:09 | `http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion` | ❌ | 
 
-
-### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/lv/lv.txt" target=_blank>#1</a> 
-
 ### Posts
 
 > 63 posts found
@@ -94,4 +90,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

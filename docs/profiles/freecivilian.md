@@ -8,7 +8,7 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Free Civilian | 🔴 | 07/01/2023 21:22 | `http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion` | <a href="https://www.ransomware.live/screenshots/gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id-onion.png" target=_blank>📸</a> | 
+| Free Civilian | 🔴 | 07/01/2023 21:22 | `http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion` | ❌ | 
 
 ### Posts
 
@@ -34,4 +34,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_

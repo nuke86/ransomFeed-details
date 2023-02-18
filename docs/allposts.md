@@ -1,6 +1,6 @@
 
 
-_All `5146` posts_
+_All `5160` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,20 @@ _All `5146` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-18 | [`AP Emissions Technologies`](https://google.com/search?q=AP+Emissions+Technologies) | [medusa](profiles.md?id=medusa) |
+| 2023-02-18 | [`myerspower.com`](https://google.com/search?q=myerspower.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`vissan.com.vn`](https://google.com/search?q=vissan.com.vn) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`newbridge.org`](https://google.com/search?q=newbridge.org) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`vitrox.com`](https://google.com/search?q=vitrox.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`royallepage.ca`](https://google.com/search?q=royallepage.ca) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`cordfinancial.com`](https://google.com/search?q=cordfinancial.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`fikes.com`](https://google.com/search?q=fikes.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`alliedtools.com`](https://google.com/search?q=alliedtools.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`hotdesk.me`](https://google.com/search?q=hotdesk.me) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`innophaseinc.com`](https://google.com/search?q=innophaseinc.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`NESG`](https://google.com/search?q=NESG) | [bianlian](profiles.md?id=bianlian) |
+| 2023-02-18 | [`Fibertec`](https://google.com/search?q=Fibertec) | [bianlian](profiles.md?id=bianlian) |
+| 2023-02-18 | [`Suburban Laboratories`](https://google.com/search?q=Suburban+Laboratories) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-16 | [`Evans Consoles`](https://google.com/search?q=Evans+Consoles) | [royal](profiles.md?id=royal) |
 | 2023-02-16 | [`coreautomation.com`](https://google.com/search?q=coreautomation.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-16 | [`Mecaro Co., Ltd`](https://google.com/search?q=Mecaro+Co.%2C+Ltd) | [mallox](profiles.md?id=mallox) |
@@ -5156,4 +5170,4 @@ _All `5146` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Saturday 18/02/2023 00.23 (UTC)_
