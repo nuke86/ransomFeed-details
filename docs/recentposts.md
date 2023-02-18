@@ -206,4 +206,4 @@
 | 2023-01-29 | [`azliver.com`](https://google.com/search?q=azliver.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-28 | [`Seguros Equinoccial`](https://google.com/search?q=Seguros+Equinoccial) | [vicesociety](profiles.md?id=vicesociety) |
 
-Last update : _Saturday 18/02/2023 19.25 (UTC)_
+Last update : _Saturday 18/02/2023 21.16 (UTC)_
