@@ -9,7 +9,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | 0mega - Blog | 🔴 | 16/02/2023 18:29 | `http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion` | ❌ | 
-| 0mega - Blog | 🟢 | 17/02/2023 23:31 | `http://0mega.cc` | ❌ | 
+| 0mega - Blog | 🟢 | 18/02/2023 01:50 | `http://0mega.cc` | ❌ | 
 
 ### Posts
 
@@ -25,4 +25,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 18/02/2023 00.23 (UTC)_
+Last update : _Saturday 18/02/2023 02.41 (UTC)_

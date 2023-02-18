@@ -16,7 +16,7 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| ransomexx2 | 🔴 | 16/02/2023 19:12 | `http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` | ❌ | 
+| ransomexx2 | 🟢 | 18/02/2023 02:30 | `http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` | ❌ | 
 
 ### Posts
 
@@ -69,4 +69,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 18/02/2023 00.23 (UTC)_
+Last update : _Saturday 18/02/2023 02.41 (UTC)_

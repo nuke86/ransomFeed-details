@@ -20,7 +20,7 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| BianLian - Home | 🟢 | 17/02/2023 23:35 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | ❌ | 
+| BianLian - Home | 🟢 | 18/02/2023 01:55 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | ❌ | 
 
 ### Posts
 
@@ -144,4 +144,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 18/02/2023 00.23 (UTC)_
+Last update : _Saturday 18/02/2023 02.41 (UTC)_

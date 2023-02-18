@@ -6,7 +6,7 @@
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | 0mega - Blog | 🔴 | 16/02/2023 18:29 | `http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion` | ❌ | 
-| 0mega - Blog | 🟢 | 17/02/2023 23:31 | `http://0mega.cc` | ❌ | 
+| 0mega - Blog | 🟢 | 18/02/2023 01:50 | `http://0mega.cc` | ❌ | 
 
 ### Posts
 
@@ -28,7 +28,7 @@
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | تبر ابراهیم – Abraham's Ax | 🔴 | 16/02/2023 18:31 | `http://abrahamm32umasogaqojib3ey2w2nwoafffrguq43tsyke4s3fz3w4yd.onion` | ❌ | 
-| تبر ابراهیم – Abraham's Ax | 🟢 | 17/02/2023 23:33 | `http://abrahams-ax.se` | ❌ | 
+| تبر ابراهیم – Abraham's Ax | 🔴 | 17/02/2023 23:33 | `http://abrahams-ax.se` | ❌ | 
 
 ### Posts
 
@@ -134,7 +134,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🔴 | 16/02/2023 18:33 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | ❌ | 
+|   | 🟢 | 18/02/2023 01:52 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | ❌ | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 25/01/2023 18:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | ❌ | 
 
@@ -704,8 +704,8 @@ _`captcha prevents indexing`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| DDOS Protection | 🟢 | 17/02/2023 23:34 | `http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion` | ❌ | 
-| AvosLocker | 🟢 | 17/02/2023 23:34 | `http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion` | ❌ | 
+| DDOS Protection | 🟢 | 18/02/2023 01:53 | `http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion` | ❌ | 
+| AvosLocker | 🟢 | 18/02/2023 01:54 | `http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion` | ❌ | 
 
 ### Crypto wallets
 * 💰 <a href="/#/crypto/avoslocker.md">Crypto wallet(s) available</a>
@@ -873,7 +873,7 @@ _`captcha prevents indexing`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| BianLian - Home | 🟢 | 17/02/2023 23:35 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | ❌ | 
+| BianLian - Home | 🟢 | 18/02/2023 01:55 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | ❌ | 
 
 ### Posts
 
@@ -1004,8 +1004,8 @@ _`captcha prevents indexing`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Black Basta Blog | 🔴 | 18/12/2022 22:23 | `http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion` | ❌ | 
-| Chat Black Basta | 🟢 | 17/02/2023 23:36 | `http://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion` | ❌ | 
-| Chat Black Basta | 🟢 | 17/02/2023 23:37 | `http://bastad5huzwkepdixedg2gekg7jk22ato24zyllp6lnjx7wdtyctgvyd.onion` | ❌ | 
+| Chat Black Basta | 🟢 | 18/02/2023 01:56 | `http://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion` | ❌ | 
+| Chat Black Basta | 🟢 | 18/02/2023 01:56 | `http://bastad5huzwkepdixedg2gekg7jk22ato24zyllp6lnjx7wdtyctgvyd.onion` | ❌ | 
 
 ### Posts
 
@@ -1489,7 +1489,7 @@ _`claim to donate 80% of earnings to charity`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Login | 🟢 | 17/02/2023 23:40 | `http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion` | ❌ | 
+| Login | 🔴 | 17/02/2023 23:40 | `http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion` | ❌ | 
 
 ### Posts
 
@@ -1511,7 +1511,7 @@ _`claim to donate 80% of earnings to charity`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://ekbgzchl6x2ias37.onion` | ❌ | 
-| HOME - CL0P^_- LEAKS | 🟢 | 17/02/2023 23:40 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | ❌ | 
+| HOME - CL0P^_- LEAKS | 🟢 | 18/02/2023 01:59 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | ❌ | 
 
 ### Posts
 
@@ -1663,7 +1663,7 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | CONTI.News | 🔴 | 22/06/2022 06:25 | `http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion` | ❌ | 
-| none | 🟢 | 17/02/2023 23:41 | `http://continews.click` | ❌ | 
+| none | 🟢 | 18/02/2023 01:59 | `http://continews.click` | ❌ | 
 | Error Response Page | 🔴 | 23/11/2022 12:36 | `http://continews.bz` | ❌ | 
 
 ### Crypto wallets
@@ -2090,7 +2090,7 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://cuba4mp6ximo2zlo.onion` | ❌ | 
-| Cuba | 🟢 | 17/02/2023 23:42 | `http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` | ❌ | 
+| Cuba | 🟢 | 18/02/2023 02:00 | `http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` | ❌ | 
 
 ### Crypto wallets
 * 💰 <a href="/#/crypto/cuba.md">Crypto wallet(s) available</a>
@@ -2221,7 +2221,7 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 10/11/2022 22:30 | `http://232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion` | ❌ | 
-| Data Leak | 🟢 | 17/02/2023 23:42 | `http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion` | ❌ | 
+| Data Leak | 🔴 | 17/02/2023 23:42 | `http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion` | ❌ | 
 
 ### Posts
 
@@ -2286,8 +2286,8 @@ _`marketplace - not a ransomware group, reputation questionable`_
 |---|---|---|---|---|
 | Dark Leak Market | 🔴 | 07/10/2021 16:14 | `http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion` | ❌ | 
 | fresh CC Fullz CVV autoShop Buy Fullz Online – Ful | 🔴 | 20/01/2023 06:43 | `http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion` | ❌ | 
-| Dark Leak Market | 🔴 | 16/02/2023 18:43 | `http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion` | ❌ | 
-| Dark Leak Market | 🟢 | 17/02/2023 23:44 | `http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion` | ❌ | 
+| Dark Leak Market | 🟢 | 18/02/2023 02:02 | `http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion` | ❌ | 
+| Dark Leak Market | 🔴 | 17/02/2023 23:44 | `http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion` | ❌ | 
 
 ### Posts
 
@@ -2370,7 +2370,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| DataLeak | 🟢 | 17/02/2023 23:45 | `http://woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion` | ❌ | 
+| DataLeak | 🔴 | 17/02/2023 23:45 | `http://woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion` | ❌ | 
 
 ### Posts
 
@@ -2459,7 +2459,7 @@ _`marketplace - not a ransomware group`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Dread Network Status | 🟢 | 17/02/2023 23:45 | `http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion` | ❌ | 
+| Dread Network Status | 🔴 | 17/02/2023 23:45 | `http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion` | ❌ | 
 
 ### Posts
 
@@ -2532,7 +2532,7 @@ _`captcha prevents indexing`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Everest Ransomware Group | 🔴 | 16/02/2023 18:45 | `http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion` | ❌ | 
+| Everest Ransomware Group | 🟢 | 18/02/2023 02:04 | `http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion` | ❌ | 
 
 ### Posts
 
@@ -3155,8 +3155,8 @@ _`aka hotarus corp`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Chat | 🟢 | 17/02/2023 23:47 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` | ❌ | 
-| Magazine | 🟢 | 17/02/2023 23:48 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` | ❌ | 
+| Chat | 🟢 | 18/02/2023 02:05 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` | ❌ | 
+| Magazine | 🟢 | 18/02/2023 02:05 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` | ❌ | 
 | none | 🔴 | 01/05/2021 00:00 | `http://karaleaks.com` | ❌ | 
 
 ### Crypto wallets
@@ -3262,7 +3262,7 @@ _`not a ransomware group`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Error | 🟢 | 17/02/2023 23:48 | `http://kelvinsecteamcyber.wixsite.com` | ❌ | 
+| Error | 🟢 | 18/02/2023 02:06 | `http://kelvinsecteamcyber.wixsite.com` | ❌ | 
 
 ### Posts
 
@@ -4419,25 +4419,25 @@ _`previous clearnet fqdn lockbitapt.uz`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| LockBit BLOG | 🟢 | 17/02/2023 23:49 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` | ❌ | 
-| LockBit BLOG | 🟢 | 17/02/2023 23:50 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` | ❌ | 
-| LockBit BLOG | 🟢 | 17/02/2023 23:50 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` | ❌ | 
-| LockBit BLOG | 🟢 | 17/02/2023 23:51 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | ❌ | 
-| LockBit BLOG | 🟢 | 17/02/2023 23:52 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | ❌ | 
-| LockBit BLOG | 🟢 | 17/02/2023 23:52 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | ❌ | 
-| LockBit BLOG | 🟢 | 17/02/2023 23:53 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | ❌ | 
-| LockBit BLOG | 🔴 | 16/02/2023 18:52 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | ❌ | 
-| LockBit BLOG | 🔴 | 16/02/2023 18:52 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` | ❌ | 
-| LockBit BLOG | 🟢 | 17/02/2023 23:54 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | ❌ | 
-| LockBit LOGIN | 🟢 | 17/02/2023 23:55 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` | ❌ | 
-| LockBit LOGIN | 🟢 | 17/02/2023 23:56 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` | ❌ | 
-| LockBit LOGIN | 🟢 | 17/02/2023 23:57 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` | ❌ | 
-| LockBit LOGIN | 🟢 | 17/02/2023 23:57 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` | ❌ | 
-| LockBit LOGIN | 🟢 | 17/02/2023 23:57 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` | ❌ | 
-| LockBit LOGIN | 🟢 | 17/02/2023 23:58 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | ❌ | 
-| LockBit LOGIN | 🟢 | 17/02/2023 23:58 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | ❌ | 
-| LockBit LOGIN | 🟢 | 17/02/2023 23:59 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` | ❌ | 
-| LockBit LOGIN | 🟢 | 17/02/2023 23:59 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | ❌ | 
+| LockBit BLOG | 🟢 | 18/02/2023 02:06 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` | ❌ | 
+| LockBit BLOG | 🔴 | 17/02/2023 23:50 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` | ❌ | 
+| LockBit BLOG | 🟢 | 18/02/2023 02:08 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` | ❌ | 
+| LockBit BLOG | 🟢 | 18/02/2023 02:08 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | ❌ | 
+| LockBit BLOG | 🟢 | 18/02/2023 02:09 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | ❌ | 
+| LockBit BLOG | 🟢 | 18/02/2023 02:10 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | ❌ | 
+| LockBit BLOG | 🔴 | 17/02/2023 23:53 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | ❌ | 
+| LockBit BLOG | 🟢 | 18/02/2023 02:11 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | ❌ | 
+| LockBit BLOG | 🟢 | 18/02/2023 02:12 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` | ❌ | 
+| LockBit BLOG | 🟢 | 18/02/2023 02:12 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | ❌ | 
+| LockBit LOGIN | 🟢 | 18/02/2023 02:13 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` | ❌ | 
+| LockBit LOGIN | 🔴 | 17/02/2023 23:56 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` | ❌ | 
+| LockBit LOGIN | 🟢 | 18/02/2023 02:14 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` | ❌ | 
+| LockBit LOGIN | 🟢 | 18/02/2023 02:14 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` | ❌ | 
+| LockBit LOGIN | 🟢 | 18/02/2023 02:15 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` | ❌ | 
+| LockBit LOGIN | 🟢 | 18/02/2023 02:15 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | ❌ | 
+| LockBit LOGIN | 🟢 | 18/02/2023 02:16 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | ❌ | 
+| LockBit LOGIN | 🟢 | 18/02/2023 02:17 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` | ❌ | 
+| LockBit LOGIN | 🟢 | 18/02/2023 02:17 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | ❌ | 
 
 ### Posts
 
@@ -5048,7 +5048,7 @@ _`marketplace - not a ransomware group`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 27/08/2022 08:28 | `http://mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion` | ❌ | 
-| none | 🟢 | 18/02/2023 00:00 | `http://obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd.onion` | ❌ | 
+| none | 🟢 | 18/02/2023 02:18 | `http://obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd.onion` | ❌ | 
 | none | 🔴 | 01/10/2022 05:15 | `http://nclen75pwlgebpxpsqhlcnxsmdvpyrr7ogz36ehhatfmkvakeyden6ad.onion` | ❌ | 
 
 ### Posts
@@ -5072,7 +5072,7 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Lorenz | 🟢 | 18/02/2023 00:01 | `http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` | ❌ | 
+| Lorenz | 🟢 | 18/02/2023 02:18 | `http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` | ❌ | 
 
 ### Posts
 
@@ -5238,7 +5238,7 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Mallox - Blog | 🟢 | 18/02/2023 00:02 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | ❌ | 
+| Mallox - Blog | 🟢 | 18/02/2023 02:20 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | ❌ | 
 
 ### Posts
 
@@ -5376,7 +5376,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Medusa Blog | 🟢 | 18/02/2023 00:03 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | ❌ | 
+| Medusa Blog | 🟢 | 18/02/2023 02:20 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | ❌ | 
 
 ### Posts
 
@@ -5413,7 +5413,7 @@ AP® Emissions Technologies is one of the leading manufacturers and suppliers of
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion` | ❌ | 
-| Ransomware blog – We will not give ourselves a nam | 🔴 | 16/02/2023 13:25 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` | ❌ | 
+| Ransomware blog – We will not give ourselves a nam | 🟢 | 18/02/2023 02:21 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` | ❌ | 
 
 ### Crypto wallets
 * 💰 <a href="/#/crypto/medusalocker.md">Crypto wallet(s) available</a>
@@ -5550,7 +5550,7 @@ AP® Emissions Technologies is one of the leading manufacturers and suppliers of
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | 404 Not Found | 🔴 | 10/10/2022 17:13 | `http://4s4lnfeujzo67fy2jebz2dxskez2gsqj2jeb35m75ktufxensdicqxad.onion` | ❌ | 
-| MONTI - Leaks site | 🟢 | 18/02/2023 00:04 | `http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion` | ❌ | 
+| MONTI - Leaks site | 🟢 | 18/02/2023 02:22 | `http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion` | ❌ | 
 
 ### Posts
 
@@ -5584,7 +5584,7 @@ _`not a ransomware group`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://mosesstaffm7hptp.onion` | ❌ | 
-| Activities – Moses Staff | 🟢 | 18/02/2023 00:04 | `http://moses-staff.se` | ❌ | 
+| Your access to this site has been limited by the s | 🟢 | 18/02/2023 02:22 | `http://moses-staff.se` | ❌ | 
 
 ### Posts
 
@@ -5761,7 +5761,7 @@ _`not a ransomware group`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Error | 🔴 | 12/02/2023 16:12 | `http://nevbackvzwfu5yu3gszap77bg66koadds6eln37gxdhdk4jdsbkayrid.onion` | ❌ | 
-| NEVADA | 🟢 | 18/02/2023 00:05 | `http://nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion` | ❌ | 
+| NEVADA | 🔴 | 18/02/2023 00:05 | `http://nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion` | ❌ | 
 
 ### Posts
 
@@ -6009,8 +6009,8 @@ _`aka vsop`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| PLAY NEWS | 🟢 | 18/02/2023 00:06 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` | ❌ | 
-| PLAY NEWS | 🟢 | 18/02/2023 00:07 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | ❌ | 
+| PLAY NEWS | 🟢 | 18/02/2023 02:24 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` | ❌ | 
+| PLAY NEWS | 🟢 | 18/02/2023 02:25 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | ❌ | 
 
 ### Posts
 
@@ -6086,7 +6086,7 @@ _`aka vsop`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Project Relic. Dumps, leaks, news, announcements | 🟢 | 18/02/2023 00:07 | `http://relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion` | ❌ | 
+| Project Relic. Dumps, leaks, news, announcements | 🟢 | 18/02/2023 02:25 | `http://relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion` | ❌ | 
 
 ### Posts
 
@@ -6491,7 +6491,7 @@ _`aka pwndlocker`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Qilin | 🔴 | 16/02/2023 19:08 | `http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion` | ❌ | 
-| Qilin blog | 🟢 | 18/02/2023 00:08 | `http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion` | ❌ | 
+| Qilin blog | 🟢 | 18/02/2023 02:27 | `http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion` | ❌ | 
 
 ### Posts
 
@@ -6547,7 +6547,7 @@ _`login page, no posts`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Quantum Blog | 🟢 | 18/02/2023 00:09 | `http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion` | ❌ | 
+| Quantum Blog | 🟢 | 18/02/2023 02:27 | `http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion` | ❌ | 
 | Secure Chat | 🔴 | 29/08/2022 08:32 | `http://22rnyep2aa2exx3fdm26p4onwjfmhciodb55v5l3w4iny7e5bxpg3yad.onion` | ❌ | 
 
 ### Posts
@@ -6640,7 +6640,7 @@ _`login page, no posts`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://rgleak7op734elep.onion` | ❌ | 
-| Home Page of Ragnar_Locker Leaks site | 🟢 | 18/02/2023 00:09 | `http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` | ❌ | 
+| Home Page of Ragnar_Locker Leaks site | 🟢 | 18/02/2023 02:28 | `http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` | ❌ | 
 | none | 🔴 | 01/05/2021 00:00 | `http://p6o7m73ujalhgkiv.onion` | ❌ | 
 
 ### Crypto wallets
@@ -6797,7 +6797,7 @@ _`Forum`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion` | ❌ | 
-| Log in - RAMP | 🟢 | 18/02/2023 00:10 | `http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion` | ❌ | 
+| Log in - RAMP | 🟢 | 18/02/2023 02:28 | `http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion` | ❌ | 
 | none | 🔴 | 01/05/2021 00:00 | `http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion` | ❌ | 
 
 ### Posts
@@ -6813,7 +6813,7 @@ _`Forum`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| none | 🟢 | 18/02/2023 00:11 | `http://ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion` | ❌ | 
+| none | 🟢 | 18/02/2023 02:29 | `http://ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion` | ❌ | 
 
 ### Posts
 
@@ -6858,7 +6858,7 @@ _`Forum`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| ransomexx2 | 🔴 | 16/02/2023 19:12 | `http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` | ❌ | 
+| ransomexx2 | 🟢 | 18/02/2023 02:30 | `http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` | ❌ | 
 
 ### Posts
 
@@ -6920,7 +6920,7 @@ _`Forum`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | ©RansomHouse | 🔴 | 01/10/2022 13:32 | `http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion` | ❌ | 
-| none | 🟢 | 18/02/2023 00:12 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | ❌ | 
+| none | 🟢 | 18/02/2023 02:30 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | ❌ | 
 | Ransomhouse © | 🔴 | 14/01/2023 21:31 | `http://secxrosqawaefsio3biv2dmi2c5yunf3t7ilwf54czq3v4bi7w6mbfad.onion` | ❌ | 
 
 ### Posts
@@ -7099,7 +7099,7 @@ _`Forum`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Today on Tumblr | 🟢 | 18/02/2023 00:13 | `http://robinhoodleaks.tumblr.com` | ❌ | 
+| Today on Tumblr | 🟢 | 18/02/2023 02:32 | `http://robinhoodleaks.tumblr.com` | ❌ | 
 
 ### Posts
 
@@ -7148,8 +7148,8 @@ _`Forum`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 18/02/2023 00:14 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | ❌ | 
-| none | 🔴 | 16/02/2023 19:15 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | ❌ | 
+| Royal | 🟢 | 18/02/2023 02:32 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | ❌ | 
+| none | 🟢 | 18/02/2023 02:33 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | ❌ | 
 
 ### Posts
 
@@ -7303,7 +7303,7 @@ _`Forum`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| none | 🔴 | 16/02/2023 19:16 | `http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion` | ❌ | 
+| none | 🟢 | 18/02/2023 02:33 | `http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion` | ❌ | 
 
 ### Posts
 
@@ -7387,7 +7387,7 @@ _`Forum`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| News | 🔴 | 16/02/2023 19:16 | `http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` | ❌ | 
+| News | 🟢 | 18/02/2023 02:34 | `http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` | ❌ | 
 | Access Denied | 🔴 | 29/01/2023 17:17 | `http://snatch.press` | ❌ | 
 
 ### Posts
@@ -7645,7 +7645,7 @@ _`Forum`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| News | 🟢 | 18/02/2023 00:16 | `http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` | ❌ | 
+| News | 🟢 | 18/02/2023 02:34 | `http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` | ❌ | 
 | none | 🔴 | 01/05/2021 00:00 | `http://nbzzb6sa6xuura2z.onion` | ❌ | 
 
 ### Crypto wallets
@@ -7741,7 +7741,7 @@ _`nodes or hosts with no current attribution or identification`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Home - UnSafeBlog | 🔴 | 16/02/2023 19:17 | `http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion` | ❌ | 
+| Home - UnSafeBlog | 🟢 | 18/02/2023 02:35 | `http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion` | ❌ | 
 
 ### Posts
 
@@ -7768,7 +7768,7 @@ _`V is Vendetta a new blog from Cuba Ransomware`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Vendetta | 🟢 | 18/02/2023 00:18 | `http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` | ❌ | 
+| Vendetta | 🟢 | 18/02/2023 02:36 | `http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` | ❌ | 
 
 ### Posts
 
@@ -7813,11 +7813,11 @@ _`ecdmr42axxx.onion - fileserver`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://4hzyuotli6maqa4u.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 18/02/2023 00:19 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | ❌ | 
+| Vice Society - Official Site | 🔴 | 18/02/2023 00:19 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | ❌ | 
 | there is nothing... | 🔴 | 21/09/2022 17:27 | `http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 18/02/2023 00:20 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 18/02/2023 00:21 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 18/02/2023 00:21 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | ❌ | 
+| Vice Society - Official Site | 🔴 | 18/02/2023 00:20 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | ❌ | 
+| Vice Society - Official Site | 🟢 | 18/02/2023 02:39 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | ❌ | 
+| Vice Society - Official Site | 🟢 | 18/02/2023 02:40 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | ❌ | 
 
 ### Posts
 
@@ -8112,7 +8112,7 @@ _`aka fonix`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| ZEON.Recovery - Enter the key | 🟢 | 18/02/2023 00:22 | `http://zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion` | ❌ | 
+| ZEON.Recovery - Enter the key | 🟢 | 18/02/2023 02:40 | `http://zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion` | ❌ | 
 
 ### Posts
 
@@ -8122,4 +8122,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Saturday 18/02/2023 00.23 (UTC)_
+Last update : _Saturday 18/02/2023 02.41 (UTC)_

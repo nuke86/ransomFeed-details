@@ -206,4 +206,4 @@
 | 2023-01-26 | [`ServiceMaster`](https://google.com/search?q=ServiceMaster) | [royal](profiles.md?id=royal) |
 | 2023-01-26 | [`SOLAR INDUSTRIES INDIA WAS HACKED. MORE THAN 2TB SECRET MILITARY DATA LEAKED`](https://google.com/search?q=SOLAR+INDUSTRIES+INDIA+WAS+HACKED.+MORE+THAN+2TB+SECRET+MILITARY+DATA+LEAKED) | [alphv](profiles.md?id=alphv) |
 
-Last update : _Saturday 18/02/2023 00.23 (UTC)_
+Last update : _Saturday 18/02/2023 02.41 (UTC)_
