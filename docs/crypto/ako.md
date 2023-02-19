@@ -4,5 +4,5 @@
 |---|---|---|
 | [1DUBrMcH9T13oFSa59jxtFDM5eWTP8v2yc](https://www.blockchain.com/explorer/addresses/btc/1DUBrMcH9T13oFSa59jxtFDM5eWTP8v2yc) | bitcoin | $ 33442 |
 
-Last update : _Sunday 19/02/2023 09.21 (UTC)_
+Last update : _Sunday 19/02/2023 11.19 (UTC)_
 
