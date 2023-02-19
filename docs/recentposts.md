@@ -206,4 +206,4 @@
 | 2023-01-30 | [`thermal.com`](https://google.com/search?q=thermal.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-30 | [`cm-vimioso.pt`](https://google.com/search?q=cm-vimioso.pt) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Sunday 19/02/2023 19.45 (UTC)_
+Last update : _Sunday 19/02/2023 21.19 (UTC)_
