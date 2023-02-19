@@ -1,6 +1,6 @@
 
 
-_All `5174` posts_
+_All `5180` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,12 @@ _All `5174` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-19 | [`BakerMechanicalInc.com`](https://google.com/search?q=BakerMechanicalInc.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-19 | [`jetboxcargo.com`](https://google.com/search?q=jetboxcargo.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-19 | [`servicesfinanciersjdf.com`](https://google.com/search?q=servicesfinanciersjdf.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-19 | [`laremo.de`](https://google.com/search?q=laremo.de) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-19 | [`elliotthomes.com`](https://google.com/search?q=elliotthomes.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-19 | [`anthonymartin.be`](https://google.com/search?q=anthonymartin.be) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`Leal Group`](https://google.com/search?q=Leal+Group) | [alphv](profiles.md?id=alphv) |
 | 2023-02-18 | [`AMADA WELD TECH`](https://google.com/search?q=AMADA+WELD+TECH) | [alphv](profiles.md?id=alphv) |
 | 2023-02-18 | [`Hengmei Optoelectronics Co.,Ltd.`](https://google.com/search?q=Hengmei+Optoelectronics+Co.%2CLtd.) | [alphv](profiles.md?id=alphv) |
@@ -5184,4 +5190,4 @@ _All `5174` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Sunday 19/02/2023 15.09 (UTC)_
+Last update : _Sunday 19/02/2023 19.45 (UTC)_

@@ -5,6 +5,12 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-19 | [`BakerMechanicalInc.com`](https://google.com/search?q=BakerMechanicalInc.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-19 | [`jetboxcargo.com`](https://google.com/search?q=jetboxcargo.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-19 | [`servicesfinanciersjdf.com`](https://google.com/search?q=servicesfinanciersjdf.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-19 | [`laremo.de`](https://google.com/search?q=laremo.de) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-19 | [`elliotthomes.com`](https://google.com/search?q=elliotthomes.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-19 | [`anthonymartin.be`](https://google.com/search?q=anthonymartin.be) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`Leal Group`](https://google.com/search?q=Leal+Group) | [alphv](profiles.md?id=alphv) |
 | 2023-02-18 | [`AMADA WELD TECH`](https://google.com/search?q=AMADA+WELD+TECH) | [alphv](profiles.md?id=alphv) |
 | 2023-02-18 | [`Hengmei Optoelectronics Co.,Ltd.`](https://google.com/search?q=Hengmei+Optoelectronics+Co.%2CLtd.) | [alphv](profiles.md?id=alphv) |
@@ -199,11 +205,5 @@
 | 2023-01-30 | [`dsavocats.com`](https://google.com/search?q=dsavocats.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-30 | [`thermal.com`](https://google.com/search?q=thermal.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-30 | [`cm-vimioso.pt`](https://google.com/search?q=cm-vimioso.pt) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-30 | [`fritsche.eu.com`](https://google.com/search?q=fritsche.eu.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-30 | [`luacesasesores.es`](https://google.com/search?q=luacesasesores.es) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-30 | [`perenitysoftware.com`](https://google.com/search?q=perenitysoftware.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-29 | [`NPTC Group of Colleges`](https://google.com/search?q=NPTC+Group+of+Colleges) | [vicesociety](profiles.md?id=vicesociety) |
-| 2023-01-29 | [`azliver.com`](https://google.com/search?q=azliver.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-28 | [`Seguros Equinoccial`](https://google.com/search?q=Seguros+Equinoccial) | [vicesociety](profiles.md?id=vicesociety) |
 
-Last update : _Sunday 19/02/2023 15.09 (UTC)_
+Last update : _Sunday 19/02/2023 19.45 (UTC)_
