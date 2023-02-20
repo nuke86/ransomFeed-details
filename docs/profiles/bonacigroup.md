@@ -25,4 +25,4 @@ _`claim to donate 80% of earnings to charity`_
  --- 
 
 
-Last update : _Monday 20/02/2023 11.29 (UTC)_
+Last update : _Monday 20/02/2023 13.33 (UTC)_

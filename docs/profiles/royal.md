@@ -8,15 +8,17 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 20/02/2023 11:21 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 20/02/2023 11:22 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 20/02/2023 13:22 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 20/02/2023 13:23 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 137 posts found
+> 139 posts found
 
 | post | date | Description
 |---|---|---|
+| [`DALLAS SCHOOL DISTRICT`](http://www.dallas.k12.or.us) | 20/02/2023 | Dallas School District is centered on students, powered by collaboration, built on equity and driven by excellence.Headquarters: 111 SW Ash St, Dallas, Oregon, 97338, United StatesPhone: (503) 623-5594 |
+| [`Ancora - Sistemas de Fixacao`](https://www.ancora.com.br) | 20/02/2023 |  |
 | [`Evans Consoles`](http://www.evansonline.com) | 16/02/2023 | For over four decades, Evans has been the global leader in providing innovative solutions for mission-critical operations. We serve a diverse client base, including public safety, aviation, process control, utilities, and technology, as well as numerous government agencies. With the industry’s largest portfolio of projects worldwide, serving 15 industries, it’s our proven methodology, strict quality standards, and experience that make the difference for our customers. Looking for current openings? Jump on over to our careers page.Our executive team is the most experienced in the industry and provides the thought leadership that positions Evans as the Global Leader in mission-critical operations, console design and manufacturing. |
 | [`Alexandercity`](http://www.alexandercityal.gov) | 14/02/2023 | Your travel and local community guide to Alex City, Alabama. Explore the Alexander City AL directory for hotels, restaurants, shopping, real estate, churches, government, schools, attractions and recreation.City department data.Data of contractors and subcontractors |
 | [`Delallo`](https://www.delallo.com) | 14/02/2023 | Founded in 1950, Delallo is a Company that offers Italian food products such as pasta and grains, sauces, tomatoes, olives, oils, vinegar, cured meats, and pickled vegetables.Headquarters: 1 Delallo Way, Mount Pleasant, Pennsylvania, 15666, United States |
@@ -158,4 +160,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Monday 20/02/2023 11.29 (UTC)_
+Last update : _Monday 20/02/2023 13.33 (UTC)_

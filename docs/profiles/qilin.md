@@ -10,14 +10,15 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Qilin | 🔴 | 16/02/2023 19:08 | `http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion` | <a href="https://www.ransomware.live/screenshots/ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd-onion.png" target=_blank>📸</a> | 
-| Qilin blog | 🟢 | 20/02/2023 11:15 | `http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion` | <a href="https://www.ransomware.live/screenshots/kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad-onion.png" target=_blank>📸</a> | 
+| Qilin blog | 🟢 | 20/02/2023 13:17 | `http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion` | <a href="https://www.ransomware.live/screenshots/kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 11 posts found
+> 12 posts found
 
 | post | date | Description
 |---|---|---|
+| [`https://https://gigatron.rs/`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fgigatron.rs%2F) | 20/02/2023 |  |
 | [`https://dialog.com.au`](https://google.com/search?q=https%3A%2F%2Fdialog.com.au) | 21/11/2022 |   |
 | [`https://robertbernard.com`](https://google.com/search?q=https%3A%2F%2Frobertbernard.com) | 21/11/2022 |   |
 | [`https://contempocard.com`](https://google.com/search?q=https%3A%2F%2Fcontempocard.com) | 21/11/2022 |   |
@@ -33,4 +34,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Monday 20/02/2023 11.29 (UTC)_
+Last update : _Monday 20/02/2023 13.33 (UTC)_
