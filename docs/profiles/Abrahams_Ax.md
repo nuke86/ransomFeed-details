@@ -8,8 +8,8 @@ _Parser : `Not available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Database Error | 🟢 | 20/02/2023 12:44 | `http://abrahamm32umasogaqojib3ey2w2nwoafffrguq43tsyke4s3fz3w4yd.onion` | <a href="https://www.ransomware.live/screenshots/abrahamm32umasogaqojib3ey2w2nwoafffrguq43tsyke4s3fz3w4yd-onion.png" target=_blank>📸</a> | 
-| تبر ابراهیم – Abraham's Ax | 🟢 | 20/02/2023 12:45 | `http://abrahams-ax.se` | <a href="https://www.ransomware.live/screenshots/abrahams-ax-se.png" target=_blank>📸</a> | 
+| Database Error | 🟢 | 20/02/2023 14:24 | `http://abrahamm32umasogaqojib3ey2w2nwoafffrguq43tsyke4s3fz3w4yd.onion` | <a href="https://www.ransomware.live/screenshots/abrahamm32umasogaqojib3ey2w2nwoafffrguq43tsyke4s3fz3w4yd-onion.png" target=_blank>📸</a> | 
+| تبر ابراهیم – Abraham's Ax | 🟢 | 20/02/2023 14:25 | `http://abrahams-ax.se` | <a href="https://www.ransomware.live/screenshots/abrahams-ax-se.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -19,4 +19,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Monday 20/02/2023 13.33 (UTC)_
+Last update : _Monday 20/02/2023 15.14 (UTC)_

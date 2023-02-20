@@ -8,7 +8,7 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Quantum Blog | 🟢 | 20/02/2023 13:17 | `http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion` | <a href="https://www.ransomware.live/screenshots/quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid-onion.png" target=_blank>📸</a> | 
+| Quantum Blog | 🟢 | 20/02/2023 15:01 | `http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion` | <a href="https://www.ransomware.live/screenshots/quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid-onion.png" target=_blank>📸</a> | 
 | Secure Chat | 🔴 | 29/08/2022 08:32 | `http://22rnyep2aa2exx3fdm26p4onwjfmhciodb55v5l3w4iny7e5bxpg3yad.onion` | ❌ | 
 
 ### Posts
@@ -89,4 +89,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Monday 20/02/2023 13.33 (UTC)_
+Last update : _Monday 20/02/2023 15.14 (UTC)_
