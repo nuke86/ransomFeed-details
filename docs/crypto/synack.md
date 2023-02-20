@@ -4,5 +4,5 @@
 |---|---|---|
 | [15n6gV8QUBsy2yh7wqLppWG4Fw4gsUTNAj](https://www.blockchain.com/explorer/addresses/btc/15n6gV8QUBsy2yh7wqLppWG4Fw4gsUTNAj) | bitcoin | $ 491052 |
 
-Last update : _Monday 20/02/2023 09.37 (UTC)_
+Last update : _Monday 20/02/2023 11.29 (UTC)_
 
