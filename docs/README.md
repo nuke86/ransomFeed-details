@@ -1,4 +1,4 @@
-_february 19th, 2023_
+_february 20th, 2023_
 
 ---
 
@@ -34,5 +34,5 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 
 
-Last update : _Sunday 19/02/2023 23.15 (UTC)_
+Last update : _Monday 20/02/2023 02.46 (UTC)_
 

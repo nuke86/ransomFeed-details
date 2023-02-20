@@ -206,4 +206,4 @@
 | 2023-01-30 | [`dsavocats.com`](https://google.com/search?q=dsavocats.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-30 | [`thermal.com`](https://google.com/search?q=thermal.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Sunday 19/02/2023 23.15 (UTC)_
+Last update : _Monday 20/02/2023 02.46 (UTC)_
