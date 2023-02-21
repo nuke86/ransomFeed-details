@@ -14,15 +14,16 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| PLAY NEWS | 🟢 | 20/02/2023 23:00 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
-| PLAY NEWS | 🟢 | 20/02/2023 23:01 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
+| PLAY NEWS | 🟢 | 21/02/2023 02:29 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
+| PLAY NEWS | 🟢 | 21/02/2023 02:29 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 59 posts found
+> 60 posts found
 
 | post | date | Description
 |---|---|---|
+| [`I???o e???t???`](https://www.i?????e???t???.de) | 21/02/2023 | Germany |
 | [`Microgame SpA`](https://www.microgame.it) | 14/02/2023 | Italy |
 | [`Energie Pool Schweiz`](https://www.energie-pool.ch) | 14/02/2023 | Zurich, Switzerland |
 | [`M???????? S??`](https://google.com/search?q=M%3F%3F%3F%3F%3F%3F%3F%3F+S%3F%3F) | 09/02/2023 |  |
@@ -86,4 +87,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Monday 20/02/2023 23.17 (UTC)_
+Last update : _Tuesday 21/02/2023 02.45 (UTC)_
