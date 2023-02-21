@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-21 | [`Highwealth`](https://google.com/search?q=Highwealth) | [vendetta](profiles.md?id=vendetta) |
 | 2023-02-21 | [`I???o e???t???`](https://google.com/search?q=I%3F%3F%3Fo+e%3F%3F%3Ft%3F%3F%3F) | [play](profiles.md?id=play) |
 | 2023-02-20 | [`Hopsteiner`](https://google.com/search?q=Hopsteiner) | [lorenz](profiles.md?id=lorenz) |
 | 2023-02-20 | [`UNIS`](https://google.com/search?q=UNIS) | [royal](profiles.md?id=royal) |
@@ -204,6 +205,5 @@
 | 2023-01-30 | [`Bank of Africa`](https://google.com/search?q=Bank+of+Africa) | [medusa](profiles.md?id=medusa) |
 | 2023-01-30 | [`fujikura.co.jp`](https://google.com/search?q=fujikura.co.jp) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-30 | [`wealthwise.com.au`](https://google.com/search?q=wealthwise.com.au) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-30 | [`itsservicios.com.mx`](https://google.com/search?q=itsservicios.com.mx) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Tuesday 21/02/2023 11.15 (UTC)_
+Last update : _Tuesday 21/02/2023 15.13 (UTC)_
