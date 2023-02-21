@@ -5,6 +5,10 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-21 | [`kboattorneys.com`](https://google.com/search?q=kboattorneys.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-21 | [`treves-group.com`](https://google.com/search?q=treves-group.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-21 | [`beacontech.net`](https://google.com/search?q=beacontech.net) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-21 | [`vuu.edu`](https://google.com/search?q=vuu.edu) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-21 | [`lasegunda.com.ar`](https://google.com/search?q=lasegunda.com.ar) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-21 | [`lyonhealy.com`](https://google.com/search?q=lyonhealy.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-21 | [`Highwealth`](https://google.com/search?q=Highwealth) | [vendetta](profiles.md?id=vendetta) |
@@ -201,9 +205,5 @@
 | 2023-01-31 | [`tcels.or.th`](https://google.com/search?q=tcels.or.th) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-31 | [`parkavedoors.com`](https://google.com/search?q=parkavedoors.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-31 | [`geraardsbergen.be`](https://google.com/search?q=geraardsbergen.be) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-30 | [`Okanagan College`](https://google.com/search?q=Okanagan+College) | [vicesociety](profiles.md?id=vicesociety) |
-| 2023-01-30 | [`municipality of Torre del Greco`](https://google.com/search?q=municipality+of+Torre+del+Greco) | [royal](profiles.md?id=royal) |
-| 2023-01-30 | [`Scheppersinstituut Wetteren`](https://google.com/search?q=Scheppersinstituut+Wetteren) | [vicesociety](profiles.md?id=vicesociety) |
-| 2023-01-30 | [`Bank of Africa`](https://google.com/search?q=Bank+of+Africa) | [medusa](profiles.md?id=medusa) |
 
-Last update : _Tuesday 21/02/2023 21.31 (UTC)_
+Last update : _Tuesday 21/02/2023 23.25 (UTC)_

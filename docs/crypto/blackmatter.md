@@ -4,5 +4,5 @@
 |---|---|---|
 | [bc1q2855268hg3lm34qwk5jvnnjm762ef8rkdvyjez](https://www.blockchain.com/explorer/addresses/btc/bc1q2855268hg3lm34qwk5jvnnjm762ef8rkdvyjez) | bitcoin | $ 4070929 |
 
-Last update : _Tuesday 21/02/2023 21.31 (UTC)_
+Last update : _Tuesday 21/02/2023 23.25 (UTC)_
 
