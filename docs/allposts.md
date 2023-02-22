@@ -1,6 +1,6 @@
 
 
-_All `5209` posts_
+_All `5210` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `5209` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-22 | [`Moose, Martin, Haynes & Lundy`](https://google.com/search?q=Moose%2C+Martin%2C+Haynes+%26+Lundy) | [medusa](profiles.md?id=medusa) |
 | 2023-02-22 | [`BULOG`](https://google.com/search?q=BULOG) | [ransomexx](profiles.md?id=ransomexx) |
 | 2023-02-22 | [`AASP claim there was no data leakage!`](https://google.com/search?q=AASP+claim+there+was+no+data+leakage%21) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2023-02-22 | [`RAYAB Consulting Engineers`](https://google.com/search?q=RAYAB+Consulting+Engineers) | [medusa](profiles.md?id=medusa) |
@@ -5219,4 +5220,4 @@ _All `5209` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Wednesday 22/02/2023 19.40 (UTC)_
+Last update : _Wednesday 22/02/2023 21.15 (UTC)_
