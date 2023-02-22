@@ -5,6 +5,14 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-22 | [`skylinetrisource.com`](https://google.com/search?q=skylinetrisource.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-22 | [`fosterfarms.com`](https://google.com/search?q=fosterfarms.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-22 | [`La Filipina`](https://google.com/search?q=La+Filipina) | [alphv](profiles.md?id=alphv) |
+| 2023-02-22 | [`Markas`](https://google.com/search?q=Markas) | [alphv](profiles.md?id=alphv) |
+| 2023-02-22 | [`Summit Brands`](https://google.com/search?q=Summit+Brands) | [alphv](profiles.md?id=alphv) |
+| 2023-02-22 | [`FUTURE BUILDINGS WAS HACKED. MORE THAN 150GB SENSETIVE DATA LEAKED`](https://google.com/search?q=FUTURE+BUILDINGS+WAS+HACKED.+MORE+THAN+150GB+SENSETIVE+DATA+LEAKED) | [alphv](profiles.md?id=alphv) |
+| 2023-02-22 | [`City of Lakewood`](https://google.com/search?q=City+of+Lakewood) | [alphv](profiles.md?id=alphv) |
+| 2023-02-22 | [`EncinoEnergy`](https://google.com/search?q=EncinoEnergy) | [alphv](profiles.md?id=alphv) |
 | 2023-02-21 | [`kboattorneys.com`](https://google.com/search?q=kboattorneys.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-21 | [`treves-group.com`](https://google.com/search?q=treves-group.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-21 | [`beacontech.net`](https://google.com/search?q=beacontech.net) | [lockbit3](profiles.md?id=lockbit3) |
@@ -197,13 +205,5 @@
 | 2023-02-02 | [`SOTO Consulting Engineers`](https://google.com/search?q=SOTO+Consulting+Engineers) | [alphv](profiles.md?id=alphv) |
 | 2023-02-02 | [`pharmagestao.com.br`](https://google.com/search?q=pharmagestao.com.br) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-01 | [`N** ******`](https://google.com/search?q=N%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
-| 2023-02-01 | [`Guildford County School`](https://google.com/search?q=Guildford+County+School) | [vicesociety](profiles.md?id=vicesociety) |
-| 2023-02-01 | [`TK Elevator`](https://google.com/search?q=TK+Elevator) | [royal](profiles.md?id=royal) |
-| 2023-01-31 | [`TechInsights`](https://google.com/search?q=TechInsights) | [vicesociety](profiles.md?id=vicesociety) |
-| 2023-01-31 | [`Societa Italiana Brevetti SpA`](https://google.com/search?q=Societa+Italiana+Brevetti+SpA) | [vicesociety](profiles.md?id=vicesociety) |
-| 2023-01-31 | [`2cara.fr`](https://google.com/search?q=2cara.fr) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-31 | [`tcels.or.th`](https://google.com/search?q=tcels.or.th) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-31 | [`parkavedoors.com`](https://google.com/search?q=parkavedoors.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-31 | [`geraardsbergen.be`](https://google.com/search?q=geraardsbergen.be) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Wednesday 22/02/2023 11.17 (UTC)_
+Last update : _Wednesday 22/02/2023 13.51 (UTC)_
