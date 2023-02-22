@@ -5,6 +5,10 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-22 | [`BULOG`](https://google.com/search?q=BULOG) | [ransomexx](profiles.md?id=ransomexx) |
+| 2023-02-22 | [`AASP claim there was no data leakage!`](https://google.com/search?q=AASP+claim+there+was+no+data+leakage%21) | [ragnarlocker](profiles.md?id=ragnarlocker) |
+| 2023-02-22 | [`RAYAB Consulting Engineers`](https://google.com/search?q=RAYAB+Consulting+Engineers) | [medusa](profiles.md?id=medusa) |
+| 2023-02-22 | [`ziapueblo.org`](https://google.com/search?q=ziapueblo.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-22 | [`nougat-carlier.be`](https://google.com/search?q=nougat-carlier.be) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-22 | [`siqueiracastro.com.br`](https://google.com/search?q=siqueiracastro.com.br) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-22 | [`skylinetrisource.com`](https://google.com/search?q=skylinetrisource.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -201,9 +205,5 @@
 | 2023-02-02 | [`biosonicsinc.com`](https://google.com/search?q=biosonicsinc.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`MESSER CUTTING SYSTEMS`](https://google.com/search?q=MESSER+CUTTING+SYSTEMS) | [royal](profiles.md?id=royal) |
 | 2023-02-02 | [`McEwan Fraser Legal`](https://google.com/search?q=McEwan+Fraser+Legal) | [alphv](profiles.md?id=alphv) |
-| 2023-02-02 | [`European Window`](https://google.com/search?q=European+Window) | [medusa](profiles.md?id=medusa) |
-| 2023-02-02 | [`iongroup.com`](https://google.com/search?q=iongroup.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-02 | [`Casa Ley`](https://google.com/search?q=Casa+Ley) | [royal](profiles.md?id=royal) |
-| 2023-02-02 | [`SOTO Consulting Engineers`](https://google.com/search?q=SOTO+Consulting+Engineers) | [alphv](profiles.md?id=alphv) |
 
-Last update : _Wednesday 22/02/2023 17.32 (UTC)_
+Last update : _Wednesday 22/02/2023 19.40 (UTC)_
