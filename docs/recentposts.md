@@ -5,6 +5,10 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-22 | [`Stone and Electrical Contractors`](https://google.com/search?q=Stone+and+Electrical+Contractors) | [royal](profiles.md?id=royal) |
+| 2023-02-22 | [`Bond It`](https://google.com/search?q=Bond+It) | [ransomhouse](profiles.md?id=ransomhouse) |
+| 2023-02-22 | [`PRESTIGE MAINTENANCE USA WAS HACKED`](https://google.com/search?q=PRESTIGE+MAINTENANCE+USA+WAS+HACKED) | [alphv](profiles.md?id=alphv) |
+| 2023-02-22 | [`Kendall Hunt Publishing`](https://google.com/search?q=Kendall+Hunt+Publishing) | [alphv](profiles.md?id=alphv) |
 | 2023-02-22 | [`Moose, Martin, Haynes & Lundy`](https://google.com/search?q=Moose%2C+Martin%2C+Haynes+%26+Lundy) | [medusa](profiles.md?id=medusa) |
 | 2023-02-22 | [`BULOG`](https://google.com/search?q=BULOG) | [ransomexx](profiles.md?id=ransomexx) |
 | 2023-02-22 | [`AASP claim there was no data leakage!`](https://google.com/search?q=AASP+claim+there+was+no+data+leakage%21) | [ragnarlocker](profiles.md?id=ragnarlocker) |
@@ -201,9 +205,5 @@
 | 2023-02-02 | [`nlsmichigan.org`](https://google.com/search?q=nlsmichigan.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`plasmasurgical.com`](https://google.com/search?q=plasmasurgical.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`avantetextil.com.mx`](https://google.com/search?q=avantetextil.com.mx) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-02 | [`byte.gr`](https://google.com/search?q=byte.gr) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-02 | [`seelllc.com`](https://google.com/search?q=seelllc.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-02 | [`biosonicsinc.com`](https://google.com/search?q=biosonicsinc.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-02 | [`MESSER CUTTING SYSTEMS`](https://google.com/search?q=MESSER+CUTTING+SYSTEMS) | [royal](profiles.md?id=royal) |
 
-Last update : _Wednesday 22/02/2023 21.15 (UTC)_
+Last update : _Wednesday 22/02/2023 23.15 (UTC)_

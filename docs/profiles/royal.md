@@ -8,15 +8,16 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 22/02/2023 21:05 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 22/02/2023 21:06 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 22/02/2023 23:03 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 22/02/2023 23:03 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 140 posts found
+> 141 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Stone and Electrical Contractors`](https://stoneandsons.com) | 22/02/2023 | Stone & Sons Electrical Contractors, Inc offers a wide range of electrical services in the Transportation, Industrial and Municipal Markets including new construction, custom designs/installations, repairs, maintenance and systems upgrades.﻿First established in 1994, our business now has more than 85 field employees as well as a large support staff. Our support staff includes a team of project managers, estimators, and electrical engineers. Together, our team offers our clients over 160 years of combined experience. |
 | [`UNIS`](https://www.unisco.com) | 20/02/2023 | Founded in 1989, Unis LLC has grown into a majority, nationally recognized Third-Party Logistics Provider (3PL). From humble beginnings with just a few trucks operating in Southern California, Unis has expanded into all major US markets, impacting the successful flow of commerce with superior technology, smarter supply chains, and faster execution.We credit our growth to an agile, customer-driven mindset, and strategic investments in technologies that give our clients the visibility and operational insights they require in today’s dynamic supply chain environment |
 | [`DALLAS SCHOOL DISTRICT`](http://www.dallas.k12.or.us) | 20/02/2023 | Dallas School District is centered on students, powered by collaboration, built on equity and driven by excellence.Headquarters: 111 SW Ash St, Dallas, Oregon, 97338, United StatesPhone: (503) 623-5594 |
 | [`Ancora - Sistemas de Fixacao`](https://www.ancora.com.br) | 20/02/2023 |  |
@@ -161,4 +162,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Wednesday 22/02/2023 21.15 (UTC)_
+Last update : _Wednesday 22/02/2023 23.15 (UTC)_

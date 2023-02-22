@@ -20,16 +20,18 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| none | 🔴 | 22/02/2023 18:31 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 22/02/2023 22:24 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 25/01/2023 18:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 289 posts found
+> 291 posts found
 
 | post | date | Description
 |---|---|---|
+| [`PRESTIGE MAINTENANCE USA WAS HACKED`](https://www.prestigeusa.net) | 22/02/2023 | Who is Prestige Maintenance USA  Prestige Maintenance USA, established in 1976 and headquartered in Plano, Texas, provides janitorial services that offer contract and project cleaning, general maintenance, window washing, carpet care, sanitation, and recycling services  Headquarters: 1808 10th St Ste 300, Plano, Texas, 75074, United States Phone Number: (972) 578-9801 Revenue: $472.4M Linkedin: http://www.linkedin.com/company/prestige-maintenance-usa Facebook: http://www.facebook.com/pmusa76 Twitter: http://www.twitter.com/prestige_m_usa |
+| [`Kendall Hunt Publishing`](https://kendallhunt.com) | 22/02/2023 | Founded in 1944, Kendall Hunt Publishing is a publisher of hands-on, inquiry-based science, mathematics, and gifted curricula for grades PreK-12. Their research and standards-based programs are available in both print and digital components that encompass students |
 | [`La Filipina`](https://www.lafilgroup.com/) | 22/02/2023 | La Filipina Group of Companies (the "Company") is committed to ensure that its business is conducted, in all respects and all the times, according to rigorous ethical, professional and legal standards, which prevail from time to time, in the industrial sectors. |
 | [`Markas`](https://www.markas.com/) | 22/02/2023 | Sice 1985, Markas has been synonymous with high quality, innovative facility services. The founder, Mario Kasslatter, has successfully established a wide range of services in order to provide each customer with a tailor-made facility servicesn. |
 | [`Summit Brands`](https://summitbrands.com/) | 22/02/2023 | Summit Brands is a family-owned business started in 1958 and offers highly effective, sustainable, and innovative household cleaning products |
@@ -323,4 +325,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Wednesday 22/02/2023 21.15 (UTC)_
+Last update : _Wednesday 22/02/2023 23.15 (UTC)_
