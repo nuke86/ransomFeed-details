@@ -1,6 +1,6 @@
 
 
-_All `5214` posts_
+_All `5215` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `5214` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-23 | [`Empresa Distribuidora de Electricidad del Este, Revenue $633.6M`](https://google.com/search?q=Empresa+Distribuidora+de+Electricidad+del+Este%2C+Revenue+%24633.6M) | [alphv](profiles.md?id=alphv) |
 | 2023-02-22 | [`Stone and Electrical Contractors`](https://google.com/search?q=Stone+and+Electrical+Contractors) | [royal](profiles.md?id=royal) |
 | 2023-02-22 | [`Bond It`](https://google.com/search?q=Bond+It) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-02-22 | [`PRESTIGE MAINTENANCE USA WAS HACKED`](https://google.com/search?q=PRESTIGE+MAINTENANCE+USA+WAS+HACKED) | [alphv](profiles.md?id=alphv) |
@@ -5224,4 +5225,4 @@ _All `5214` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Wednesday 22/02/2023 23.15 (UTC)_
+Last update : _Thursday 23/02/2023 05.31 (UTC)_
