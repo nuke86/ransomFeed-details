@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-23 | [`AESCULAPIUS Farmaceutici`](https://google.com/search?q=AESCULAPIUS+Farmaceutici) | [ransomhouse](profiles.md?id=ransomhouse) |
+| 2023-02-23 | [`"FICCI"`](https://google.com/search?q=%22FICCI%22) | [mallox](profiles.md?id=mallox) |
 | 2023-02-23 | [`Empresa Distribuidora de Electricidad del Este, Revenue $633.6M`](https://google.com/search?q=Empresa+Distribuidora+de+Electricidad+del+Este%2C+Revenue+%24633.6M) | [alphv](profiles.md?id=alphv) |
 | 2023-02-22 | [`Stone and Electrical Contractors`](https://google.com/search?q=Stone+and+Electrical+Contractors) | [royal](profiles.md?id=royal) |
 | 2023-02-22 | [`Bond It`](https://google.com/search?q=Bond+It) | [ransomhouse](profiles.md?id=ransomhouse) |
@@ -203,7 +205,5 @@
 | 2023-02-02 | [`fabricatedpipe.com`](https://google.com/search?q=fabricatedpipe.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`kostika.co.il`](https://google.com/search?q=kostika.co.il) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`transportsn.com`](https://google.com/search?q=transportsn.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-02 | [`nlsmichigan.org`](https://google.com/search?q=nlsmichigan.org) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-02 | [`plasmasurgical.com`](https://google.com/search?q=plasmasurgical.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Thursday 23/02/2023 05.31 (UTC)_
+Last update : _Thursday 23/02/2023 07.18 (UTC)_

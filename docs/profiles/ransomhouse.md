@@ -12,15 +12,16 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | ©RansomHouse | 🔴 | 01/10/2022 13:32 | `http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion` | ❌ | 
-| none | 🔴 | 22/02/2023 23:01 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 23/02/2023 07:07 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
 | Ransomhouse © | 🔴 | 14/01/2023 21:31 | `http://secxrosqawaefsio3biv2dmi2c5yunf3t7ilwf54czq3v4bi7w6mbfad.onion` | ❌ | 
 
 ### Posts
 
-> 26 posts found
+> 27 posts found
 
 | post | date | Description
 |---|---|---|
+| [`AESCULAPIUS Farmaceutici`](https://www.aesculapius.it/) | 23/02/2023 | The Research and Development Division is the heart of the company, which invests significant resources in innovation to develop new pharmaceutical products and new formulations with high technological content. |
 | [`Bond It`](https://www.bond-it.co.uk/) | 22/02/2023 | For almost two decades, Bond It has been a manufacturer of high performance, high quality building chemicals such as sealants, adhesives, grouts, cleaners, expanding foams, fillers, decorating sundries, landscaping products and other similar products. |
 | [`Hospital Service SpA`](https://www.hshospitalservice.com/) | 14/02/2023 | HS was founded in 1980 with the objective to promote and distribute throughout Italy new methods of minimally invasive interventional diagnostic technologies, introducing on the National market a new generation of echo-guided biopsy products. |
 | [`Jeffries Morris`](https://www.thejeffriescompanies.com/jeffries-morris) | 09/02/2023 | Jeffries Morris, Inc. provides acquisition, advisory and asset management services for real estate companies with investments in Metropolitan New York. |
@@ -51,4 +52,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 23/02/2023 05.31 (UTC)_
+Last update : _Thursday 23/02/2023 07.18 (UTC)_
