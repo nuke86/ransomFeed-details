@@ -206,4 +206,4 @@
 | 2023-02-02 | [`kostika.co.il`](https://google.com/search?q=kostika.co.il) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`transportsn.com`](https://google.com/search?q=transportsn.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Thursday 23/02/2023 07.18 (UTC)_
+Last update : _Thursday 23/02/2023 09.23 (UTC)_

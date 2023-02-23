@@ -7,5 +7,5 @@
 | [1CG8RAqNaJCrmEdVLK7mm2mTuuK28dkzCU](https://www.blockchain.com/explorer/addresses/btc/1CG8RAqNaJCrmEdVLK7mm2mTuuK28dkzCU) | bitcoin | $ 1481197 |
 | [19kcqKevFZhiX7NFLa5wAw4JBjWLcpwp3e](https://www.blockchain.com/explorer/addresses/btc/19kcqKevFZhiX7NFLa5wAw4JBjWLcpwp3e) | bitcoin | $ 3980534 |
 
-Last update : _Thursday 23/02/2023 07.17 (UTC)_
+Last update : _Thursday 23/02/2023 09.23 (UTC)_
 
