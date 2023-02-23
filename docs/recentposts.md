@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-23 | [`Glovers Solicitors LLP`](https://google.com/search?q=Glovers+Solicitors+LLP) | [alphv](profiles.md?id=alphv) |
 | 2023-02-23 | [`AESCULAPIUS Farmaceutici`](https://google.com/search?q=AESCULAPIUS+Farmaceutici) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-02-23 | [`"FICCI"`](https://google.com/search?q=%22FICCI%22) | [mallox](profiles.md?id=mallox) |
 | 2023-02-23 | [`Empresa Distribuidora de Electricidad del Este, Revenue $633.6M`](https://google.com/search?q=Empresa+Distribuidora+de+Electricidad+del+Este%2C+Revenue+%24633.6M) | [alphv](profiles.md?id=alphv) |
@@ -204,6 +205,5 @@
 | 2023-02-03 | [`guardiananalytics.com`](https://google.com/search?q=guardiananalytics.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`fabricatedpipe.com`](https://google.com/search?q=fabricatedpipe.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`kostika.co.il`](https://google.com/search?q=kostika.co.il) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-02 | [`transportsn.com`](https://google.com/search?q=transportsn.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Thursday 23/02/2023 09.23 (UTC)_
+Last update : _Thursday 23/02/2023 11.19 (UTC)_
