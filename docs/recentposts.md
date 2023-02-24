@@ -206,4 +206,4 @@
 | 2023-02-02 | [`fabricatedpipe.com`](https://google.com/search?q=fabricatedpipe.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`kostika.co.il`](https://google.com/search?q=kostika.co.il) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Friday 24/02/2023 07.25 (UTC)_
+Last update : _Friday 24/02/2023 09.21 (UTC)_
