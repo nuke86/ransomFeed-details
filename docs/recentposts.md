@@ -206,4 +206,4 @@
 | 2023-02-03 | [`tonoli.com`](https://google.com/search?q=tonoli.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-03 | [`guardiananalytics.com`](https://google.com/search?q=guardiananalytics.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Friday 24/02/2023 15.14 (UTC)_
+Last update : _Friday 24/02/2023 17.24 (UTC)_
