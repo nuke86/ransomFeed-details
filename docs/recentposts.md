@@ -206,4 +206,4 @@
 | 2023-02-03 | [`sakrgroup.net`](https://google.com/search?q=sakrgroup.net) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-03 | [`crystalcreamery.com`](https://google.com/search?q=crystalcreamery.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Saturday 25/02/2023 03.46 (UTC)_
+Last update : _Saturday 25/02/2023 05.20 (UTC)_
