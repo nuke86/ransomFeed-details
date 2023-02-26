@@ -20,16 +20,17 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🟢 | 26/02/2023 04:30 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 26/02/2023 06:30 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 25/01/2023 18:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 294 posts found
+> 295 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Smarter Capital`](http://smartercapital.net) | 26/02/2023 | Smarter Capital is keen to spawn the next generation of technology companies and innovators. Smarter Capital collaborates with executives, mentors, other financial investors and industry particpants to create significant value. |
 | [`The Keen Group`](https://www.thekeengroup.co.uk/) | 24/02/2023 | A little about us - The Keen Group provides a professional, licensed, hassle-free minicab & courier service across south London |
 | [`Glovers Solicitors LLP`](https://www.glovers.co.uk) | 23/02/2023 | Glovers was founded as Glover & Co in Mayfair in 1932 by Sir Gerald Glover, a prominent and respected Central London property developer and solicitor.  We have since grown to become a modern and highly regarded, property-focused legal practice and are now based in Covent Garden.  Glovers is recognised by clients and independent legal directories as a genuinely partner-led law firm, with in- depth strengths in its chosen practice areas.  Our clients value not only our legal expertise, but also our dedicated work ethic and the commercial approach that we bring to negotiations and problem solving. We are, as a result, retained by a wide range of businesses – from well known restaurant and retail brands and major construction companies to specialist banks and lending institutions. |
 | [`Empresa Distribuidora de Electricidad del Este, Revenue $633.6M`](https://edeeste.com.do) | 23/02/2023 | Overview: Edeeste is an electricity distribution company. It offers commercial, industrial and business development, installment agreement, power change, circuit and supply status, concurrence consultation, net measurement program, and other services. --- Industries: Appliances, Electrical, and Electronics Manufacturing --- Type: Government Agency Private --- Company size: 1,001-5,000 employees --- Website: http://www.edeeste.com.do --- Locations: Santo Domingo Este, Santo Domingo HQ Dominican Republic Av. San Vicente de Paúl 321 --- Revenue: $633.6M --------- |
@@ -328,4 +329,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Sunday 26/02/2023 05.16 (UTC)_
+Last update : _Sunday 26/02/2023 07.23 (UTC)_
