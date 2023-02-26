@@ -5,6 +5,9 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-26 | [`G&G Electronics`](https://google.com/search?q=G%26G+Electronics) | [bianlian](profiles.md?id=bianlian) |
+| 2023-02-26 | [`A**** ********* ********* & *****`](https://google.com/search?q=A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%26+%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
+| 2023-02-26 | [`D***`](https://google.com/search?q=D%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-26 | [`Smarter Capital`](https://google.com/search?q=Smarter+Capital) | [alphv](profiles.md?id=alphv) |
 | 2023-02-24 | [`ispace.com`](https://google.com/search?q=ispace.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-24 | [`InPro electric`](https://google.com/search?q=InPro+electric) | [play](profiles.md?id=play) |
@@ -202,8 +205,5 @@
 | 2023-02-03 | [`PFA Systems`](https://google.com/search?q=PFA+Systems) | [medusa](profiles.md?id=medusa) |
 | 2023-02-03 | [`EnCom`](https://google.com/search?q=EnCom) | [medusa](profiles.md?id=medusa) |
 | 2023-02-03 | [`jjdentistry.com`](https://google.com/search?q=jjdentistry.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-03 | [`scandia.ro`](https://google.com/search?q=scandia.ro) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-03 | [`bethrivkah.edu`](https://google.com/search?q=bethrivkah.edu) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-03 | [`sakrgroup.net`](https://google.com/search?q=sakrgroup.net) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Sunday 26/02/2023 11.16 (UTC)_
+Last update : _Sunday 26/02/2023 13.30 (UTC)_
