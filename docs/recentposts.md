@@ -206,4 +206,4 @@
 | 2023-02-03 | [`bethrivkah.edu`](https://google.com/search?q=bethrivkah.edu) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-03 | [`sakrgroup.net`](https://google.com/search?q=sakrgroup.net) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Sunday 26/02/2023 07.23 (UTC)_
+Last update : _Sunday 26/02/2023 11.16 (UTC)_
