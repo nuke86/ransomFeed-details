@@ -11,7 +11,7 @@ _Parser : `Not available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| ZEON.Recovery - Enter the key | 🟢 | 26/02/2023 21:07 | `http://zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion` | <a href="https://www.ransomware.live/screenshots/zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd-onion.png" target=_blank>📸</a> | 
+| ZEON.Recovery - Enter the key | 🟢 | 26/02/2023 23:10 | `http://zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion` | <a href="https://www.ransomware.live/screenshots/zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -21,4 +21,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Sunday 26/02/2023 21.07 (UTC)_
+Last update : _Sunday 26/02/2023 23.11 (UTC)_
