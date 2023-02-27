@@ -1,6 +1,6 @@
 
 
-_All `5236` posts_
+_All `5238` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,8 @@ _All `5236` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-27 | [`Ingenico`](https://google.com/search?q=Ingenico) | [snatch](profiles.md?id=snatch) |
+| 2023-02-27 | [`MSX International`](https://google.com/search?q=MSX+International) | [snatch](profiles.md?id=snatch) |
 | 2023-02-27 | [`rosenbauer.com`](https://google.com/search?q=rosenbauer.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-27 | [`hyosung.jp`](https://google.com/search?q=hyosung.jp) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-27 | [`Chowtaifook`](https://google.com/search?q=Chowtaifook) | [vendetta](profiles.md?id=vendetta) |
@@ -5246,4 +5248,4 @@ _All `5236` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 27/02/2023 19.11 (UTC)_
+Last update : _Monday 27/02/2023 21.08 (UTC)_
