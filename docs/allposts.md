@@ -1,6 +1,6 @@
 
 
-_All `5226` posts_
+_All `5227` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `5226` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-27 | [`cotteeparker.com.au`](https://google.com/search?q=cotteeparker.com.au) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-26 | [`G&G Electronics`](https://google.com/search?q=G%26G+Electronics) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-26 | [`A**** ********* ********* & *****`](https://google.com/search?q=A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%26+%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-26 | [`D***`](https://google.com/search?q=D%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
@@ -5236,4 +5237,4 @@ _All `5226` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 27/02/2023 07.18 (UTC)_
+Last update : _Monday 27/02/2023 09.26 (UTC)_
