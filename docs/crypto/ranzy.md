@@ -4,5 +4,5 @@
 |---|---|---|
 | [17PPcJsY6aSmmjFnshiBEEp6kgct8G7wuU](https://www.blockchain.com/explorer/addresses/btc/17PPcJsY6aSmmjFnshiBEEp6kgct8G7wuU) | bitcoin | $ 9731 |
 
-Last update : _Sunday 26/02/2023 23.10 (UTC)_
+Last update : _Monday 27/02/2023 02.37 (UTC)_
 

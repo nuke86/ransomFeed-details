@@ -10,5 +10,5 @@
 | [3HTHHMm2YwNdwEDkGc6dRyxxKvByymeVqV](https://www.blockchain.com/explorer/addresses/btc/3HTHHMm2YwNdwEDkGc6dRyxxKvByymeVqV) | bitcoin | $ 286355 |
 | [3E9F7gE3upQ8rgsPjwiKH7ugfdneypPjqj](https://www.blockchain.com/explorer/addresses/btc/3E9F7gE3upQ8rgsPjwiKH7ugfdneypPjqj) | bitcoin | $ 0 |
 
-Last update : _Sunday 26/02/2023 23.10 (UTC)_
+Last update : _Monday 27/02/2023 02.37 (UTC)_
 
