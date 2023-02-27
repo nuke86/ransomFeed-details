@@ -5,6 +5,13 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-27 | [`Chowtaifook`](https://google.com/search?q=Chowtaifook) | [vendetta](profiles.md?id=vendetta) |
+| 2023-02-27 | [`moci.gov.kw`](https://google.com/search?q=moci.gov.kw) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-27 | [`wsisd.com`](https://google.com/search?q=wsisd.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-27 | [`bocca-sacs.com`](https://google.com/search?q=bocca-sacs.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-27 | [`wcso.us`](https://google.com/search?q=wcso.us) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-27 | [`pcproductsinter.com`](https://google.com/search?q=pcproductsinter.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-27 | [`carveraero.com`](https://google.com/search?q=carveraero.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-27 | [`cotteeparker.com.au`](https://google.com/search?q=cotteeparker.com.au) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-26 | [`G&G Electronics`](https://google.com/search?q=G%26G+Electronics) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-26 | [`A**** ********* ********* & *****`](https://google.com/search?q=A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%26+%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
@@ -198,12 +205,5 @@
 | 2023-02-04 | [`Five Guys Enterprises, LLC`](https://google.com/search?q=Five+Guys+Enterprises%2C+LLC) | [alphv](profiles.md?id=alphv) |
 | 2023-02-04 | [`nexuspoint.com`](https://google.com/search?q=nexuspoint.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-03 | [`virtuosgames.com`](https://google.com/search?q=virtuosgames.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-03 | [`urmgroup.com.au`](https://google.com/search?q=urmgroup.com.au) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-03 | [`Point Dedicated Services`](https://google.com/search?q=Point+Dedicated+Services) | [play](profiles.md?id=play) |
-| 2023-02-03 | [`redfordpd.com`](https://google.com/search?q=redfordpd.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-03 | [`Elektro Richter`](https://google.com/search?q=Elektro+Richter) | [medusa](profiles.md?id=medusa) |
-| 2023-02-03 | [`Elim Clinic`](https://google.com/search?q=Elim+Clinic) | [medusa](profiles.md?id=medusa) |
-| 2023-02-03 | [`PFA Systems`](https://google.com/search?q=PFA+Systems) | [medusa](profiles.md?id=medusa) |
-| 2023-02-03 | [`EnCom`](https://google.com/search?q=EnCom) | [medusa](profiles.md?id=medusa) |
 
-Last update : _Monday 27/02/2023 09.26 (UTC)_
+Last update : _Monday 27/02/2023 11.27 (UTC)_
