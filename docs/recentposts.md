@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-27 | [`rosenbauer.com`](https://google.com/search?q=rosenbauer.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-27 | [`hyosung.jp`](https://google.com/search?q=hyosung.jp) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-27 | [`Chowtaifook`](https://google.com/search?q=Chowtaifook) | [vendetta](profiles.md?id=vendetta) |
 | 2023-02-27 | [`moci.gov.kw`](https://google.com/search?q=moci.gov.kw) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-27 | [`wsisd.com`](https://google.com/search?q=wsisd.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -203,7 +205,5 @@
 | 2023-02-05 | [`bplawyers.co.id`](https://google.com/search?q=bplawyers.co.id) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-05 | [`Finaport`](https://google.com/search?q=Finaport) | [alphv](profiles.md?id=alphv) |
 | 2023-02-04 | [`Five Guys Enterprises, LLC`](https://google.com/search?q=Five+Guys+Enterprises%2C+LLC) | [alphv](profiles.md?id=alphv) |
-| 2023-02-04 | [`nexuspoint.com`](https://google.com/search?q=nexuspoint.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-03 | [`virtuosgames.com`](https://google.com/search?q=virtuosgames.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Monday 27/02/2023 11.27 (UTC)_
+Last update : _Monday 27/02/2023 13.43 (UTC)_
