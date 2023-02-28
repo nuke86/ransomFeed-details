@@ -5,6 +5,14 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-28 | [`globalcommunities.org`](https://google.com/search?q=globalcommunities.org) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-28 | [`cobcreditunion.com`](https://google.com/search?q=cobcreditunion.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-28 | [`wmich.edu`](https://google.com/search?q=wmich.edu) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-28 | [`georgeleslie.co.uk`](https://google.com/search?q=georgeleslie.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-28 | [`df.senac.br`](https://google.com/search?q=df.senac.br) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-28 | [`haeco.com`](https://google.com/search?q=haeco.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-28 | [`nokair.com`](https://google.com/search?q=nokair.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-28 | [`princepalace.co.th`](https://google.com/search?q=princepalace.co.th) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-28 | [`thinkwelty.com`](https://google.com/search?q=thinkwelty.com) | [alphv](profiles.md?id=alphv) |
 | 2023-02-28 | [`INDIKA ENERGY GLOBAL`](https://google.com/search?q=INDIKA+ENERGY+GLOBAL) | [alphv](profiles.md?id=alphv) |
 | 2023-02-28 | [`Coole Bevis Solicitors`](https://google.com/search?q=Coole+Bevis+Solicitors) | [alphv](profiles.md?id=alphv) |
@@ -197,13 +205,5 @@
 | 2023-02-06 | [`Woodmeister Master Builders, Inc.`](https://google.com/search?q=Woodmeister+Master+Builders%2C+Inc.) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-06 | [`*r***** ********** ******** ***********`](https://google.com/search?q=%2Ar%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-06 | [`A***`](https://google.com/search?q=A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
-| 2023-02-06 | [`A*********`](https://google.com/search?q=A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
-| 2023-02-06 | [`INNOVATION COLLABORATION SYNERGY`](https://google.com/search?q=INNOVATION+COLLABORATION+SYNERGY) | [royal](profiles.md?id=royal) |
-| 2023-02-06 | [`hkri.com`](https://google.com/search?q=hkri.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-06 | [`medellin.gov.co`](https://google.com/search?q=medellin.gov.co) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-06 | [`jams.edu.jo`](https://google.com/search?q=jams.edu.jo) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-06 | [`nicklaus.com`](https://google.com/search?q=nicklaus.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-06 | [`prlabs.com`](https://google.com/search?q=prlabs.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-06 | [`wcinet.com`](https://google.com/search?q=wcinet.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Tuesday 28/02/2023 11.07 (UTC)_
+Last update : _Tuesday 28/02/2023 13.23 (UTC)_
