@@ -20,16 +20,19 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🔴 | 28/02/2023 06:32 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 28/02/2023 10:29 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 25/01/2023 18:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 295 posts found
+> 298 posts found
 
 | post | date | Description
 |---|---|---|
+| [`thinkwelty.com`](https://thinkwelty.com/) | 28/02/2023 | We are Welty Building Company and we Build to Last. Headquartered in Akron, Ohio and working nationally, Welty has been serving the construction needs of clients throughout Ohio for over 75 years. At Welty we bring an emotional intelligence to our work that is unlike anything else in the construction industry. Our approach is founded on a willingness to defy doing things the way they have always been done in favor of doing what is the smartest, most efficient, most sustainable and ultimately the most beneficial for our customer and the community they serve. We call it “Thinking Welty” and it means we are never afraid to do what is right. |
+| [`INDIKA ENERGY GLOBAL`](https://www.indikaenergy.co.id) | 28/02/2023 | Over 15 Indonesian companies were hacked. |
+| [`Coole Bevis Solicitors`](https://coolebevislaw.com/) | 28/02/2023 | At Coole Bevis LLP Solicitors, we understand that life is a journey, with many twists and turns along the way. Our team of specialist solicitors, legal executives, consultants and support staff are right there with you, helping you to navigate the good and bad times. There’s a reason we’re the law firm of choice in Sussex and beyond. |
 | [`Smarter Capital`](http://smartercapital.net) | 26/02/2023 | Smarter Capital is keen to spawn the next generation of technology companies and innovators. Smarter Capital collaborates with executives, mentors, other financial investors and industry particpants to create significant value. |
 | [`The Keen Group`](https://www.thekeengroup.co.uk/) | 24/02/2023 | A little about us - The Keen Group provides a professional, licensed, hassle-free minicab & courier service across south London |
 | [`Glovers Solicitors LLP`](https://www.glovers.co.uk) | 23/02/2023 | Glovers was founded as Glover & Co in Mayfair in 1932 by Sir Gerald Glover, a prominent and respected Central London property developer and solicitor.  We have since grown to become a modern and highly regarded, property-focused legal practice and are now based in Covent Garden.  Glovers is recognised by clients and independent legal directories as a genuinely partner-led law firm, with in- depth strengths in its chosen practice areas.  Our clients value not only our legal expertise, but also our dedicated work ethic and the commercial approach that we bring to negotiations and problem solving. We are, as a result, retained by a wide range of businesses – from well known restaurant and retail brands and major construction companies to specialist banks and lending institutions. |
@@ -329,4 +332,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Tuesday 28/02/2023 09.08 (UTC)_
+Last update : _Tuesday 28/02/2023 11.07 (UTC)_

@@ -1,6 +1,6 @@
 
 
-_All `5240` posts_
+_All `5243` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,9 @@ _All `5240` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-28 | [`thinkwelty.com`](https://google.com/search?q=thinkwelty.com) | [alphv](profiles.md?id=alphv) |
+| 2023-02-28 | [`INDIKA ENERGY GLOBAL`](https://google.com/search?q=INDIKA+ENERGY+GLOBAL) | [alphv](profiles.md?id=alphv) |
+| 2023-02-28 | [`Coole Bevis Solicitors`](https://google.com/search?q=Coole+Bevis+Solicitors) | [alphv](profiles.md?id=alphv) |
 | 2023-02-28 | [`lsa-international.com`](https://google.com/search?q=lsa-international.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-28 | [`ilfsindia.com`](https://google.com/search?q=ilfsindia.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-27 | [`Ingenico`](https://google.com/search?q=Ingenico) | [snatch](profiles.md?id=snatch) |
@@ -5250,4 +5253,4 @@ _All `5240` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Tuesday 28/02/2023 09.08 (UTC)_
+Last update : _Tuesday 28/02/2023 11.07 (UTC)_
