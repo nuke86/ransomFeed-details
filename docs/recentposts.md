@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-28 | [`ilfsindia.com`](https://google.com/search?q=ilfsindia.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-27 | [`Ingenico`](https://google.com/search?q=Ingenico) | [snatch](profiles.md?id=snatch) |
 | 2023-02-27 | [`MSX International`](https://google.com/search?q=MSX+International) | [snatch](profiles.md?id=snatch) |
 | 2023-02-27 | [`rosenbauer.com`](https://google.com/search?q=rosenbauer.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2023-02-06 | [`etbrick.com`](https://google.com/search?q=etbrick.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-06 | [`El-Mohandes`](https://google.com/search?q=El-Mohandes) | [alphv](profiles.md?id=alphv) |
 | 2023-02-05 | [`qsi-q3.de`](https://google.com/search?q=qsi-q3.de) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-05 | [`bplawyers.co.id`](https://google.com/search?q=bplawyers.co.id) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Monday 27/02/2023 23.09 (UTC)_
+Last update : _Tuesday 28/02/2023 02.33 (UTC)_
