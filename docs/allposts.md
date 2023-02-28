@@ -1,6 +1,6 @@
 
 
-_All `5251` posts_
+_All `5253` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,8 @@ _All `5251` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-28 | [`hafele.com`](https://google.com/search?q=hafele.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-28 | [`indigo.ca`](https://google.com/search?q=indigo.ca) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-28 | [`globalcommunities.org`](https://google.com/search?q=globalcommunities.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-28 | [`cobcreditunion.com`](https://google.com/search?q=cobcreditunion.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-28 | [`wmich.edu`](https://google.com/search?q=wmich.edu) | [lockbit3](profiles.md?id=lockbit3) |
@@ -5261,4 +5263,4 @@ _All `5251` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Tuesday 28/02/2023 19.12 (UTC)_
+Last update : _Tuesday 28/02/2023 21.21 (UTC)_

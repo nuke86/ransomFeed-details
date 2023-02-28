@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-28 | [`hafele.com`](https://google.com/search?q=hafele.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-28 | [`indigo.ca`](https://google.com/search?q=indigo.ca) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-28 | [`globalcommunities.org`](https://google.com/search?q=globalcommunities.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-28 | [`cobcreditunion.com`](https://google.com/search?q=cobcreditunion.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-28 | [`wmich.edu`](https://google.com/search?q=wmich.edu) | [lockbit3](profiles.md?id=lockbit3) |
@@ -203,7 +205,5 @@
 | 2023-02-06 | [`AmerisourceBergen/Censora - MWI Animal Health`](https://google.com/search?q=AmerisourceBergen%2FCensora+-+MWI+Animal+Health) | [lorenz](profiles.md?id=lorenz) |
 | 2023-02-06 | [`teleapps.com`](https://google.com/search?q=teleapps.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-06 | [`Woodmeister Master Builders, Inc.`](https://google.com/search?q=Woodmeister+Master+Builders%2C+Inc.) | [bianlian](profiles.md?id=bianlian) |
-| 2023-02-06 | [`*r***** ********** ******** ***********`](https://google.com/search?q=%2Ar%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
-| 2023-02-06 | [`A***`](https://google.com/search?q=A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 
-Last update : _Tuesday 28/02/2023 19.12 (UTC)_
+Last update : _Tuesday 28/02/2023 21.21 (UTC)_
