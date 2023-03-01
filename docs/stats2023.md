@@ -13,4 +13,10 @@
 |---|---|
 | ![](graphs/grouppie202302.png) | | 
 
-Last update : _Tuesday 28/02/2023 23.04 (UTC)_
+## March
+
+| ![](graphs/postsbyday202303.png) | ![](graphs/postsbygroup202303.png) |
+|---|---|
+| ![](graphs/grouppie202303.png) | | 
+
+Last update : _Wednesday 01/03/2023 07.12 (UTC)_
