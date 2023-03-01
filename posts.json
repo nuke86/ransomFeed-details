@@ -27879,5 +27879,37 @@
         "description": "",
         "website": "",
         "published": ""
+    },
+    {
+        "post_title": "Kimko Realty",
+        "group_name": "alphv",
+        "discovered": "2023-03-01 09:12:56.623646",
+        "description": "Kimco Realty® (NYSE:KIM) is a real estate investment trust (REIT) headquartered in Jericho, N.Y. that is North America’s largest publicly traded owner and operator of open-air, grocery-anchored shopping centers, and a growing portfolio of mixed-use assets. The company’s portfolio is primarily concentrated in the first-ring suburbs of the top major metropolitan markets, including those in high-barrier-to-entry coastal markets and rapidly expanding Sun Belt cities, with a tenant mix focused on essential, necessity-based goods and services that drive multiple shopping trips per week.",
+        "website": "https://kimcorealty.com",
+        "published": "2023-02-28 19:41:50.578000"
+    },
+    {
+        "post_title": "egas.no",
+        "group_name": "lockbit3",
+        "discovered": "2023-03-01 09:13:00.187424",
+        "description": "",
+        "website": "",
+        "published": ""
+    },
+    {
+        "post_title": "hico-ics.com",
+        "group_name": "lockbit3",
+        "discovered": "2023-03-01 09:13:00.609819",
+        "description": "HiCo-ICS has been a leading global provider of enterprise IT-solutions for industry, authorities and communities since 1997. HiCo-ICS provides process and system integration, information networking of technical logistic documentation and product info...",
+        "website": "",
+        "published": ""
+    },
+    {
+        "post_title": "Kenya Airports Authority",
+        "group_name": "medusa",
+        "discovered": "2023-03-01 09:13:40.308909",
+        "description": "Kenya Airports Authority (KAA) is the owner and operator of nine civilian airports and airstrips in Kenya. Kenya Airports Authority was established by an act of Parliament in 1992, by the ruling Kenya African National Union government. The KAA Act, Cap 395, provides for the powers and functions of the Authority. Its head office is on the property of Jomo Kenyatta International Airport in Embakasi, Nairobi.",
+        "website": "",
+        "published": "2023-03-01 08:37:05.12345"
     }
 ]

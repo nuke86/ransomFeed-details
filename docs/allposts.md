@@ -1,6 +1,6 @@
 
 
-_All `5254` posts_
+_All `5258` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,10 @@ _All `5254` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-01 | [`Kenya Airports Authority`](https://google.com/search?q=Kenya+Airports+Authority) | [medusa](profiles.md?id=medusa) |
+| 2023-03-01 | [`hico-ics.com`](https://google.com/search?q=hico-ics.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-01 | [`egas.no`](https://google.com/search?q=egas.no) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-01 | [`Kimko Realty`](https://google.com/search?q=Kimko+Realty) | [alphv](profiles.md?id=alphv) |
 | 2023-03-01 | [`laxmi.com`](https://google.com/search?q=laxmi.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-28 | [`hafele.com`](https://google.com/search?q=hafele.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-28 | [`indigo.ca`](https://google.com/search?q=indigo.ca) | [lockbit3](profiles.md?id=lockbit3) |
@@ -5264,4 +5268,4 @@ _All `5254` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Wednesday 01/03/2023 07.12 (UTC)_
+Last update : _Wednesday 01/03/2023 09.13 (UTC)_

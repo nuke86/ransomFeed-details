@@ -20,16 +20,17 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🟢 | 01/03/2023 06:33 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 01/03/2023 08:32 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 25/01/2023 18:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 298 posts found
+> 299 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Kimko Realty`](https://kimcorealty.com) | 01/03/2023 | Kimco Realty® (NYSE:KIM) is a real estate investment trust (REIT) headquartered in Jericho, N.Y. that is North America’s largest publicly traded owner and operator of open-air, grocery-anchored shopping centers, and a growing portfolio of mixed-use assets. The company’s portfolio is primarily concentrated in the first-ring suburbs of the top major metropolitan markets, including those in high-barrier-to-entry coastal markets and rapidly expanding Sun Belt cities, with a tenant mix focused on essential, necessity-based goods and services that drive multiple shopping trips per week. |
 | [`thinkwelty.com`](https://thinkwelty.com/) | 28/02/2023 | We are Welty Building Company and we Build to Last. Headquartered in Akron, Ohio and working nationally, Welty has been serving the construction needs of clients throughout Ohio for over 75 years. At Welty we bring an emotional intelligence to our work that is unlike anything else in the construction industry. Our approach is founded on a willingness to defy doing things the way they have always been done in favor of doing what is the smartest, most efficient, most sustainable and ultimately the most beneficial for our customer and the community they serve. We call it “Thinking Welty” and it means we are never afraid to do what is right. |
 | [`INDIKA ENERGY GLOBAL`](https://www.indikaenergy.co.id) | 28/02/2023 | Over 15 Indonesian companies were hacked. |
 | [`Coole Bevis Solicitors`](https://coolebevislaw.com/) | 28/02/2023 | At Coole Bevis LLP Solicitors, we understand that life is a journey, with many twists and turns along the way. Our team of specialist solicitors, legal executives, consultants and support staff are right there with you, helping you to navigate the good and bad times. There’s a reason we’re the law firm of choice in Sussex and beyond. |
@@ -332,4 +333,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Wednesday 01/03/2023 07.12 (UTC)_
+Last update : _Wednesday 01/03/2023 09.13 (UTC)_

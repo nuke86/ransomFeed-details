@@ -5,6 +5,10 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-01 | [`Kenya Airports Authority`](https://google.com/search?q=Kenya+Airports+Authority) | [medusa](profiles.md?id=medusa) |
+| 2023-03-01 | [`hico-ics.com`](https://google.com/search?q=hico-ics.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-01 | [`egas.no`](https://google.com/search?q=egas.no) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-01 | [`Kimko Realty`](https://google.com/search?q=Kimko+Realty) | [alphv](profiles.md?id=alphv) |
 | 2023-03-01 | [`laxmi.com`](https://google.com/search?q=laxmi.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-28 | [`hafele.com`](https://google.com/search?q=hafele.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-28 | [`indigo.ca`](https://google.com/search?q=indigo.ca) | [lockbit3](profiles.md?id=lockbit3) |
@@ -201,9 +205,5 @@
 | 2023-02-07 | [`cantinatollo.it`](https://google.com/search?q=cantinatollo.it) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-07 | [`The DGCX`](https://google.com/search?q=The+DGCX) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-02-07 | [`royalmailgroup.com`](https://google.com/search?q=royalmailgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-06 | [`L?? C??e`](https://google.com/search?q=L%3F%3F+C%3F%3Fe) | [play](profiles.md?id=play) |
-| 2023-02-06 | [`?C?`](https://google.com/search?q=%3FC%3F) | [play](profiles.md?id=play) |
-| 2023-02-06 | [`AmerisourceBergen/Censora - MWI Animal Health`](https://google.com/search?q=AmerisourceBergen%2FCensora+-+MWI+Animal+Health) | [lorenz](profiles.md?id=lorenz) |
-| 2023-02-06 | [`teleapps.com`](https://google.com/search?q=teleapps.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Wednesday 01/03/2023 07.12 (UTC)_
+Last update : _Wednesday 01/03/2023 09.13 (UTC)_
