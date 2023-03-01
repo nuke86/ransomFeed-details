@@ -19,18 +19,19 @@ _`ecdmr42axxx.onion - fileserver`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://4hzyuotli6maqa4u.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 01/03/2023 09:10 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 01/03/2023 11:06 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
 | there is nothing... | 🔴 | 21/09/2022 17:27 | `http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion` | ❌ | 
-| Vice Society - Official Site | 🔴 | 01/03/2023 07:09 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 01/03/2023 11:07 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
 | Vice Society - Official Site | 🔴 | 01/03/2023 07:09 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🟢 | 01/03/2023 09:12 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 01/03/2023 11:08 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 170 posts found
+> 171 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Vesuvius`](http://www.vesuvius.com/) | 01/03/2023 | Vesuvius provides engineering services and solutions principally to steel and foundry industries worldwide. With 17 research centres across the globe and an annual investment of 33.2 million in research and development, Vesuvius continues to lead innovation in our industry. |
 | [`Mount Saint Mary College`](http://www.msmc.edu/) | 09/02/2023 | Mount Saint Mary College is a private Catholic college in Newburgh, New York. It was founded in 1959 by the Dominican Sisters. The campus overlooks the Hudson River, halfway between New York City and Albany. More than 2,700 men and women are enrolled in over 50 undergraduate programs and three graduate degree programs. |
 | [`Guildford County School`](http://www.guildfordcounty.co.uk/) | 01/02/2023 | As a School founded in 1905 we have deep-rooted values and traditions which have resulted in consistent academic success and we have held a strong place within the Guildford Educational establishment for over 100 years. |
 | [`TechInsights`](http://www.semiconductor.com/) | 31/01/2023 | For over 30 years we have existed to support a fair marketplace where semiconductor and electronics intellectual property can be innovated and monetized. |
@@ -205,4 +206,4 @@ _`ecdmr42axxx.onion - fileserver`_
  --- 
 
 
-Last update : _Wednesday 01/03/2023 09.13 (UTC)_
+Last update : _Wednesday 01/03/2023 11.10 (UTC)_
