@@ -16,14 +16,15 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| ransomexx2 | 🟢 | 02/03/2023 07:08 | `http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` | <a href="https://www.ransomware.live/screenshots/rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad-onion.png" target=_blank>📸</a> | 
+| ransomexx2 | 🟢 | 02/03/2023 09:09 | `http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` | <a href="https://www.ransomware.live/screenshots/rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 42 posts found
+> 43 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Bettuzzi And Partners`](https://google.com/search?q=Bettuzzi+And+Partners) | 02/03/2023 |  |
 | [`BULOG`](https://google.com/search?q=BULOG) | 22/02/2023 |  |
 | [`REC Silicon`](https://google.com/search?q=REC+Silicon) | 11/12/2022 |   |
 | [`Unimed Belem`](https://google.com/search?q=Unimed+Belem) | 19/10/2022 |   |
@@ -70,4 +71,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 02/03/2023 07.30 (UTC)_
+Last update : _Thursday 02/03/2023 09.21 (UTC)_
