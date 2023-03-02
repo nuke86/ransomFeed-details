@@ -239,4 +239,4 @@ _`US announces it seized Hive ransomware gang’s leak sites and decryption keys
  --- 
 
 
-Last update : _Thursday 02/03/2023 21.18 (UTC)_
+Last update : _Thursday 02/03/2023 23.15 (UTC)_
