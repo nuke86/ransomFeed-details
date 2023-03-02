@@ -14,15 +14,16 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| PLAY NEWS | 🟢 | 01/03/2023 22:58 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
-| PLAY NEWS | 🔴 | 01/03/2023 17:09 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
+| PLAY NEWS | 🟢 | 02/03/2023 02:30 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
+| PLAY NEWS | 🟢 | 02/03/2023 02:30 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 61 posts found
+> 62 posts found
 
 | post | date | Description
 |---|---|---|
+| [`O???a??`](https://www.o???a????.???) | 02/03/2023 | USA |
 | [`InPro electric`](https://www.inpro-electric.de) | 24/02/2023 | Germany |
 | [`I???o e???t???`](https://www.i?????e???t???.de) | 21/02/2023 | Germany |
 | [`Microgame SpA`](https://www.microgame.it) | 14/02/2023 | Italy |
@@ -88,4 +89,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Wednesday 01/03/2023 23.14 (UTC)_
+Last update : _Thursday 02/03/2023 02.46 (UTC)_
