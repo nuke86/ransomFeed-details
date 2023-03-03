@@ -15,7 +15,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://rgleak7op734elep.onion` | ❌ | 
-| Home Page of Ragnar_Locker Leaks site | 🟢 | 03/03/2023 15:00 | `http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` | <a href="https://www.ransomware.live/screenshots/rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd-onion.png" target=_blank>📸</a> | 
+| Home Page of Ragnar_Locker Leaks site | 🟢 | 03/03/2023 17:06 | `http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` | <a href="https://www.ransomware.live/screenshots/rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://p6o7m73ujalhgkiv.onion` | ❌ | 
 
 ### Crypto wallets
@@ -24,10 +24,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 94 posts found
+> 95 posts found
 
 | post | date | Description
 |---|---|---|
+| [`New Leak in lawyers company.`](https://google.com/search?q=New+Leak+in+lawyers+company.) | 03/03/2023 |  |
 | [`AASP claim there was no data leakage!`](https://google.com/search?q=AASP+claim+there+was+no+data+leakage%21) | 22/02/2023 |  |
 | [`Hundred thousands of personal data, leak preview`](https://google.com/search?q=Hundred+thousands+of+personal+data%2C+leak+preview) | 28/12/2022 | AOAL - Azienda Ospedaliera di Alessandria |
 | [`Wrapex Industrial - Leaked`](https://google.com/search?q=Wrapex+Industrial+-+Leaked) | 20/12/2022 |  |
@@ -126,4 +127,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Friday 03/03/2023 15.13 (UTC)_
+Last update : _Friday 03/03/2023 17.20 (UTC)_
