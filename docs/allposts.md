@@ -1,6 +1,6 @@
 
 
-_All `5276` posts_
+_All `5277` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `5276` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-03 | [`New Leak in lawyers company AASP.`](https://google.com/search?q=New+Leak+in+lawyers+company+AASP.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2023-03-03 | [`New Leak in lawyers company.`](https://google.com/search?q=New+Leak+in+lawyers+company.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2023-03-03 | [`ACCSC`](https://google.com/search?q=ACCSC) | [bianlian](profiles.md?id=bianlian) |
 | 2023-03-03 | [`Zerbe Retirement Community`](https://google.com/search?q=Zerbe+Retirement+Community) | [bianlian](profiles.md?id=bianlian) |
@@ -5286,4 +5287,4 @@ _All `5276` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Friday 03/03/2023 17.20 (UTC)_
+Last update : _Friday 03/03/2023 19.20 (UTC)_
