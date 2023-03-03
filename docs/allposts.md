@@ -1,6 +1,6 @@
 
 
-_All `5269` posts_
+_All `5270` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `5269` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-03 | [`Oakland`](https://google.com/search?q=Oakland) | [play](profiles.md?id=play) |
 | 2023-03-02 | [`FIMM`](https://google.com/search?q=FIMM) | [royal](profiles.md?id=royal) |
 | 2023-03-02 | [`Bettuzzi And Partners`](https://google.com/search?q=Bettuzzi+And+Partners) | [ransomexx](profiles.md?id=ransomexx) |
 | 2023-03-02 | [`ascentengrs.com`](https://google.com/search?q=ascentengrs.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -5279,4 +5280,4 @@ _All `5269` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Thursday 02/03/2023 23.15 (UTC)_
+Last update : _Friday 03/03/2023 05.43 (UTC)_
