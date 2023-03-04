@@ -11,14 +11,15 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Mallox - Blog | 🔴 | 04/03/2023 08:53 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
+| Mallox - Blog | 🟢 | 04/03/2023 13:11 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 20 posts found
+> 21 posts found
 
 | post | date | Description
 |---|---|---|
+| [`AICHELIN UNITHERM`](https://google.com/search?q=AICHELIN+UNITHERM) | 04/03/2023 | Two leading manufacturers of heat treatment furnaces Unitherm Engineers Limited (India) and Aichelin Holding GmbH (Austria) formed a new 50:50 Joint Venture Company (JVC) in India in 2010. The newly incorporated JVC Aichelin Unitherm Heat Treatment Systems India Private Limited is headquartered in Talegaon, Pune (Maharashtra).Whatever part you play in the field of industrial heat treatment, AICHELIN UNITHERM has a solution for you. As diverse as the product portfolio may be, certain things apply to every solution: reliability and economic efficiency. AICHELIN UNITHERM in joint venture with AICHELIN Group offers extensive experience and skill guaranteeing the security of a stable and strong group, as your partners and service providers.Industrial heat treatment of metallic parts and components is our skill and passion. AICHELIN UNITHERM is the leading manufacturer of Industrial Heat Treatment Plants technology and services in India.   DATA: https://anonfiles.com/******/AICHELIN_UNITHERM_rar PASSWORD:  n246nm245&TC675tcd^R  |
 | [`"FICCI"`](https://google.com/search?q=%22FICCI%22) | 23/02/2023 | Established in 1927, FICCI is the largest and oldest apex business organisation in India. Its history is closely interwoven with India's struggle for independence, its industrialization, and its emergence as one of the most rapidly growing global economies.A non-government, not-for-profit organisation, FICCI is the voice of India's business and industry. From influencing policy to encouraging debate, engaging with policy makers and civil society, FICCI articulates the views and concerns of industry. It serves its members from the Indian private and public corporate sectors and multinational companies, drawing its strength from diverse regional chambers of commerce and industry across states, reaching out to over 2,50,000 companies.FICCI provides a platform for networking and consensus building within and across sectors and is the first port of call for Indian industry, policy makers and the international business community.  FILES: https://anonfiles.com/******/FICCI_rar PASSWORD: BUHgv97yt9f7fcv7c-p8  |
 | [`Mecaro Co., Ltd`](https://google.com/search?q=Mecaro+Co.%2C+Ltd) | 16/02/2023 | Company Introduction : Mecaro Co., Ltd is No1 Best Semicon parts company authorized in parts area by producing optimal semiconductor part of equipments through ceaseless technology development and research for about 15 years.  ​MORE INFO: https://www.wsj.com/market-data/quotes/KR/241770/financials  LEAKED DATA: https://anonfiles.com/******/PLM_zip                    PASSWORD FOR ARCHIVE: kPl%l!ttuJ8;1Dxali3u1TzO%gk=7tJh  |
 | [`Hydrofit Alliance Ltd`](https://google.com/search?q=Hydrofit+Alliance+Ltd) | 16/02/2023 | Hydrofit FZE an ISO 9001, ISO 14001 & 45001 company, pioneering in the field of Fluid Power Transmissions, Mechanical Power Transmissions, Automatic Greasing / Lubrication systems and Oil Recirculation systems  MORE INFO: https://www.zoominfo.com/c/hydrofit-alliance-ltd/346285910?__cf_chl_tk=5mBW2PYNvvqwAbHrTvIe_QmsK7qT8ybeY2RH3Kvmf8w-1676508140-0-gaNycGzND7s  LEAKED DATA: https://anonfiles.com/******/  |
@@ -43,4 +44,4 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
  --- 
 
 
-Last update : _Saturday 04/03/2023 11.15 (UTC)_
+Last update : _Saturday 04/03/2023 13.32 (UTC)_
