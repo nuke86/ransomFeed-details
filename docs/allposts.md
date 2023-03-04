@@ -1,6 +1,6 @@
 
 
-_All `5278` posts_
+_All `5283` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,11 @@ _All `5278` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-04 | [`Traffic Ticket Office`](https://google.com/search?q=Traffic+Ticket+Office) | [alphv](profiles.md?id=alphv) |
+| 2023-03-04 | [`SkyFiber Networks`](https://google.com/search?q=SkyFiber+Networks) | [alphv](profiles.md?id=alphv) |
+| 2023-03-04 | [`CMMG Inc`](https://google.com/search?q=CMMG+Inc) | [alphv](profiles.md?id=alphv) |
+| 2023-03-04 | [`Welty Building Company`](https://google.com/search?q=Welty+Building+Company) | [alphv](profiles.md?id=alphv) |
+| 2023-03-04 | [`blackswanhealth`](https://google.com/search?q=blackswanhealth) | [alphv](profiles.md?id=alphv) |
 | 2023-03-03 | [`HUNOSA`](https://google.com/search?q=HUNOSA) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-03-03 | [`New Leak in lawyers company AASP.`](https://google.com/search?q=New+Leak+in+lawyers+company+AASP.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2023-03-03 | [`New Leak in lawyers company.`](https://google.com/search?q=New+Leak+in+lawyers+company.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
@@ -5288,4 +5293,4 @@ _All `5278` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Saturday 04/03/2023 07.16 (UTC)_
+Last update : _Saturday 04/03/2023 09.14 (UTC)_

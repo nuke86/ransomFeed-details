@@ -20,16 +20,21 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🟢 | 04/03/2023 06:30 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 04/03/2023 08:29 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 25/01/2023 18:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 299 posts found
+> 304 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Traffic Ticket Office`](https://www.trafficticketoffice.com/) | 04/03/2023 | Since 1993, the Traffic Ticket Office, has successfully been serving clients in Miami and South Florida with their civil and criminal traffic violations. Hundreds of thousands of cases have been handled by our experienced and reputable attorneys. We are able to offer our clients the benefits of saving time and money, preserving their driving rights and preventing the accumulation of points on their records. Most often, we have managed to do this without requiring a personal court appearance by the client. |
+| [`SkyFiber Networks`](https://skyfiberinternet.com/) | 04/03/2023 | SkyFiber Internet is leading the way in hybrid fiber and fixed wireless internet service by giving our customers the most reliable, fastest Internet connection out there.  We look forward to providing you with the best Internet available. No one loves building networks more than we do. |
+| [`CMMG Inc`](https://cmmg.com/) | 04/03/2023 | MMG ® was established in 2002, when John, Jeff, Gretchen, and Stephanie Overstreet made the decision to create a quality AR rifle that can be afforded by everyone. Since that time, things have continued to get better and better. Although the nature of our business continues to evolve, one thing does not—our commitment to meet each and every morning to pray for God’s wisdom in managing the enormous responsibility that comes with this business. By His grace, we have grown every year! CMMG is constantly looking for new ways to improve our products, processes and company at large. Both our customer service and product lineup continue to be second to none, and all of our rifles and firearms parts are made in the United States from the best materials available. CMMG guarantees its products against defects in material or workmanship for the life of the product. CMMG Inc. will repair, replace or substitute any product(s) if a defect in material or workmanship is found. |
+| [`Welty Building Company`](https://thinkwelty.com/about/) | 04/03/2023 | 1.5TB including full clients info, confidential building drawings, engineering information "Build to Last" now public. |
+| [`blackswanhealth`](https://www.blackswanhealth.com.au) | 04/03/2023 | Announcement Data Leakage of company www.blackswanhealth.com.au |
 | [`Kimko Realty`](https://kimcorealty.com) | 01/03/2023 | Kimco Realty® (NYSE:KIM) is a real estate investment trust (REIT) headquartered in Jericho, N.Y. that is North America’s largest publicly traded owner and operator of open-air, grocery-anchored shopping centers, and a growing portfolio of mixed-use assets. The company’s portfolio is primarily concentrated in the first-ring suburbs of the top major metropolitan markets, including those in high-barrier-to-entry coastal markets and rapidly expanding Sun Belt cities, with a tenant mix focused on essential, necessity-based goods and services that drive multiple shopping trips per week. |
 | [`thinkwelty.com`](https://thinkwelty.com/) | 28/02/2023 | We are Welty Building Company and we Build to Last. Headquartered in Akron, Ohio and working nationally, Welty has been serving the construction needs of clients throughout Ohio for over 75 years. At Welty we bring an emotional intelligence to our work that is unlike anything else in the construction industry. Our approach is founded on a willingness to defy doing things the way they have always been done in favor of doing what is the smartest, most efficient, most sustainable and ultimately the most beneficial for our customer and the community they serve. We call it “Thinking Welty” and it means we are never afraid to do what is right. |
 | [`INDIKA ENERGY GLOBAL`](https://www.indikaenergy.co.id) | 28/02/2023 | Over 15 Indonesian companies were hacked. |
@@ -333,4 +338,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Saturday 04/03/2023 07.16 (UTC)_
+Last update : _Saturday 04/03/2023 09.14 (UTC)_
