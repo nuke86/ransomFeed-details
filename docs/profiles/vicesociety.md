@@ -19,9 +19,9 @@ _`ecdmr42axxx.onion - fileserver`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://4hzyuotli6maqa4u.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 03/03/2023 23:10 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 04/03/2023 02:31 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
 | there is nothing... | 🔴 | 21/09/2022 17:27 | `http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 03/03/2023 23:11 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 04/03/2023 02:32 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
 | Vice Society - Official Site | 🔴 | 03/03/2023 21:12 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
 | Vice Society - Official Site | 🔴 | 03/03/2023 21:13 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
 
@@ -207,4 +207,4 @@ _`ecdmr42axxx.onion - fileserver`_
  --- 
 
 
-Last update : _Friday 03/03/2023 23.16 (UTC)_
+Last update : _Saturday 04/03/2023 02.35 (UTC)_
