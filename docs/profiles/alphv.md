@@ -20,7 +20,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🟢 | 04/03/2023 20:25 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+|   | 🟢 | 05/03/2023 02:08 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 25/01/2023 18:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
@@ -338,4 +338,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Saturday 04/03/2023 21.08 (UTC)_
+Last update : _Sunday 05/03/2023 02.57 (UTC)_
