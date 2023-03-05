@@ -14,13 +14,13 @@ _`Ransomware.live` is collecting, indexing, and centralizing ransomware informat
 Check recent ransomware posts [`here`](recentposts.md)
 
 
-⏰ There have been `6` posts within the `last 24 hours`
+⏰ There have been `8` posts within the `last 24 hours`
 
-🕓 There have been `31` posts within the `month of march`
+🕓 There have been `38` posts within the `month of march`
 
-📅 There have been `946` posts within the `last 90 days`
+📅 There have been `953` posts within the `last 90 days`
 
-🏚 There have been `452` posts since the `1st January 2023`
+🏚 There have been `459` posts since the `1st January 2023`
 
 📸 There are `123` ransomware group host screenshots
 
@@ -28,11 +28,11 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 🚀 There have been `3086` posts `last year`
 
-🐣 There have been `5284` posts `since the dawn of ransomware.live`
+🐣 There have been `5291` posts `since the dawn of ransomware.live`
 
 ⚙️ There are `77` custom parsers indexing posts
 
 
 
-Last update : _Sunday 05/03/2023 07.17 (UTC)_
+Last update : _Sunday 05/03/2023 09.15 (UTC)_
 
