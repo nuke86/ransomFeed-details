@@ -4,5 +4,5 @@
 |---|---|---|
 | [bc1ql5f3m75qx3ueu2pz5eeveyqsw6pdjs3ufk8r20](https://www.blockchain.com/explorer/addresses/btc/bc1ql5f3m75qx3ueu2pz5eeveyqsw6pdjs3ufk8r20) | bitcoin | $ 1072689 |
 
-Last update : _Monday 06/03/2023 03.45 (UTC)_
+Last update : _Monday 06/03/2023 05.22 (UTC)_
 
