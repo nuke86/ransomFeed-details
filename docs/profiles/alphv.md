@@ -20,16 +20,18 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🟢 | 05/03/2023 22:25 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 06/03/2023 01:58 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 25/01/2023 18:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 304 posts found
+> 306 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Lehigh Valley Health Network`](https://www.lvhn.org) | 06/03/2023 | Founded in 1899, Lehigh Valley Health Network is a healthcare network based in Allentown, Pennsylvania. The healthcare network serves Pennsylvania and its flagship hospital is Lehigh Valley Hospital. |
+| [`Los Altos Foods`](https://losaltosfoods.com) | 06/03/2023 | We have downloaded 1TB of your data, including full dump of customers attached below. If you will keep silence we will publish whole data pack. |
 | [`Traffic Ticket Office`](https://www.trafficticketoffice.com/) | 04/03/2023 | Since 1993, the Traffic Ticket Office, has successfully been serving clients in Miami and South Florida with their civil and criminal traffic violations. Hundreds of thousands of cases have been handled by our experienced and reputable attorneys. We are able to offer our clients the benefits of saving time and money, preserving their driving rights and preventing the accumulation of points on their records. Most often, we have managed to do this without requiring a personal court appearance by the client. |
 | [`SkyFiber Networks`](https://skyfiberinternet.com/) | 04/03/2023 | SkyFiber Internet is leading the way in hybrid fiber and fixed wireless internet service by giving our customers the most reliable, fastest Internet connection out there.  We look forward to providing you with the best Internet available. No one loves building networks more than we do. |
 | [`CMMG Inc`](https://cmmg.com/) | 04/03/2023 | MMG ® was established in 2002, when John, Jeff, Gretchen, and Stephanie Overstreet made the decision to create a quality AR rifle that can be afforded by everyone. Since that time, things have continued to get better and better. Although the nature of our business continues to evolve, one thing does not—our commitment to meet each and every morning to pray for God’s wisdom in managing the enormous responsibility that comes with this business. By His grace, we have grown every year! CMMG is constantly looking for new ways to improve our products, processes and company at large. Both our customer service and product lineup continue to be second to none, and all of our rifles and firearms parts are made in the United States from the best materials available. CMMG guarantees its products against defects in material or workmanship for the life of the product. CMMG Inc. will repair, replace or substitute any product(s) if a defect in material or workmanship is found. |
@@ -338,4 +340,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Sunday 05/03/2023 23.20 (UTC)_
+Last update : _Monday 06/03/2023 02.47 (UTC)_

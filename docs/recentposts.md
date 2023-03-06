@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-06 | [`Lehigh Valley Health Network`](https://google.com/search?q=Lehigh+Valley+Health+Network) | [alphv](profiles.md?id=alphv) |
+| 2023-03-06 | [`Los Altos Foods`](https://google.com/search?q=Los+Altos+Foods) | [alphv](profiles.md?id=alphv) |
 | 2023-03-05 | [`HAW Hamburg`](https://google.com/search?q=HAW+Hamburg) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-03-05 | [`AddWeb Solution Pvt`](https://google.com/search?q=AddWeb+Solution+Pvt) | [mallox](profiles.md?id=mallox) |
 | 2023-03-05 | [`P* ***** **** L****** ***`](https://google.com/search?q=P%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A+L%2A%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
@@ -203,7 +205,5 @@
 | 2023-02-12 | [`I*****`](https://google.com/search?q=I%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-12 | [`The Gucciardo Law Firm`](https://google.com/search?q=The+Gucciardo+Law+Firm) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-12 | [`Danielski Farms Inc.`](https://google.com/search?q=Danielski+Farms+Inc.) | [bianlian](profiles.md?id=bianlian) |
-| 2023-02-12 | [`maysecc.com`](https://google.com/search?q=maysecc.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-12 | [`interpaving.com`](https://google.com/search?q=interpaving.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Sunday 05/03/2023 23.20 (UTC)_
+Last update : _Monday 06/03/2023 02.47 (UTC)_
