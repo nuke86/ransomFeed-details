@@ -11,14 +11,15 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Mallox - Blog | 🟢 | 06/03/2023 10:54 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
+| Mallox - Blog | 🟢 | 06/03/2023 13:08 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 22 posts found
+> 23 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Circa Jewels`](https://google.com/search?q=Circa+Jewels) | 06/03/2023 | Circa Jewels is the leading international buyer of pre-owned fine jewelry, diamonds and watches. If Circa Jewels fail to take responsibility for their security weakness, all of their and their clients' confidential will be published.  File Tree - https://anonfiles.com/******/tox.chat ) - AE3750EE1BE48D86104E6FB1DADC32469A31242EFC205A3EC47EF7689E3F103472A4DBFFF399  |
 | [`AddWeb Solution Pvt`](https://google.com/search?q=AddWeb+Solution+Pvt) | 05/03/2023 | AddWeb Solution Pvt is a leading offshore development company provides a one-stop website, mobile, cloud, and digital marketing solution. If AddWeb Solution Pvt  fail to take responsibility for their security weakness,  all of their and their clients' confidential will be published.  File Tree - https://anonfiles.com/******/tox.chat ) - AE3750EE1BE48D86104E6FB1DADC32469A31242EFC205A3EC47EF7689E3F103472A4DBFFF399  |
 | [`AICHELIN UNITHERM`](https://google.com/search?q=AICHELIN+UNITHERM) | 04/03/2023 | Two leading manufacturers of heat treatment furnaces Unitherm Engineers Limited (India) and Aichelin Holding GmbH (Austria) formed a new 50:50 Joint Venture Company (JVC) in India in 2010. The newly incorporated JVC Aichelin Unitherm Heat Treatment Systems India Private Limited is headquartered in Talegaon, Pune (Maharashtra).Whatever part you play in the field of industrial heat treatment, AICHELIN UNITHERM has a solution for you. As diverse as the product portfolio may be, certain things apply to every solution: reliability and economic efficiency. AICHELIN UNITHERM in joint venture with AICHELIN Group offers extensive experience and skill guaranteeing the security of a stable and strong group, as your partners and service providers.Industrial heat treatment of metallic parts and components is our skill and passion. AICHELIN UNITHERM is the leading manufacturer of Industrial Heat Treatment Plants technology and services in India.   DATA: https://anonfiles.com/******/AICHELIN_UNITHERM_rar PASSWORD:  n246nm245&TC675tcd^R  |
 | [`"FICCI"`](https://google.com/search?q=%22FICCI%22) | 23/02/2023 | Established in 1927, FICCI is the largest and oldest apex business organisation in India. Its history is closely interwoven with India's struggle for independence, its industrialization, and its emergence as one of the most rapidly growing global economies.A non-government, not-for-profit organisation, FICCI is the voice of India's business and industry. From influencing policy to encouraging debate, engaging with policy makers and civil society, FICCI articulates the views and concerns of industry. It serves its members from the Indian private and public corporate sectors and multinational companies, drawing its strength from diverse regional chambers of commerce and industry across states, reaching out to over 2,50,000 companies.FICCI provides a platform for networking and consensus building within and across sectors and is the first port of call for Indian industry, policy makers and the international business community.  FILES: https://anonfiles.com/******/FICCI_rar PASSWORD: BUHgv97yt9f7fcv7c-p8  |
@@ -45,4 +46,4 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
  --- 
 
 
-Last update : _Monday 06/03/2023 11.11 (UTC)_
+Last update : _Monday 06/03/2023 13.24 (UTC)_
