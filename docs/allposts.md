@@ -1,6 +1,6 @@
 
 
-_All `5295` posts_
+_All `5298` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,9 @@ _All `5295` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-06 | [`Kventa Kft`](https://google.com/search?q=Kventa+Kft) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-03-06 | [`The Institute of Space Technology`](https://google.com/search?q=The+Institute+of+Space+Technology) | [medusa](profiles.md?id=medusa) |
+| 2023-03-06 | [`HATCHBANK.COM`](https://google.com/search?q=HATCHBANK.COM) | [clop](profiles.md?id=clop) |
 | 2023-03-06 | [`Lehigh Valley Health Network`](https://google.com/search?q=Lehigh+Valley+Health+Network) | [alphv](profiles.md?id=alphv) |
 | 2023-03-06 | [`Los Altos Foods`](https://google.com/search?q=Los+Altos+Foods) | [alphv](profiles.md?id=alphv) |
 | 2023-03-05 | [`HAW Hamburg`](https://google.com/search?q=HAW+Hamburg) | [vicesociety](profiles.md?id=vicesociety) |
@@ -5305,4 +5308,4 @@ _All `5295` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 06/03/2023 05.22 (UTC)_
+Last update : _Monday 06/03/2023 09.26 (UTC)_
