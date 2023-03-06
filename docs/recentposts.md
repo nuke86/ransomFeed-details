@@ -5,6 +5,9 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-06 | [`Krinos Foods`](https://google.com/search?q=Krinos+Foods) | [royal](profiles.md?id=royal) |
+| 2023-03-06 | [`Wilhelm`](https://google.com/search?q=Wilhelm) | [royal](profiles.md?id=royal) |
+| 2023-03-06 | [`PROTEKTOR`](https://google.com/search?q=PROTEKTOR) | [royal](profiles.md?id=royal) |
 | 2023-03-06 | [`Circa Jewels`](https://google.com/search?q=Circa+Jewels) | [mallox](profiles.md?id=mallox) |
 | 2023-03-06 | [`Kventa Kft`](https://google.com/search?q=Kventa+Kft) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-03-06 | [`The Institute of Space Technology`](https://google.com/search?q=The+Institute+of+Space+Technology) | [medusa](profiles.md?id=medusa) |
@@ -202,8 +205,5 @@
 | 2023-02-12 | [`ppinvestors.com`](https://google.com/search?q=ppinvestors.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-12 | [`mhstech.com`](https://google.com/search?q=mhstech.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-12 | [`albouyassociesconsult`](https://google.com/search?q=albouyassociesconsult) | [vendetta](profiles.md?id=vendetta) |
-| 2023-02-12 | [`Inland Group`](https://google.com/search?q=Inland+Group) | [blackbyte](profiles.md?id=blackbyte) |
-| 2023-02-12 | [`Cork Institute of Technology & Munster Technological University`](https://google.com/search?q=Cork+Institute+of+Technology+%26+Munster+Technological+University) | [alphv](profiles.md?id=alphv) |
-| 2023-02-12 | [`mrkpc.com`](https://google.com/search?q=mrkpc.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Monday 06/03/2023 13.24 (UTC)_
+Last update : _Monday 06/03/2023 17.15 (UTC)_

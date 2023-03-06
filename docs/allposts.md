@@ -1,6 +1,6 @@
 
 
-_All `5299` posts_
+_All `5302` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,9 @@ _All `5299` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-06 | [`Krinos Foods`](https://google.com/search?q=Krinos+Foods) | [royal](profiles.md?id=royal) |
+| 2023-03-06 | [`Wilhelm`](https://google.com/search?q=Wilhelm) | [royal](profiles.md?id=royal) |
+| 2023-03-06 | [`PROTEKTOR`](https://google.com/search?q=PROTEKTOR) | [royal](profiles.md?id=royal) |
 | 2023-03-06 | [`Circa Jewels`](https://google.com/search?q=Circa+Jewels) | [mallox](profiles.md?id=mallox) |
 | 2023-03-06 | [`Kventa Kft`](https://google.com/search?q=Kventa+Kft) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-03-06 | [`The Institute of Space Technology`](https://google.com/search?q=The+Institute+of+Space+Technology) | [medusa](profiles.md?id=medusa) |
@@ -5309,4 +5312,4 @@ _All `5299` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 06/03/2023 13.24 (UTC)_
+Last update : _Monday 06/03/2023 17.15 (UTC)_
