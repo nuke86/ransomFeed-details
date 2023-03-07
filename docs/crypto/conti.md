@@ -31,5 +31,5 @@
 | [bc1qdpsal8xhg9p857r4g425y868yqwtzdqgzv8wg0](https://www.blockchain.com/explorer/addresses/btc/bc1qdpsal8xhg9p857r4g425y868yqwtzdqgzv8wg0) | bitcoin | $ 598980 |
 | [1LYiEgq9k3xSAddbqMZcsVTayJVoKbTFub](https://www.blockchain.com/explorer/addresses/btc/1LYiEgq9k3xSAddbqMZcsVTayJVoKbTFub) | bitcoin | $ 1118168 |
 
-Last update : _Monday 06/03/2023 23.09 (UTC)_
+Last update : _Tuesday 07/03/2023 03.53 (UTC)_
 
