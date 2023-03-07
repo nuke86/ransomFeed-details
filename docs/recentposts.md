@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-07 | [`Minneapolis Public Schools`](https://google.com/search?q=Minneapolis+Public+Schools) | [medusa](profiles.md?id=medusa) |
 | 2023-03-06 | [`Krinos Foods`](https://google.com/search?q=Krinos+Foods) | [royal](profiles.md?id=royal) |
 | 2023-03-06 | [`Wilhelm`](https://google.com/search?q=Wilhelm) | [royal](profiles.md?id=royal) |
 | 2023-03-06 | [`PROTEKTOR`](https://google.com/search?q=PROTEKTOR) | [royal](profiles.md?id=royal) |
@@ -204,6 +205,5 @@
 | 2023-02-12 | [`wilsonart.co.th`](https://google.com/search?q=wilsonart.co.th) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-12 | [`ppinvestors.com`](https://google.com/search?q=ppinvestors.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-12 | [`mhstech.com`](https://google.com/search?q=mhstech.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-12 | [`albouyassociesconsult`](https://google.com/search?q=albouyassociesconsult) | [vendetta](profiles.md?id=vendetta) |
 
-Last update : _Tuesday 07/03/2023 07.18 (UTC)_
+Last update : _Tuesday 07/03/2023 09.19 (UTC)_

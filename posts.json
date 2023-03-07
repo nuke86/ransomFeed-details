@@ -28263,5 +28263,13 @@
         "description": "Krinos Foods LLC is one of the largest importers and manufacturers of specialty foods in North America. Krinos imports over 3,000 frozen, refrigerated and dry food products from over 25 countries. These products include cheeses, olives, olive oils, pasta and etc.",
         "website": "https://www.krinos.com",
         "published": "2023-03-06 01:02:03.456789"
+    },
+    {
+        "post_title": "Minneapolis Public Schools",
+        "group_name": "medusa",
+        "discovered": "2023-03-07 09:17:43.486295",
+        "description": "Minneapolis Public Schools (MPS) or Special School District Number 1 is a public school district serving students in pre-kindergarten through twelfth grade from Minneapolis, Minnesota. Minneapolis Public Schools enrolls 36,370 students in public primary and secondary schools. The district administers about one hundred public schools including forty-five elementary schools, seven middle schools, seven high schools, eight special education schools, eight alternative schools, nineteen contract alternative schools, and five charter schools. With authority granted by the state legislature, the school board makes policy, selects the superintendent, and oversees the district's budget, curriculum, personnel, and facilities. Students speak ninety different languages at home and most school communications are printed in English, Hmong, Spanish, and Somali.",
+        "website": "",
+        "published": "2023-03-07 08:19:20.12345"
     }
 ]
