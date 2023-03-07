@@ -8,7 +8,7 @@ _Parser : `Not available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| none | 🟢 | 07/03/2023 17:02 | `http://ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion` | <a href="https://www.ransomware.live/screenshots/ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 07/03/2023 19:02 | `http://ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion` | <a href="https://www.ransomware.live/screenshots/ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -18,4 +18,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Tuesday 07/03/2023 17.11 (UTC)_
+Last update : _Tuesday 07/03/2023 19.12 (UTC)_

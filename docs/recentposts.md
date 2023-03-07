@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-07 | [`Regional Transportation Authority`](https://google.com/search?q=Regional+Transportation+Authority) | [monti](profiles.md?id=monti) |
+| 2023-03-07 | [`GROUPAMANA.COM`](https://google.com/search?q=GROUPAMANA.COM) | [clop](profiles.md?id=clop) |
 | 2023-03-07 | [`Minneapolis Public Schools`](https://google.com/search?q=Minneapolis+Public+Schools) | [medusa](profiles.md?id=medusa) |
 | 2023-03-06 | [`Krinos Foods`](https://google.com/search?q=Krinos+Foods) | [royal](profiles.md?id=royal) |
 | 2023-03-06 | [`Wilhelm`](https://google.com/search?q=Wilhelm) | [royal](profiles.md?id=royal) |
@@ -203,7 +205,5 @@
 | 2023-02-12 | [`lhermite-agri.com`](https://google.com/search?q=lhermite-agri.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-12 | [`olsenlawgroup.com`](https://google.com/search?q=olsenlawgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-12 | [`wilsonart.co.th`](https://google.com/search?q=wilsonart.co.th) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-12 | [`ppinvestors.com`](https://google.com/search?q=ppinvestors.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-12 | [`mhstech.com`](https://google.com/search?q=mhstech.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Tuesday 07/03/2023 17.11 (UTC)_
+Last update : _Tuesday 07/03/2023 19.12 (UTC)_
