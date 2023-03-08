@@ -8,15 +8,16 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 08/03/2023 13:19 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 08/03/2023 13:19 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 08/03/2023 19:03 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 08/03/2023 19:04 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 146 posts found
+> 147 posts found
 
 | post | date | Description
 |---|---|---|
+| [`The WorkPlace`](http://www.workplace.org) | 08/03/2023 | The WorkPlace was originally incorporated as the Private Industry Council of Southern Connecticut on August 11, 1983. Today, we conduct comprehensive planning, and coordinate regional and state-wide workforce development programs to prepare people for careers while strengthening the workforce for employers.We do this chiefly by administering workforce development funds and coordinating providers of job training and education programs. But our role is actually much larger. We believe in the power of ideas to affect great change – so we act as convener, catalyst, collaborator and advocate for workforce development throughout the region, state and nation. |
 | [`Krinos Foods`](https://www.krinos.com) | 06/03/2023 | Krinos Foods LLC is one of the largest importers and manufacturers of specialty foods in North America. Krinos imports over 3,000 frozen, refrigerated and dry food products from over 25 countries. These products include cheeses, olives, olive oils, pasta and etc. |
 | [`Wilhelm`](https://www.e-wilhelm-gmbh.de) | 06/03/2023 | Egmont Wilhelm GmbHWilly-Messerschmitt-Straße 1473457 EssingenDeutschland |
 | [`PROTEKTOR`](https://www.protektor.co.uk) | 06/03/2023 | The Protektor brand of profiles for plaster, render and drywall has been established for over 100 years. The first to introduce the manufacture of plaster bead and drywall steel profiles for partitions and ceiling constructions in Europe we have continued to develop and innovation solutions to meet the needs of system partners and the construction industry alike. |
@@ -167,4 +168,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Wednesday 08/03/2023 13.27 (UTC)_
+Last update : _Wednesday 08/03/2023 19.11 (UTC)_

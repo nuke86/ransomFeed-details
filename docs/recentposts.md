@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-08 | [`The WorkPlace`](https://google.com/search?q=The+WorkPlace) | [royal](profiles.md?id=royal) |
 | 2023-03-08 | [`Wagner CAT`](https://google.com/search?q=Wagner+CAT) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-03-07 | [`Regional Transportation Authority`](https://google.com/search?q=Regional+Transportation+Authority) | [monti](profiles.md?id=monti) |
 | 2023-03-07 | [`GROUPAMANA.COM`](https://google.com/search?q=GROUPAMANA.COM) | [clop](profiles.md?id=clop) |
@@ -204,6 +205,5 @@
 | 2023-02-13 | [`laganscg.com`](https://google.com/search?q=laganscg.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`greekpeak.net`](https://google.com/search?q=greekpeak.net) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-12 | [`lhermite-agri.com`](https://google.com/search?q=lhermite-agri.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-12 | [`olsenlawgroup.com`](https://google.com/search?q=olsenlawgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Wednesday 08/03/2023 13.27 (UTC)_
+Last update : _Wednesday 08/03/2023 19.11 (UTC)_
