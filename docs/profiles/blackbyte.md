@@ -27,14 +27,15 @@ _Parser : `Available`_
 | BlackByte BLOG | 🔴 | 28/03/2022 11:17 | `http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion` | ❌ | 
 | BlackByte BLOG | 🔴 | 24/04/2022 20:21 | `http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion` | ❌ | 
 | BlackByte BLOG | 🔴 | 12/07/2022 20:09 | `http://ce6roic2ykdjunyzazsxmjpz5wsar4pflpoqzntyww5c2eskcp7dq4yd.onion` | ❌ | 
-| 504 Gateway Time-out | 🔴 | 09/03/2023 14:32 | `http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion` | <a href="https://www.ransomware.live/screenshots/jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad-onion.png" target=_blank>📸</a> | 
+| BB Auction | 🟢 | 09/03/2023 18:34 | `http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion` | <a href="https://www.ransomware.live/screenshots/jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 99 posts found
+> 100 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Falcon Holdings`](https://www.falconholdings.com/) | 09/03/2023 | Falcon created the management company of professionals to provide operational expertise and administrative services to a wide range of companies. It serves clients with a level of commitment that is first class in the industry. Implementation of many programs in the company are designed to promote a diverse work force and helping employees excel. Khan is a true example of someone who has taken advantage of the opportunities available and created value to the clients, employees and investors. |
 | [`Wagner CAT`](https://wagnerequipment.com/) | 08/03/2023 | Since 1976, Wagner has been selling and renting quality Cat machines used in heavy construction, building construction, mining, waste handling, paving, municipal and governmental applications, forestry and more. |
 | [`Inland Group`](https://inlandgroup.aero/) | 12/02/2023 | The Inland Group of Companies is a multi-national collective of premier aviation services providers. Each company is highly specialized in their field of expertise with proven track records of providing safe, efficient, and cost-effective aviation services.Integrated Deicing Services (IDS)Aircraft Deicing and Anti-icing Services.Inland Technologies International/Canada (Inland)Aviation Environmental Services.Quantem Aviation Services (QAS)Ground Handling and Terminal Services. |
 | [`Penn Power Group`](https://pennpowergroup.com/) | 07/02/2023 | Our ServicesLeveraging our OEM expertise and 50+ years of experience, we provide comprehensive fleet services at our 13 service centers and 100 mobile vehicles that come to you.  From traditional shop services and maintenance management to mobile fleet services and emergency roadside assistance, we handle it all. |
@@ -138,4 +139,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 09/03/2023 17.11 (UTC)_
+Last update : _Thursday 09/03/2023 19.07 (UTC)_
