@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-09 | [`audio-technica.com`](https://google.com/search?q=audio-technica.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-08 | [`The WorkPlace`](https://google.com/search?q=The+WorkPlace) | [royal](profiles.md?id=royal) |
 | 2023-03-08 | [`Wagner CAT`](https://google.com/search?q=Wagner+CAT) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-03-07 | [`Regional Transportation Authority`](https://google.com/search?q=Regional+Transportation+Authority) | [monti](profiles.md?id=monti) |
@@ -204,6 +205,5 @@
 | 2023-02-13 | [`mdstrucking.com`](https://google.com/search?q=mdstrucking.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`laganscg.com`](https://google.com/search?q=laganscg.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`greekpeak.net`](https://google.com/search?q=greekpeak.net) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-12 | [`lhermite-agri.com`](https://google.com/search?q=lhermite-agri.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Thursday 09/03/2023 05.07 (UTC)_
+Last update : _Thursday 09/03/2023 07.10 (UTC)_
