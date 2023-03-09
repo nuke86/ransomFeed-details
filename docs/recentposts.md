@@ -5,6 +5,9 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-09 | [`Garbarino SAICeI`](https://google.com/search?q=Garbarino+SAICeI) | [medusa](profiles.md?id=medusa) |
+| 2023-03-09 | [`National Business Furniture`](https://google.com/search?q=National+Business+Furniture) | [medusa](profiles.md?id=medusa) |
+| 2023-03-09 | [`pmsoffice.de`](https://google.com/search?q=pmsoffice.de) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-09 | [`delawarelife.com`](https://google.com/search?q=delawarelife.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-09 | [`Wellington Power Corporation`](https://google.com/search?q=Wellington+Power+Corporation) | [royal](profiles.md?id=royal) |
 | 2023-03-09 | [`Falcon Holdings`](https://google.com/search?q=Falcon+Holdings) | [blackbyte](profiles.md?id=blackbyte) |
@@ -202,8 +205,5 @@
 | 2023-02-13 | [`cassaragionieri.it`](https://google.com/search?q=cassaragionieri.it) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`Reventics`](https://google.com/search?q=Reventics) | [royal](profiles.md?id=royal) |
 | 2023-02-13 | [`dana-group.com`](https://google.com/search?q=dana-group.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-13 | [`mangalagroup.com`](https://google.com/search?q=mangalagroup.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-13 | [`nonson.com.vn`](https://google.com/search?q=nonson.com.vn) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-13 | [`vanderkaay.com`](https://google.com/search?q=vanderkaay.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Thursday 09/03/2023 21.02 (UTC)_
+Last update : _Thursday 09/03/2023 23.06 (UTC)_

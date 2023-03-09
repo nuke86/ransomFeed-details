@@ -8,14 +8,16 @@ _Parser : `Not available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Medusa Blog | 🟢 | 09/03/2023 20:48 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
+| Medusa Blog | 🟢 | 09/03/2023 22:50 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 22 posts found
+> 24 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Garbarino SAICeI`](https://google.com/search?q=Garbarino+SAICeI) | 09/03/2023 | Garbarino, headquartered in Argentina, founded in 1951, is a retail company offering a wide range of products, including technology, appliances, furniture, sportswear, tools. Garbarino offers the most prestigious brands with over 5000 items. |
+| [`National Business Furniture`](https://google.com/search?q=National+Business+Furniture) | 09/03/2023 | National Business Furniture (NBF), founded in 1975, is an office furniture manufacturer headquartered in Milwaukee, Wisconsin. The company has additional offices in New York, Chicago, Los Angeles, Atlanta, Dallas, Phoenix and Seattle. In 2006, NBF was acquired by TAKKT AG, a leading direct marketing specialist for B2B business equipment in Europe and North America. |
 | [`Minneapolis Public Schools`](https://google.com/search?q=Minneapolis+Public+Schools) | 07/03/2023 | Minneapolis Public Schools (MPS) or Special School District Number 1 is a public school district serving students in pre-kindergarten through twelfth grade from Minneapolis, Minnesota. Minneapolis Public Schools enrolls 36,370 students in public primary and secondary schools. The district administers about one hundred public schools including forty-five elementary schools, seven middle schools, seven high schools, eight special education schools, eight alternative schools, nineteen contract alternative schools, and five charter schools. With authority granted by the state legislature, the school board makes policy, selects the superintendent, and oversees the district's budget, curriculum, personnel, and facilities. Students speak ninety different languages at home and most school communications are printed in English, Hmong, Spanish, and Somali. |
 | [`The Institute of Space Technology`](https://google.com/search?q=The+Institute+of+Space+Technology) | 06/03/2023 | The Institute of Space Technology (also known as IST) is a public university located in Islamabad, Pakistan. IST space program aims at designing, building, launching and succesfully operating the Pico-Satellite standard CubeSat. The program is led by Communication Systems Engineering (CSE). Established in 2002 under the auspices of the Pakistan National Space Agency. IST offers a wide array of undergraduate and graduate degrees in partnership of Beihang University and University of Surrey. |
 | [`Kenya Airports Authority`](https://google.com/search?q=Kenya+Airports+Authority) | 01/03/2023 | Kenya Airports Authority (KAA) is the owner and operator of nine civilian airports and airstrips in Kenya. Kenya Airports Authority was established by an act of Parliament in 1992, by the ruling Kenya African National Union government. The KAA Act, Cap 395, provides for the powers and functions of the Authority. Its head office is on the property of Jomo Kenyatta International Airport in Embakasi, Nairobi. |
@@ -46,4 +48,4 @@ AP® Emissions Technologies is one of the leading manufacturers and suppliers of
  --- 
 
 
-Last update : _Thursday 09/03/2023 21.02 (UTC)_
+Last update : _Thursday 09/03/2023 23.06 (UTC)_
