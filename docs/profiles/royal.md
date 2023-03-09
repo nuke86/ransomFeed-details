@@ -8,15 +8,16 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 09/03/2023 08:59 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 09/03/2023 08:59 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 09/03/2023 10:59 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 09/03/2023 11:00 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 148 posts found
+> 149 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Brauerei Schimpf`](http://www.brauerei-schimpf.de) | 09/03/2023 | Headquarters: 1 Hauptstraße, Neustetten, Baden-Wuerttemberg, 72149, GermanyPhone Number: +49 747298940 |
 | [`Thomaston Mills`](https://thomastonmills.com) | 09/03/2023 | Thomaston Mills was founded in 1899 by R.E. Hightower and is the oldest domestic sheet mill in the USA. We were owned by the Hightower family until 2001, and have been owned by the Zaslow family since that time. Combined the two families have over 200 years of textile experience. Thomaston Mills continues to operate as a family business that puts the customer first.We currently specialize in manufacturing and distribution of the highest quality bed and bath linens to the hospitality, healthcare and institutional markets. We finish millions of yards of fabric each year at our bleachery in Easley, South Carolina and cut and sew this fabric in our 250,000 square foot manufacturing and warehousing facility located in Thomaston, GA. |
 | [`The WorkPlace`](http://www.workplace.org) | 08/03/2023 | The WorkPlace was originally incorporated as the Private Industry Council of Southern Connecticut on August 11, 1983. Today, we conduct comprehensive planning, and coordinate regional and state-wide workforce development programs to prepare people for careers while strengthening the workforce for employers.We do this chiefly by administering workforce development funds and coordinating providers of job training and education programs. But our role is actually much larger. We believe in the power of ideas to affect great change – so we act as convener, catalyst, collaborator and advocate for workforce development throughout the region, state and nation. |
 | [`Krinos Foods`](https://www.krinos.com) | 06/03/2023 | Krinos Foods LLC is one of the largest importers and manufacturers of specialty foods in North America. Krinos imports over 3,000 frozen, refrigerated and dry food products from over 25 countries. These products include cheeses, olives, olive oils, pasta and etc. |
@@ -169,4 +170,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 09/03/2023 09.06 (UTC)_
+Last update : _Thursday 09/03/2023 11.06 (UTC)_

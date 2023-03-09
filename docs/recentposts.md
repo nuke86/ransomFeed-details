@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-09 | [`Brauerei Schimpf`](https://google.com/search?q=Brauerei+Schimpf) | [royal](profiles.md?id=royal) |
 | 2023-03-09 | [`Thomaston Mills`](https://google.com/search?q=Thomaston+Mills) | [royal](profiles.md?id=royal) |
 | 2023-03-09 | [`audio-technica.com`](https://google.com/search?q=audio-technica.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-08 | [`The WorkPlace`](https://google.com/search?q=The+WorkPlace) | [royal](profiles.md?id=royal) |
@@ -204,6 +205,5 @@
 | 2023-02-13 | [`tucsoneyecare.com`](https://google.com/search?q=tucsoneyecare.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`chempartner.com`](https://google.com/search?q=chempartner.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`mdstrucking.com`](https://google.com/search?q=mdstrucking.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-13 | [`laganscg.com`](https://google.com/search?q=laganscg.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Thursday 09/03/2023 09.06 (UTC)_
+Last update : _Thursday 09/03/2023 11.06 (UTC)_
