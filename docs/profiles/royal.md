@@ -8,15 +8,16 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 09/03/2023 14:55 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 09/03/2023 14:55 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 09/03/2023 17:03 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 09/03/2023 17:04 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 149 posts found
+> 150 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Walker SCM`](http://www.walkerscm.com) | 09/03/2023 | Walker SCM, LLC provides Global Supply Chain Services ranging from Transportation (Air and Ocean Freight Forwarding) to Warehousing Solutions that also include specialized value added services. We have stolen from their network 20GB in total, including: HR;Work files;Finance;Clients and others.Feel free to check!Archive password: 4+"JdvDyH[a4:o@9D,b$wy!'~W]~jrk/z_"yiz<r |
 | [`Brauerei Schimpf`](http://www.brauerei-schimpf.de) | 09/03/2023 | Headquarters: 1 Hauptstraße, Neustetten, Baden-Wuerttemberg, 72149, GermanyPhone Number: +49 747298940 |
 | [`Thomaston Mills`](https://thomastonmills.com) | 09/03/2023 | Thomaston Mills was founded in 1899 by R.E. Hightower and is the oldest domestic sheet mill in the USA. We were owned by the Hightower family until 2001, and have been owned by the Zaslow family since that time. Combined the two families have over 200 years of textile experience. Thomaston Mills continues to operate as a family business that puts the customer first.We currently specialize in manufacturing and distribution of the highest quality bed and bath linens to the hospitality, healthcare and institutional markets. We finish millions of yards of fabric each year at our bleachery in Easley, South Carolina and cut and sew this fabric in our 250,000 square foot manufacturing and warehousing facility located in Thomaston, GA. |
 | [`The WorkPlace`](http://www.workplace.org) | 08/03/2023 | The WorkPlace was originally incorporated as the Private Industry Council of Southern Connecticut on August 11, 1983. Today, we conduct comprehensive planning, and coordinate regional and state-wide workforce development programs to prepare people for careers while strengthening the workforce for employers.We do this chiefly by administering workforce development funds and coordinating providers of job training and education programs. But our role is actually much larger. We believe in the power of ideas to affect great change – so we act as convener, catalyst, collaborator and advocate for workforce development throughout the region, state and nation. |
@@ -170,4 +171,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 09/03/2023 15.01 (UTC)_
+Last update : _Thursday 09/03/2023 17.11 (UTC)_
