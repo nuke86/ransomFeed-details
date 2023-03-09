@@ -1,6 +1,6 @@
 
 
-_All `5313` posts_
+_All `5314` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `5313` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-09 | [`delawarelife.com`](https://google.com/search?q=delawarelife.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-09 | [`Wellington Power Corporation`](https://google.com/search?q=Wellington+Power+Corporation) | [royal](profiles.md?id=royal) |
 | 2023-03-09 | [`Falcon Holdings`](https://google.com/search?q=Falcon+Holdings) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-03-09 | [`Walker SCM`](https://google.com/search?q=Walker+SCM) | [royal](profiles.md?id=royal) |
@@ -5323,4 +5324,4 @@ _All `5313` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Thursday 09/03/2023 19.07 (UTC)_
+Last update : _Thursday 09/03/2023 21.02 (UTC)_
