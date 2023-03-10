@@ -15,14 +15,19 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://ekbgzchl6x2ias37.onion` | ❌ | 
-| HOME - CL0P^_- LEAKS | 🟢 | 10/03/2023 08:39 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
+| HOME - CL0P^_- LEAKS | 🟢 | 10/03/2023 10:36 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 128 posts found
+> 133 posts found
 
 | post | date | Description
 |---|---|---|
+| [`PEOPLECORPORATION.COM`](https://google.com/search?q=PEOPLECORPORATION.COM) | 10/03/2023 |  |
+| [`MEDMINDER.COM`](https://google.com/search?q=MEDMINDER.COM) | 10/03/2023 |  |
+| [`AXISBANK.COM`](https://google.com/search?q=AXISBANK.COM) | 10/03/2023 |  |
+| [`HOUSELOAN.COM`](https://google.com/search?q=HOUSELOAN.COM) | 10/03/2023 |  |
+| [`ALIVIAHEALTH.COM`](https://google.com/search?q=ALIVIAHEALTH.COM) | 10/03/2023 |  |
 | [`GROUPAMANA.COM`](https://google.com/search?q=GROUPAMANA.COM) | 07/03/2023 |  |
 | [`HATCHBANK.COM`](https://google.com/search?q=HATCHBANK.COM) | 06/03/2023 |  |
 | [`NYCBAR.ORG`](https://google.com/search?q=NYCBAR.ORG) | 13/01/2023 | New York City Bar Association |
@@ -155,4 +160,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Friday 10/03/2023 09.09 (UTC)_
+Last update : _Friday 10/03/2023 11.16 (UTC)_

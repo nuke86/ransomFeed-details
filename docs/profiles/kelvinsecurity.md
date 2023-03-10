@@ -13,7 +13,7 @@ _`not a ransomware group`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| ご確認ください | 🟢 | 10/03/2023 08:45 | `http://kelvinsecteamcyber.wixsite.com` | <a href="https://www.ransomware.live/screenshots/kelvinsecteamcyber-wixsite-com.png" target=_blank>📸</a> | 
+| none | 🟢 | 10/03/2023 10:41 | `http://kelvinsecteamcyber.wixsite.com` | <a href="https://www.ransomware.live/screenshots/kelvinsecteamcyber-wixsite-com.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -51,4 +51,4 @@ _`not a ransomware group`_
  --- 
 
 
-Last update : _Friday 10/03/2023 09.09 (UTC)_
+Last update : _Friday 10/03/2023 11.16 (UTC)_

@@ -8,15 +8,17 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 10/03/2023 09:02 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 10/03/2023 09:03 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 10/03/2023 11:06 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 10/03/2023 11:07 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 158 posts found
+> 160 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Highway Equipment`](https://www.highway-equipment.com) | 10/03/2023 | Highway Equipment is a rental and leasing company of construction equipment and related parts. The company was founded in 1933 and is headquartered in Pennsylvania. |
+| [`KMVP`](https://kmwp.de) | 10/03/2023 | Kanzlei Mühlbauer Wagner PartGmbB, Wirtschaftprüfer SteuerberaterRaiffeisenstraße 292637 WeidenTel.: 0961 - 63 46 829 0Fax.: 0961 - 63 46 829 10Mail.: info@kmwp.de |
 | [`Ferretería EPA`](https://www.epaenlinea.com) | 10/03/2023 | Ferretería EPA is a company that operates in the Environmental Services industry. It employs 2,001-5,000 people and has $500M-$1B of revenue. The company is headquartered in Valencia, Carabobo, Venezuela.﻿ |
 | [`Richard Sanders`](https://www.richardsanders.co.uk) | 10/03/2023 | Headquarters: Brunel Close, Northampton, Northamptonshire, NN16 9HU, United KingdomPhone: +44 1536512221 |
 | [`Gottschol Alcuilux`](https://www.alcuilux.lu) | 10/03/2023 | Gottschol Alcuilux mit den Unternehmensbereichen Desox-Aluminium, Feinblechbearbeitung und Zerspanungstechnik ist ihr Partner für Aluminium zur Stahldesoxidation, Lamellen für die Reifenindustrie und andere Feinblechprodukte sowie alle Arten spanender Metallbearbei |
@@ -179,4 +181,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Friday 10/03/2023 09.09 (UTC)_
+Last update : _Friday 10/03/2023 11.16 (UTC)_

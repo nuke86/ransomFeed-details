@@ -5,6 +5,13 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-10 | [`Highway Equipment`](https://google.com/search?q=Highway+Equipment) | [royal](profiles.md?id=royal) |
+| 2023-03-10 | [`KMVP`](https://google.com/search?q=KMVP) | [royal](profiles.md?id=royal) |
+| 2023-03-10 | [`PEOPLECORPORATION.COM`](https://google.com/search?q=PEOPLECORPORATION.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-10 | [`MEDMINDER.COM`](https://google.com/search?q=MEDMINDER.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-10 | [`AXISBANK.COM`](https://google.com/search?q=AXISBANK.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-10 | [`HOUSELOAN.COM`](https://google.com/search?q=HOUSELOAN.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-10 | [`ALIVIAHEALTH.COM`](https://google.com/search?q=ALIVIAHEALTH.COM) | [clop](profiles.md?id=clop) |
 | 2023-03-10 | [`Ferretería EPA`](https://google.com/search?q=Ferreter%C3%ADa+EPA) | [royal](profiles.md?id=royal) |
 | 2023-03-10 | [`Richard Sanders`](https://google.com/search?q=Richard+Sanders) | [royal](profiles.md?id=royal) |
 | 2023-03-10 | [`Gottschol Alcuilux`](https://google.com/search?q=Gottschol+Alcuilux) | [royal](profiles.md?id=royal) |
@@ -198,12 +205,5 @@
 | 2023-02-15 | [`montibello.com`](https://google.com/search?q=montibello.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-15 | [`nationallocums.co.uk`](https://google.com/search?q=nationallocums.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-15 | [`PetroChina Indonesia`](https://google.com/search?q=PetroChina+Indonesia) | [medusa](profiles.md?id=medusa) |
-| 2023-02-15 | [`gruppobeltrame.com`](https://google.com/search?q=gruppobeltrame.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-14 | [`Microgame SpA`](https://google.com/search?q=Microgame+SpA) | [play](profiles.md?id=play) |
-| 2023-02-14 | [`Energie Pool Schweiz`](https://google.com/search?q=Energie+Pool+Schweiz) | [play](profiles.md?id=play) |
-| 2023-02-14 | [`Alexandercity`](https://google.com/search?q=Alexandercity) | [royal](profiles.md?id=royal) |
-| 2023-02-14 | [`Delallo`](https://google.com/search?q=Delallo) | [royal](profiles.md?id=royal) |
-| 2023-02-14 | [`cefcostores.com`](https://google.com/search?q=cefcostores.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-14 | [`albanesi.com.ar`](https://google.com/search?q=albanesi.com.ar) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Friday 10/03/2023 09.09 (UTC)_
+Last update : _Friday 10/03/2023 11.16 (UTC)_
