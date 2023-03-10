@@ -14,15 +14,20 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| PLAY NEWS | 🟢 | 10/03/2023 20:48 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
-| PLAY NEWS | 🟢 | 10/03/2023 20:49 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
+| PLAY NEWS | 🟢 | 10/03/2023 22:50 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
+| PLAY NEWS | 🟢 | 10/03/2023 22:51 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 63 posts found
+> 68 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Real Pro`](https://www.realpro.com) | 10/03/2023 | United States |
+| [`Leemock`](https://www.leemock.com) | 10/03/2023 | United States |
+| [`The M. K. Morse`](https://www.mkmorse.com) | 10/03/2023 | United States |
+| [`Secure Wrap`](https://www.securewrap.com) | 10/03/2023 | United States |
+| [`Russell Finex`](https://www.russellfinex.com) | 10/03/2023 | United Kingdom |
 | [`Oakland`](https://www.oaklandca.gov) | 03/03/2023 | United States |
 | [`O???a??`](https://www.o???a????.???) | 02/03/2023 | USA |
 | [`InPro electric`](https://www.inpro-electric.de) | 24/02/2023 | Germany |
@@ -90,4 +95,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Friday 10/03/2023 21.00 (UTC)_
+Last update : _Friday 10/03/2023 23.04 (UTC)_
