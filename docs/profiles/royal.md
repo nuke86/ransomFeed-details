@@ -8,15 +8,22 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 10/03/2023 07:01 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 10/03/2023 07:02 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 10/03/2023 09:02 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 10/03/2023 09:03 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 151 posts found
+> 158 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Ferretería EPA`](https://www.epaenlinea.com) | 10/03/2023 | Ferretería EPA is a company that operates in the Environmental Services industry. It employs 2,001-5,000 people and has $500M-$1B of revenue. The company is headquartered in Valencia, Carabobo, Venezuela.﻿ |
+| [`Richard Sanders`](https://www.richardsanders.co.uk) | 10/03/2023 | Headquarters: Brunel Close, Northampton, Northamptonshire, NN16 9HU, United KingdomPhone: +44 1536512221 |
+| [`Gottschol Alcuilux`](https://www.alcuilux.lu) | 10/03/2023 | Gottschol Alcuilux mit den Unternehmensbereichen Desox-Aluminium, Feinblechbearbeitung und Zerspanungstechnik ist ihr Partner für Aluminium zur Stahldesoxidation, Lamellen für die Reifenindustrie und andere Feinblechprodukte sowie alle Arten spanender Metallbearbei |
+| [`Jackson Dean Construction`](https://www.jacksondean.com) | 10/03/2023 | Jackson Dean Construction offers a challenging and rewarding work experience to college students and graduates in order to build a foundation for your future career path in construction management.  |
+| [`Hard Manufacturing`](https://www.hardmfg.com) | 10/03/2023 | HARD Manufacturing, headquartered in Buffalo, NY, designs, manufactures and sells the broadest range of pediatric beds and cribs for hospitals, other healthcare facilities, home care and day care use. |
+| [`Materialogic`](https://www.materialogic.com) | 10/03/2023 | Materialogic offers services in eCommerce fulfillment, marketing logistics, warehousing and distribution, technology, and client and support services. |
+| [`Little Mountain Residential Care and Housing Society`](https://www.littlemountaincare.org) | 10/03/2023 | Little Mountain Residential Care and Housing Society (the Society) is a non-profit society created in July 1983. The Society operates 3 sites. Adanac Park Lodge (APL) and Little Mountain Place (LMP) are residential care homes for adults requiring 24-hour. |
 | [`Wellington Power Corporation`](https://www.wellingtonpower.com) | 09/03/2023 | At Wellington Power, success is based upon diversified excellence in electrical construction, automated metering infrastructure, telecommunications, and general construction services for utility, industrial, and public sector clients. The company has been developed to handle projects ranging from simple service calls to multimillion dollar installations. |
 | [`Walker SCM`](http://www.walkerscm.com) | 09/03/2023 | Walker SCM, LLC provides Global Supply Chain Services ranging from Transportation (Air and Ocean Freight Forwarding) to Warehousing Solutions that also include specialized value added services. We have stolen from their network 20GB in total, including: HR;Work files;Finance;Clients and others.Feel free to check!Archive password: 4+"JdvDyH[a4:o@9D,b$wy!'~W]~jrk/z_"yiz<r |
 | [`Brauerei Schimpf`](http://www.brauerei-schimpf.de) | 09/03/2023 | Headquarters: 1 Hauptstraße, Neustetten, Baden-Wuerttemberg, 72149, GermanyPhone Number: +49 747298940 |
@@ -172,4 +179,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Friday 10/03/2023 07.08 (UTC)_
+Last update : _Friday 10/03/2023 09.09 (UTC)_

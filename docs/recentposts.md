@@ -5,6 +5,13 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-10 | [`Ferretería EPA`](https://google.com/search?q=Ferreter%C3%ADa+EPA) | [royal](profiles.md?id=royal) |
+| 2023-03-10 | [`Richard Sanders`](https://google.com/search?q=Richard+Sanders) | [royal](profiles.md?id=royal) |
+| 2023-03-10 | [`Gottschol Alcuilux`](https://google.com/search?q=Gottschol+Alcuilux) | [royal](profiles.md?id=royal) |
+| 2023-03-10 | [`Jackson Dean Construction`](https://google.com/search?q=Jackson+Dean+Construction) | [royal](profiles.md?id=royal) |
+| 2023-03-10 | [`Hard Manufacturing`](https://google.com/search?q=Hard+Manufacturing) | [royal](profiles.md?id=royal) |
+| 2023-03-10 | [`Materialogic`](https://google.com/search?q=Materialogic) | [royal](profiles.md?id=royal) |
+| 2023-03-10 | [`Little Mountain Residential Care and Housing Society`](https://google.com/search?q=Little+Mountain+Residential+Care+and+Housing+Society) | [royal](profiles.md?id=royal) |
 | 2023-03-10 | [`sagardoy.com`](https://google.com/search?q=sagardoy.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-09 | [`Garbarino SAICeI`](https://google.com/search?q=Garbarino+SAICeI) | [medusa](profiles.md?id=medusa) |
 | 2023-03-09 | [`National Business Furniture`](https://google.com/search?q=National+Business+Furniture) | [medusa](profiles.md?id=medusa) |
@@ -198,12 +205,5 @@
 | 2023-02-14 | [`Delallo`](https://google.com/search?q=Delallo) | [royal](profiles.md?id=royal) |
 | 2023-02-14 | [`cefcostores.com`](https://google.com/search?q=cefcostores.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-14 | [`albanesi.com.ar`](https://google.com/search?q=albanesi.com.ar) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-14 | [`srf.com`](https://google.com/search?q=srf.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-14 | [`Hospital Service SpA`](https://google.com/search?q=Hospital+Service+SpA) | [ransomhouse](profiles.md?id=ransomhouse) |
-| 2023-02-14 | [`Vitas`](https://google.com/search?q=Vitas) | [alphv](profiles.md?id=alphv) |
-| 2023-02-14 | [`Banco Sol`](https://google.com/search?q=Banco+Sol) | [alphv](profiles.md?id=alphv) |
-| 2023-02-13 | [`Eureka Casino Resort`](https://google.com/search?q=Eureka+Casino+Resort) | [medusa](profiles.md?id=medusa) |
-| 2023-02-13 | [`cassaragionieri.it`](https://google.com/search?q=cassaragionieri.it) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-13 | [`Reventics`](https://google.com/search?q=Reventics) | [royal](profiles.md?id=royal) |
 
-Last update : _Friday 10/03/2023 07.08 (UTC)_
+Last update : _Friday 10/03/2023 09.09 (UTC)_
