@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-10 | [`sagardoy.com`](https://google.com/search?q=sagardoy.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-09 | [`Garbarino SAICeI`](https://google.com/search?q=Garbarino+SAICeI) | [medusa](profiles.md?id=medusa) |
 | 2023-03-09 | [`National Business Furniture`](https://google.com/search?q=National+Business+Furniture) | [medusa](profiles.md?id=medusa) |
 | 2023-03-09 | [`pmsoffice.de`](https://google.com/search?q=pmsoffice.de) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2023-02-13 | [`Eureka Casino Resort`](https://google.com/search?q=Eureka+Casino+Resort) | [medusa](profiles.md?id=medusa) |
 | 2023-02-13 | [`cassaragionieri.it`](https://google.com/search?q=cassaragionieri.it) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`Reventics`](https://google.com/search?q=Reventics) | [royal](profiles.md?id=royal) |
-| 2023-02-13 | [`dana-group.com`](https://google.com/search?q=dana-group.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Friday 10/03/2023 05.07 (UTC)_
+Last update : _Friday 10/03/2023 07.08 (UTC)_
