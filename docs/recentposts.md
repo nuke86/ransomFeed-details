@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-10 | [`eprinsa.es`](https://google.com/search?q=eprinsa.es) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-10 | [`kisp.com`](https://google.com/search?q=kisp.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-10 | [`wunan.org.au`](https://google.com/search?q=wunan.org.au) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-10 | [`alpes-sante-travail.org`](https://google.com/search?q=alpes-sante-travail.org) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2023-02-16 | [`coreautomation.com`](https://google.com/search?q=coreautomation.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-16 | [`Mecaro Co., Ltd`](https://google.com/search?q=Mecaro+Co.%2C+Ltd) | [mallox](profiles.md?id=mallox) |
 | 2023-02-16 | [`Hydrofit Alliance Ltd`](https://google.com/search?q=Hydrofit+Alliance+Ltd) | [mallox](profiles.md?id=mallox) |
-| 2023-02-16 | [`Gallier Orléans`](https://google.com/search?q=Gallier+Orl%C3%A9ans) | [mallox](profiles.md?id=mallox) |
 
-Last update : _Friday 10/03/2023 19.05 (UTC)_
+Last update : _Friday 10/03/2023 21.00 (UTC)_
