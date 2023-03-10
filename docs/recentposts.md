@@ -5,6 +5,15 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-10 | [`kisp.com`](https://google.com/search?q=kisp.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-10 | [`wunan.org.au`](https://google.com/search?q=wunan.org.au) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-10 | [`alpes-sante-travail.org`](https://google.com/search?q=alpes-sante-travail.org) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-10 | [`schauenburg.com`](https://google.com/search?q=schauenburg.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-10 | [`heidelbergbread.com`](https://google.com/search?q=heidelbergbread.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-10 | [`southamericantours.com`](https://google.com/search?q=southamericantours.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-10 | [`drilmaco.com`](https://google.com/search?q=drilmaco.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-10 | [`techhard.ae`](https://google.com/search?q=techhard.ae) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-10 | [`micos.com`](https://google.com/search?q=micos.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-10 | [`Highway Equipment`](https://google.com/search?q=Highway+Equipment) | [royal](profiles.md?id=royal) |
 | 2023-03-10 | [`KMVP`](https://google.com/search?q=KMVP) | [royal](profiles.md?id=royal) |
 | 2023-03-10 | [`PEOPLECORPORATION.COM`](https://google.com/search?q=PEOPLECORPORATION.COM) | [clop](profiles.md?id=clop) |
@@ -196,14 +205,5 @@
 | 2023-02-16 | [`Mecaro Co., Ltd`](https://google.com/search?q=Mecaro+Co.%2C+Ltd) | [mallox](profiles.md?id=mallox) |
 | 2023-02-16 | [`Hydrofit Alliance Ltd`](https://google.com/search?q=Hydrofit+Alliance+Ltd) | [mallox](profiles.md?id=mallox) |
 | 2023-02-16 | [`Gallier Orléans`](https://google.com/search?q=Gallier+Orl%C3%A9ans) | [mallox](profiles.md?id=mallox) |
-| 2023-02-15 | [`blackandwhitecabs.com.au`](https://google.com/search?q=blackandwhitecabs.com.au) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-15 | [`trudi.it`](https://google.com/search?q=trudi.it) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-15 | [`Foamtec International`](https://google.com/search?q=Foamtec+International) | [medusa](profiles.md?id=medusa) |
-| 2023-02-15 | [`semsinc.net`](https://google.com/search?q=semsinc.net) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-15 | [`vipar.com`](https://google.com/search?q=vipar.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-15 | [`richardsind.com`](https://google.com/search?q=richardsind.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-15 | [`montibello.com`](https://google.com/search?q=montibello.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-15 | [`nationallocums.co.uk`](https://google.com/search?q=nationallocums.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-15 | [`PetroChina Indonesia`](https://google.com/search?q=PetroChina+Indonesia) | [medusa](profiles.md?id=medusa) |
 
-Last update : _Friday 10/03/2023 11.16 (UTC)_
+Last update : _Friday 10/03/2023 13.29 (UTC)_

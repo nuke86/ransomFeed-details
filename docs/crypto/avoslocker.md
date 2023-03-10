@@ -4,5 +4,5 @@
 |---|---|---|
 | [1MiGyooKN32XiiQ37x6EJwbbfw6mJ7d27G](https://www.blockchain.com/explorer/addresses/btc/1MiGyooKN32XiiQ37x6EJwbbfw6mJ7d27G) | bitcoin | $ 157527 |
 
-Last update : _Friday 10/03/2023 11.16 (UTC)_
+Last update : _Friday 10/03/2023 13.28 (UTC)_
 

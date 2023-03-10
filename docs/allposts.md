@@ -1,6 +1,6 @@
 
 
-_All `5332` posts_
+_All `5341` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,15 @@ _All `5332` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-10 | [`kisp.com`](https://google.com/search?q=kisp.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-10 | [`wunan.org.au`](https://google.com/search?q=wunan.org.au) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-10 | [`alpes-sante-travail.org`](https://google.com/search?q=alpes-sante-travail.org) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-10 | [`schauenburg.com`](https://google.com/search?q=schauenburg.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-10 | [`heidelbergbread.com`](https://google.com/search?q=heidelbergbread.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-10 | [`southamericantours.com`](https://google.com/search?q=southamericantours.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-10 | [`drilmaco.com`](https://google.com/search?q=drilmaco.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-10 | [`techhard.ae`](https://google.com/search?q=techhard.ae) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-10 | [`micos.com`](https://google.com/search?q=micos.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-10 | [`Highway Equipment`](https://google.com/search?q=Highway+Equipment) | [royal](profiles.md?id=royal) |
 | 2023-03-10 | [`KMVP`](https://google.com/search?q=KMVP) | [royal](profiles.md?id=royal) |
 | 2023-03-10 | [`PEOPLECORPORATION.COM`](https://google.com/search?q=PEOPLECORPORATION.COM) | [clop](profiles.md?id=clop) |
@@ -5342,4 +5351,4 @@ _All `5332` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Friday 10/03/2023 11.16 (UTC)_
+Last update : _Friday 10/03/2023 13.29 (UTC)_
