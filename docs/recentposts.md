@@ -5,6 +5,10 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-11 | [`wyckoffcomfort.com`](https://google.com/search?q=wyckoffcomfort.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`bonta-viva.it`](https://google.com/search?q=bonta-viva.it) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`grupohospitalarvidas.com.br`](https://google.com/search?q=grupohospitalarvidas.com.br) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`schradercamargo.com`](https://google.com/search?q=schradercamargo.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-11 | [`greggardnergm.com`](https://google.com/search?q=greggardnergm.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-11 | [`favoritefoods.com`](https://google.com/search?q=favoritefoods.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-11 | [`cktc.edu`](https://google.com/search?q=cktc.edu) | [lockbit3](profiles.md?id=lockbit3) |
@@ -201,9 +205,5 @@
 | 2023-02-18 | [`isosteo.fr`](https://google.com/search?q=isosteo.fr) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`diavaz.com`](https://google.com/search?q=diavaz.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`aguasdoporto.pt`](https://google.com/search?q=aguasdoporto.pt) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-18 | [`inowai.com`](https://google.com/search?q=inowai.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-18 | [`piercetransit.org`](https://google.com/search?q=piercetransit.org) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-18 | [`AP Emissions Technologies`](https://google.com/search?q=AP+Emissions+Technologies) | [medusa](profiles.md?id=medusa) |
-| 2023-02-18 | [`myerspower.com`](https://google.com/search?q=myerspower.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Saturday 11/03/2023 11.01 (UTC)_
+Last update : _Saturday 11/03/2023 13.19 (UTC)_
