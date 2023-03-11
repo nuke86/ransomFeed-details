@@ -1,6 +1,6 @@
 
 
-_All `5348` posts_
+_All `5349` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `5348` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-11 | [`Berkeley County Schools`](https://google.com/search?q=Berkeley+County+Schools) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-03-11 | [`Delaware Life Insurance Company`](https://google.com/search?q=Delaware+Life+Insurance+Company) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-03-10 | [`Real Pro`](https://google.com/search?q=Real+Pro) | [play](profiles.md?id=play) |
 | 2023-03-10 | [`Leemock`](https://google.com/search?q=Leemock) | [play](profiles.md?id=play) |
@@ -5358,4 +5359,4 @@ _All `5348` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Saturday 11/03/2023 05.04 (UTC)_
+Last update : _Saturday 11/03/2023 07.09 (UTC)_

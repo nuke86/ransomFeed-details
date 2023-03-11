@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-11 | [`Berkeley County Schools`](https://google.com/search?q=Berkeley+County+Schools) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-03-11 | [`Delaware Life Insurance Company`](https://google.com/search?q=Delaware+Life+Insurance+Company) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-03-10 | [`Real Pro`](https://google.com/search?q=Real+Pro) | [play](profiles.md?id=play) |
 | 2023-03-10 | [`Leemock`](https://google.com/search?q=Leemock) | [play](profiles.md?id=play) |
@@ -204,6 +205,5 @@
 | 2023-02-18 | [`alliedtools.com`](https://google.com/search?q=alliedtools.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`hotdesk.me`](https://google.com/search?q=hotdesk.me) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`innophaseinc.com`](https://google.com/search?q=innophaseinc.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-18 | [`NESG`](https://google.com/search?q=NESG) | [bianlian](profiles.md?id=bianlian) |
 
-Last update : _Saturday 11/03/2023 05.04 (UTC)_
+Last update : _Saturday 11/03/2023 07.09 (UTC)_
