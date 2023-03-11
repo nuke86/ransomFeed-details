@@ -12,15 +12,16 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | ©RansomHouse | 🔴 | 01/10/2022 13:32 | `http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion` | ❌ | 
-| none | 🟢 | 10/03/2023 22:55 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 11/03/2023 02:15 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
 | Ransomhouse © | 🔴 | 14/01/2023 21:31 | `http://secxrosqawaefsio3biv2dmi2c5yunf3t7ilwf54czq3v4bi7w6mbfad.onion` | ❌ | 
 
 ### Posts
 
-> 29 posts found
+> 30 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Delaware Life Insurance Company`](https://www.delawarelife.com/) | 11/03/2023 | Founded in 2013, Delaware Life Insurance Company is a subsidiary of Group 1001 Insurance Holdings,LLC (Group 1001) a dynamic network of businesses making insurance more useful, logical, and accessible for everyone. As of June 30, 2022, the company had assets of $41.8 billion and liabilities of $39.7 billion (does not include Delaware Life Insurance Company of New York) with more than 320,000  active annuity and life insurance policies. |
 | [`Audio Video`](https://www.audiovideocorp.com/) | 01/03/2023 | Established in 1946 by WWII Veteran Milton A. Klarsfeld, Audio-Video Corporation was initially named The Albany Television Headquarters and was located on Hudson Avenue in Albany, NY. In 1954 the company changed its name to Audio-Video Corporation to better identify with current technology and services. Audio-Video Corporation headquarters is located in Albany, NY with a full service branch office in Syracuse, NY. Additionally, there are three satellite offices spread across NY and New England. Locations include Syracuse NY, Rochester NY, and Burlington VT. |
 | [`E&S Heating & Ventilation Ltd`](https:/www.esgroup.co.uk) | 01/03/2023 | E&S Heating & Ventilation Ltd has been at the forefront of ductwork manufacturing technology and investment since 1972. We offer all forms of ductwork manufacture, galvanised, Flameshield fire rated and stainless steel, associated equipment selection along with procurement, installation, insulation, testing and commissioning for air handling systems. |
 | [`AESCULAPIUS Farmaceutici`](https://www.aesculapius.it/) | 23/02/2023 | The Research and Development Division is the heart of the company, which invests significant resources in innovation to develop new pharmaceutical products and new formulations with high technological content. |
@@ -54,4 +55,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Friday 10/03/2023 23.04 (UTC)_
+Last update : _Saturday 11/03/2023 02.24 (UTC)_
