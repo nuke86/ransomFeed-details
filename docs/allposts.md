@@ -1,6 +1,6 @@
 
 
-_All `5349` posts_
+_All `5358` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,15 @@ _All `5349` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-11 | [`greggardnergm.com`](https://google.com/search?q=greggardnergm.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`favoritefoods.com`](https://google.com/search?q=favoritefoods.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`cktc.edu`](https://google.com/search?q=cktc.edu) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`omegaservicos.com.br`](https://google.com/search?q=omegaservicos.com.br) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`inphenix.com`](https://google.com/search?q=inphenix.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`cqservice.sk`](https://google.com/search?q=cqservice.sk) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`brandywine-homes.com`](https://google.com/search?q=brandywine-homes.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`meinet.com`](https://google.com/search?q=meinet.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`lubrimetal.com`](https://google.com/search?q=lubrimetal.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-11 | [`Berkeley County Schools`](https://google.com/search?q=Berkeley+County+Schools) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-03-11 | [`Delaware Life Insurance Company`](https://google.com/search?q=Delaware+Life+Insurance+Company) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-03-10 | [`Real Pro`](https://google.com/search?q=Real+Pro) | [play](profiles.md?id=play) |
@@ -5359,4 +5368,4 @@ _All `5349` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Saturday 11/03/2023 09.06 (UTC)_
+Last update : _Saturday 11/03/2023 11.01 (UTC)_

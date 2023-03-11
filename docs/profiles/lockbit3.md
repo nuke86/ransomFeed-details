@@ -8,32 +8,41 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| LockBit BLOG | 🟢 | 11/03/2023 08:42 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 11/03/2023 08:42 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 11/03/2023 08:42 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 11/03/2023 08:43 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 11/03/2023 08:43 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 11/03/2023 08:44 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 11/03/2023 08:44 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 11/03/2023 08:45 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 11/03/2023 08:45 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 11/03/2023 08:45 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 11/03/2023 08:46 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 11/03/2023 08:46 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 11/03/2023 08:47 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 11/03/2023 08:47 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 11/03/2023 08:48 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 11/03/2023 08:48 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 11/03/2023 08:48 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 11/03/2023 08:49 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 11/03/2023 08:49 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 11/03/2023 10:37 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 11/03/2023 10:38 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 11/03/2023 10:38 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 11/03/2023 10:39 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 11/03/2023 10:39 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 11/03/2023 10:39 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 11/03/2023 10:40 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 11/03/2023 10:40 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🔴 | 11/03/2023 08:45 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 11/03/2023 10:41 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 11/03/2023 10:41 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 11/03/2023 10:42 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 11/03/2023 10:42 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 11/03/2023 10:42 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 11/03/2023 10:43 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 11/03/2023 10:43 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 11/03/2023 10:44 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 11/03/2023 10:44 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 11/03/2023 10:45 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 591 posts found
+> 600 posts found
 
 | post | date | Description
 |---|---|---|
+| [`greggardnergm.com`](https://google.com/search?q=greggardnergm.com) | 11/03/2023 | Shopping for a new or pre-owned GM vehicle? Shop for GMC, Buick, and Chevrolet models at Greg Gardner Motors, located in Squamish, BC. |
+| [`favoritefoods.com`](https://google.com/search?q=favoritefoods.com) | 11/03/2023 | The Mission of Favorite Foods is to provide quality products, superior service and innovative solutions to a select group of customers, and to make a significant contribution to their success. We strive to create mutually profitable long term relatio... |
+| [`cktc.edu`](https://google.com/search?q=cktc.edu) | 11/03/2023 | CKTC was one of the first technology centers in the state. Contractors completed construction on building 100 in September 1968, and Caddo Kiowa Technology Center opened its doors to the public for the first time that year. CKTC offered 11 programs t... |
+| [`omegaservicos.com.br`](https://google.com/search?q=omegaservicos.com.br) | 11/03/2023 | The Omega Group develops customized solutions for your business |
+| [`inphenix.com`](https://google.com/search?q=inphenix.com) | 11/03/2023 | Inphenix designs and manufactures lasers and light sources that are critical in state of the art applications in the medical, telecom, sensing and measurement industries. |
+| [`cqservice.sk`](https://google.com/search?q=cqservice.sk) | 11/03/2023 | Spoločnosť CQ service, spol. s r.o. pôsobí na trhu informačných technológií už od roku 1992. Po úvodných rokoch dodávok výpočtovej techniky sa začala orientovať aj na poskytovanie služieb spojených s výpočtovou technikou. |
+| [`brandywine-homes.com`](https://google.com/search?q=brandywine-homes.com) | 11/03/2023 | Brandywine Homes is the builder of choice throughout Southern California, creating extraordinary homes built to last today and for generations to come. |
+| [`meinet.com`](https://google.com/search?q=meinet.com) | 11/03/2023 | ManagementExcellence, Inc. (MEI) has a solid track record in providing management services to membership organizations, bringing a unique set of skills and expertise to the table. We work in conjunction with several strategic partners who have specif... |
+| [`lubrimetal.com`](https://google.com/search?q=lubrimetal.com) | 11/03/2023 | Lubrimetal is a chemical company specializing in the production of lubricants and other chemicals for wire drawing and metal surface treatment. |
 | [`eprinsa.es`](https://google.com/search?q=eprinsa.es) | 10/03/2023 | Eprinsa is a public company created by the Diputación de Córdoba with the aim of providing comprehensive computer assistance, staff training and cartographic production. |
 | [`kisp.com`](https://google.com/search?q=kisp.com) | 10/03/2023 | KiSP creates, develops and provides client-facing solutions to manufacturers, dealers, interior designers and customers in the office furniture industry. Founded in 1993, KiSP is headquartered in Toronto, Canada, with additional offices in Costa... |
 | [`wunan.org.au`](https://google.com/search?q=wunan.org.au) | 10/03/2023 | Wunan is an Aboriginal development organisation in the East Kimberley region of Western Australia. Wunan operates with a clear purpose and strategy to drive long-term socio- economic change for Aboriginal people by providing real opportunities, inves... |
@@ -629,4 +638,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 11/03/2023 09.06 (UTC)_
+Last update : _Saturday 11/03/2023 11.01 (UTC)_

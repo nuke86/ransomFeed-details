@@ -5,6 +5,15 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-11 | [`greggardnergm.com`](https://google.com/search?q=greggardnergm.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`favoritefoods.com`](https://google.com/search?q=favoritefoods.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`cktc.edu`](https://google.com/search?q=cktc.edu) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`omegaservicos.com.br`](https://google.com/search?q=omegaservicos.com.br) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`inphenix.com`](https://google.com/search?q=inphenix.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`cqservice.sk`](https://google.com/search?q=cqservice.sk) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`brandywine-homes.com`](https://google.com/search?q=brandywine-homes.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`meinet.com`](https://google.com/search?q=meinet.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`lubrimetal.com`](https://google.com/search?q=lubrimetal.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-11 | [`Berkeley County Schools`](https://google.com/search?q=Berkeley+County+Schools) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-03-11 | [`Delaware Life Insurance Company`](https://google.com/search?q=Delaware+Life+Insurance+Company) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-03-10 | [`Real Pro`](https://google.com/search?q=Real+Pro) | [play](profiles.md?id=play) |
@@ -196,14 +205,5 @@
 | 2023-02-18 | [`piercetransit.org`](https://google.com/search?q=piercetransit.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`AP Emissions Technologies`](https://google.com/search?q=AP+Emissions+Technologies) | [medusa](profiles.md?id=medusa) |
 | 2023-02-18 | [`myerspower.com`](https://google.com/search?q=myerspower.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-18 | [`vissan.com.vn`](https://google.com/search?q=vissan.com.vn) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-18 | [`newbridge.org`](https://google.com/search?q=newbridge.org) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-18 | [`vitrox.com`](https://google.com/search?q=vitrox.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-18 | [`royallepage.ca`](https://google.com/search?q=royallepage.ca) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-18 | [`cordfinancial.com`](https://google.com/search?q=cordfinancial.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-18 | [`fikes.com`](https://google.com/search?q=fikes.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-18 | [`alliedtools.com`](https://google.com/search?q=alliedtools.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-18 | [`hotdesk.me`](https://google.com/search?q=hotdesk.me) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-18 | [`innophaseinc.com`](https://google.com/search?q=innophaseinc.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Saturday 11/03/2023 09.06 (UTC)_
+Last update : _Saturday 11/03/2023 11.01 (UTC)_
