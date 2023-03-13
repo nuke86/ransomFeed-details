@@ -60,7 +60,7 @@ def plot_posts_by_group_past_7_days():
     '''
     posts = openjson('posts.json') 
     seven_days_ago = datetime.datetime.now() - datetime.timedelta(days=7)
-    posts = [post for post in posts if post['discovered'] >= seven_days_ago.strftime('%Y-%m-%d')]
+    posts = [post for post in posts if post['published'] >= seven_days_ago.strftime('%Y-%m-%d')]
     group_counts = gcount(posts)
     group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
     group_counts = [x for x in group_counts if x[0] != 'clop']
@@ -308,7 +308,7 @@ def trend_posts_per_day_month(year,month=0):
     # remove '2021-09-09' - generic date of import along w/ anything before 2021-08
     if month == 0:
         date_debut=str(year)+'01-01' 
-        dete_fin=str(year)+'12-31'
+        date_fin=str(year)+'12-31'
     elif month < 10:
         date_debut=str(year)+'-0'+str(month)+'-01' 
         date_fin=str(year)+'-0'+str(month)+'-'+str(last_day_of_month(month,year))

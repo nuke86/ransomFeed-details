@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import os
+import os, hashlib
 import re
 import time
 import urllib.parse
@@ -231,7 +231,7 @@ def recentposts(top):
     stdlog('finding recent posts')
     posts = openjson('posts.json')
     # sort the posts by timestamp - descending
-    sorted_posts = sorted(posts, key=lambda x: x['discovered'], reverse=True)
+    sorted_posts = sorted(posts, key=lambda x: x['published'], reverse=True)
     # create a list of the last X posts
     recentposts = []
     for post in sorted_posts:
@@ -254,17 +254,28 @@ def recentpage():
     writeline(recentpage,'')
     writeline(recentpage, '**📰 200 last posts**')
     writeline(recentpage, '')
-    writeline(recentpage, '| Date | Title | Group |')
-    writeline(recentpage, '|---|---|---|')
+    writeline(recentpage, '| Date | Title | Group | 📸 |')
+    writeline(recentpage, '|---|---|---|---|')
     for post in recentposts(fetching_count):
         # show friendly date for discovered
-        date = post['discovered'].split(' ')[0]
+        date = post['published'].split(' ')[0]
         # replace markdown tampering characters
         title = post['post_title'].replace('|', '-')
         group = post['group_name'].replace('|', '-')
         urlencodedtitle = urllib.parse.quote_plus(title)
         grouplink = '[' + group + '](profiles.md?id=' + group + ')'
-        line = '| ' + date + ' | [`' + title + '`](https://google.com/search?q=' + urlencodedtitle + ') | ' + grouplink + ' |'
+        # screenpost='❌'
+        screenpost=' '
+        if post['post_url'] is not None: 
+            # Create an MD5 hash object
+            hash_object = hashlib.md5()
+            # Update the hash object with the string
+            hash_object.update(post['post_url'].encode('utf-8'))
+            # Get the hexadecimal representation of the hash
+            hex_digest = hash_object.hexdigest()
+            if os.path.exists('docs/screenshots/posts/'+hex_digest+'.png'):
+                screenpost='<a href="https://www.ransomware.live/screenshots/posts/' + hex_digest + '.png" target=_blank>👀</a>'
+        line = '| ' + date + ' | [`' + title + '`](https://google.com/search?q=' + urlencodedtitle + ') | ' + grouplink + ' | ' + screenpost + ' |'
         writeline(recentpage, line)
     writeline(recentpage, '')
     writeline(recentpage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
@@ -294,7 +305,7 @@ def allposts():
     sorted_posts = sorted(posts, key=lambda x: x['discovered'], reverse=True)
     for post in sorted_posts:
     # show friendly date for discovered
-        date = post['discovered'].split(' ')[0]
+        date = post['published'].split(' ')[0]
         # replace markdown tampering characters
         title = post['post_title'].replace('|', '-')
         group = post['group_name'].replace('|', '-')
@@ -401,10 +412,10 @@ def profilepage():
         writeline(profilepage, '> ' + grouppostcount(group['name']))
         writeline(profilepage, '')
         if grouppostavailable(group['name']):
-            writeline(profilepage, '| post | date | Description')
-            writeline(profilepage, '|---|---|---|')
+            writeline(profilepage, '| post | date | Description | Screenshot | ')
+            writeline(profilepage, '|---|---|---|---|')
             posts = openjson('posts.json')
-            sorted_posts = sorted(posts, key=lambda x: x['discovered'], reverse=True)
+            sorted_posts = sorted(posts, key=lambda x: x['published'], reverse=True)
             for post in sorted_posts:
                 if post['group_name'] == group['name']:
                     try:
@@ -426,10 +437,25 @@ def profilepage():
                     except: 
                         urlencodedtitle = urllib.parse.quote_plus(post['post_title'])
                         postURL = '[`' + post['post_title'].replace('|', '') + '`](https://google.com/search?q=' + urlencodedtitle  + ')'
-                    date = post['discovered'].split(' ')[0]
+                    date = post['published'].split(' ')[0]
+                    try:
+                        datetime.datetime.strptime(date, '%Y-%m-%d')
+                    except ValueError:
+                        date = post['discovered'].split(' ')[0]
                     date = date.split('-')
                     date = date[2] + '/' + date[1] + '/' + date[0]
-                    line = '| ' + postURL + ' | ' + date + ' | ' + description + ' |'
+                    # screenpost='❌'
+                    screenpost=' '
+                    if post['post_url'] is not None: 
+                        # Create an MD5 hash object
+                        hash_object = hashlib.md5()
+                        # Update the hash object with the string
+                        hash_object.update(post['post_url'].encode('utf-8'))
+                        # Get the hexadecimal representation of the hash
+                        hex_digest = hash_object.hexdigest()
+                        if os.path.exists('docs/screenshots/posts/'+hex_digest+'.png'):
+                            screenpost='<a href="https://www.ransomware.live/screenshots/posts/' + hex_digest + '.png" target=_blank>📸</a>'
+                    line = '| ' + postURL + ' | ' + date + ' | ' + description + ' | ' + screenpost + ' |'
                     writeline(profilepage, line)
         writeline(profilepage, '')
         #writeline(profilepage, '')
@@ -598,7 +624,7 @@ def profile():
             writeline(profilepage, '| post | date | Description')
             writeline(profilepage, '|---|---|---|')
             posts = openjson('posts.json')
-            sorted_posts = sorted(posts, key=lambda x: x['discovered'], reverse=True)
+            sorted_posts = sorted(posts, key=lambda x: x['published'], reverse=True)
             for post in sorted_posts:
                 if post['group_name'] == group['name']:
                     try:
@@ -620,7 +646,7 @@ def profile():
                     except: 
                         urlencodedtitle = urllib.parse.quote_plus(post['post_title'])
                         postURL = '[`' + post['post_title'].replace('|', '') + '`](https://google.com/search?q=' + urlencodedtitle  + ')'
-                    date = post['discovered'].split(' ')[0]
+                    date = post['published'].split(' ')[0]
                     date = date.split('-')
                     date = date[2] + '/' + date[1] + '/' + date[0]
                     line = '| ' + postURL + ' | ' + date + ' | ' + description + ' |'

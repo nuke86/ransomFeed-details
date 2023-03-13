@@ -41,7 +41,7 @@ for i in reversed(range(len(data)-50, len(data))):
   item_guid = SubElement(rss_item, 'guid')
   item_guid.text = 'https://www.ransomware.live/#/profiles/' + str(item['group_name']) + '?' +  str(uuid.uuid1(1234567890))
   
-  date_iso = item['discovered']
+  date_iso = item['published']
   date_rfc822 = datetime.strptime(date_iso, '%Y-%m-%d %H:%M:%S.%f').strftime('%a, %d %b %Y %H:%M:%S +0000')
   
   item_pubdate = SubElement(rss_item, 'pubDate')
