@@ -10,8 +10,8 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Black Basta Blog | 🔴 | 18/12/2022 22:23 | `http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion` | <a href="https://www.ransomware.live/screenshots/stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd-onion.png" target=_blank>📸</a> | 
-| Chat Black Basta | 🟢 | 13/03/2023 12:50 | `http://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion` | <a href="https://www.ransomware.live/screenshots/aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd-onion.png" target=_blank>📸</a> | 
-| Chat Black Basta | 🔴 | 13/03/2023 10:31 | `http://bastad5huzwkepdixedg2gekg7jk22ato24zyllp6lnjx7wdtyctgvyd.onion` | ❌ | 
+| Chat Black Basta | 🟢 | 13/03/2023 14:27 | `http://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion` | <a href="https://www.ransomware.live/screenshots/aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd-onion.png" target=_blank>📸</a> | 
+| Chat Black Basta | 🟢 | 13/03/2023 14:27 | `http://bastad5huzwkepdixedg2gekg7jk22ato24zyllp6lnjx7wdtyctgvyd.onion` | ❌ | 
 
 ### Posts
 
@@ -180,4 +180,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Monday 13/03/2023 13.32 (UTC)_
+Last update : _Monday 13/03/2023 15.06 (UTC)_
