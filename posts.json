@@ -28759,5 +28759,21 @@
         "description": "European organization that delivers financial consulting services.",
         "website": "",
         "published": ""
+    },
+    {
+        "post_title": "plasticproductsco.com",
+        "group_name": "lockbit3",
+        "discovered": "2023-03-13 19:07:16.103243",
+        "description": "Founded in 1962, Plastic Products is a company that specializes in providing plastic, metal, and ceramic injection molding services.",
+        "website": "",
+        "published": ""
+    },
+    {
+        "post_title": "Royal Dirkzwager",
+        "group_name": "play",
+        "discovered": "2023-03-13 19:08:08.329243",
+        "description": "Netherlands",
+        "website": "www.dirkzwager.com",
+        "published": ""
     }
 ]
