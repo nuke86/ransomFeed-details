@@ -8,14 +8,15 @@ _Parser : `Not available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Medusa Blog | 🟢 | 13/03/2023 02:13 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
+| Medusa Blog | 🟢 | 13/03/2023 04:54 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 24 posts found
+> 25 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Bishop Luffa School`](https://google.com/search?q=Bishop+Luffa+School) | 13/03/2023 | Bishop Luffa School, named after a former Bishop of Chichester, Ralph de Luffa, is a co-educational Church of England secondary school located in Chichester, West Sussex, England. On December 1, 2013, the school successfully received the status of an academy. At the moment, 1517 students aged 11 to 18 are studying. |
 | [`Garbarino SAICeI`](https://google.com/search?q=Garbarino+SAICeI) | 09/03/2023 | Garbarino, headquartered in Argentina, founded in 1951, is a retail company offering a wide range of products, including technology, appliances, furniture, sportswear, tools. Garbarino offers the most prestigious brands with over 5000 items. |
 | [`National Business Furniture`](https://google.com/search?q=National+Business+Furniture) | 09/03/2023 | National Business Furniture (NBF), founded in 1975, is an office furniture manufacturer headquartered in Milwaukee, Wisconsin. The company has additional offices in New York, Chicago, Los Angeles, Atlanta, Dallas, Phoenix and Seattle. In 2006, NBF was acquired by TAKKT AG, a leading direct marketing specialist for B2B business equipment in Europe and North America. |
 | [`Minneapolis Public Schools`](https://google.com/search?q=Minneapolis+Public+Schools) | 07/03/2023 | Minneapolis Public Schools (MPS) or Special School District Number 1 is a public school district serving students in pre-kindergarten through twelfth grade from Minneapolis, Minnesota. Minneapolis Public Schools enrolls 36,370 students in public primary and secondary schools. The district administers about one hundred public schools including forty-five elementary schools, seven middle schools, seven high schools, eight special education schools, eight alternative schools, nineteen contract alternative schools, and five charter schools. With authority granted by the state legislature, the school board makes policy, selects the superintendent, and oversees the district's budget, curriculum, personnel, and facilities. Students speak ninety different languages at home and most school communications are printed in English, Hmong, Spanish, and Somali. |
@@ -48,4 +49,4 @@ AP® Emissions Technologies is one of the leading manufacturers and suppliers of
  --- 
 
 
-Last update : _Monday 13/03/2023 02.28 (UTC)_
+Last update : _Monday 13/03/2023 05.10 (UTC)_
