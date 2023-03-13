@@ -4,7 +4,7 @@
 parses the source html for each group where a parser exists & contributed to the post dictionary
 always remember..... https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
 '''
-import os
+import os, hashlib
 import json,re, html, time, requests, random
 from sys import platform
 from datetime import datetime
@@ -29,7 +29,7 @@ else:
     fancygrep = 'grep -oP'
 
 
-def posttemplate(victim, group_name, timestamp,description,website,published):
+def posttemplate(victim, group_name, timestamp,description,website,published,post_url):
     '''
     assuming we have a new post - form the template we will use for the new entry in posts.json
     '''
@@ -39,17 +39,20 @@ def posttemplate(victim, group_name, timestamp,description,website,published):
         'discovered': timestamp,
         'description': description,
         'website': website,
-        'published' : published
+        'published' : published,
+        'post_url' : post_url
     }
     dbglog(schema)
     return schema
 
-def screenshot(webpage,fqdn,delay=15000):
+def screenshot(webpage,fqdn,delay=15000,output=None):
     stdlog('webshot: {}'.format(webpage))
-    name = 'docs/screenshots/' + fqdn.replace('.', '-') + '.png'
+    if output is not None:
+        name = 'docs/screenshots/posts/' + output + '.png'
+    else: 
+        name = 'docs/screenshots/' + fqdn.replace('.', '-') + '.png'
     try:
-        if os.path.getmtime(name) < (time.time() - 2700):
-            with sync_playwright() as play:
+        with sync_playwright() as play:
                 try:
                     browser = play.chromium.launch(proxy={"server": "socks5://127.0.0.1:9050"},
                         args=[''])
@@ -67,7 +70,7 @@ def screenshot(webpage,fqdn,delay=15000):
                     page.screenshot(path=name, full_page=True)
                     image = Image.open(name)
                     draw = ImageDraw.Draw(image)
-                    draw.text((10, 10), "DRM - www.ransomfeed.it", fill=(0, 0, 0))
+                    draw.text((10, 10), "https://www.ransomware.live", fill=(0, 0, 0))
                     image.save(name)
                 except PlaywrightTimeoutError:
                     stdlog('Timeout!')
@@ -75,8 +78,7 @@ def screenshot(webpage,fqdn,delay=15000):
                     errlog(exception)
                     errlog("error")
                 browser.close()
-        else: 
-            stdlog('webshot already done : {}'.format(webpage))
+
     except:
              stdlog('Impossible to webshot {}'.format(webpage))
 
@@ -124,7 +126,7 @@ def gettitlefromURL(website_url):
         description = ""
     return description
 
-def appender(post_title, group_name, description="", website="", published=""):
+def appender(post_title, group_name, description="", website="", published="", post_url=""):
     '''
     append a new post to posts.json
     '''
@@ -146,7 +148,13 @@ def appender(post_title, group_name, description="", website="", published=""):
         posts = openjson('posts.json')
         if description == "_URL_":
             description = gettitlefromURL(post_title)
-        newpost = posttemplate(post_title, group_name, str(datetime.today()),description,website,published)
+            print(post_title)
+            # if not post_title.lower.startswith("www"):
+            website =  "www." + post_title
+            website = "https://" + website
+        if published == "":
+            published = str(datetime.today())
+        newpost = posttemplate(post_title, group_name, str(datetime.today()),description,website,published,post_url)
         stdlog('adding new post - ' + 'group:' + group_name + ' title:' + post_title)
         posts.append(newpost)
         with open('posts.json', 'w', encoding='utf-8') as outfile:
@@ -186,7 +194,14 @@ def appender(post_title, group_name, description="", website="", published=""):
             conn.getresponse()
         except: 
             errlog('impossible to push notification')
-        ### Screenshot 
+        ### Post screenshot
+        if post_url !="":
+            hash_object = hashlib.md5()
+            hash_object.update(post_url.encode('utf-8'))
+            hex_digest = hash_object.hexdigest()
+            stdlog(' --> ' + hex_digest)
+            screenshot(post_url,None,15000,hex_digest)
+        ### Screenshot git 
         groups = openjson('groups.json')
         for group in groups:
             if group["name"] == group_name:
