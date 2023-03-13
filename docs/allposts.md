@@ -1,6 +1,6 @@
 
 
-_All `5366` posts_
+_All `5368` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,8 @@ _All `5366` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-13 | [`hendrickcorp.com`](https://google.com/search?q=hendrickcorp.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-13 | [`maximumind.com`](https://google.com/search?q=maximumind.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-13 | [`Royal Dirkzwager`](https://google.com/search?q=Royal+Dirkzwager) | [play](profiles.md?id=play) |
 | 2023-03-13 | [`plasticproductsco.com`](https://google.com/search?q=plasticproductsco.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-13 | [`S********* *****`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
@@ -5376,4 +5378,4 @@ _All `5366` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 13/03/2023 19.08 (UTC)_
+Last update : _Monday 13/03/2023 21.09 (UTC)_

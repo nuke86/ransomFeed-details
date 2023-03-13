@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-13 | [`hendrickcorp.com`](https://google.com/search?q=hendrickcorp.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-13 | [`maximumind.com`](https://google.com/search?q=maximumind.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-13 | [`Royal Dirkzwager`](https://google.com/search?q=Royal+Dirkzwager) | [play](profiles.md?id=play) |
 | 2023-03-13 | [`plasticproductsco.com`](https://google.com/search?q=plasticproductsco.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-13 | [`S********* *****`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
@@ -203,7 +205,5 @@
 | 2023-02-18 | [`Cansew`](https://google.com/search?q=Cansew) | [alphv](profiles.md?id=alphv) |
 | 2023-02-18 | [`Wawasee Community School Corporation`](https://google.com/search?q=Wawasee+Community+School+Corporation) | [alphv](profiles.md?id=alphv) |
 | 2023-02-18 | [`SINGLESOURCE`](https://google.com/search?q=SINGLESOURCE) | [alphv](profiles.md?id=alphv) |
-| 2023-02-18 | [`championfp.com`](https://google.com/search?q=championfp.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-18 | [`sandycove.org`](https://google.com/search?q=sandycove.org) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Monday 13/03/2023 19.08 (UTC)_
+Last update : _Monday 13/03/2023 21.09 (UTC)_
